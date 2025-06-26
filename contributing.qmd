@@ -87,7 +87,7 @@ The following uses the Gitflow method as the workflow.
 * Make your changes.
 * Commit your changes. See the [Git Commit Messages] styleguide below.
 * Push your changes to the remote Github repository.
-* Go to Github and create a 'pull request' e.g., by running `usethis::pr_push()`, and following the prompts in your browser. The title of your PR should briefly describe the change.See the [Pull Requests Messages] section below.
+* Go to Github and create a 'pull request' e.g., by running `usethis::pr_push()`, and following the prompts in your browser. The title of your PR should briefly describe the change. See the [Pull Requests Messages] section below.
 * Assign a reviewer.    
   
 ## Styleguides
@@ -110,6 +110,8 @@ In the message, please include the following headers:
 * Usage
   * Examples and/or how others might test the change
 * Assign a Reviewer - this will most likely be the Merge Master.  In the case of the Merge Master, this will be another appropriate contributor.
+
+see also: [Pull Requests](collaborate.qmd#pull-request)    
 
 ### Coding conventions
 Start reading our code and you'll get the hang of it. We optimize for readability.
@@ -172,6 +174,8 @@ Keeping a tidy project requires maintaining order amongst files.
   * **Merge Master/Code owner merges all pull requests! Please do not merge your own pull request.** If the Merge Master is pushing code, then the reviewer should be responsible for merging the pull request.
   * MergeMaster will delete the branch once the code has been merged.
   * **DONT FORGET TO PULL the new code** to your local instance to get latest code.
+  
+  see also: [How to Review a Pull Request](collaborate.qmd#how-to-review-a-pull-request)
 
  
 <!-- # Documentation -->

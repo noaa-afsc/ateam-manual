@@ -5,8 +5,6 @@ render: true
 ---
 # Collaboration & Code Review {#collaborate.qmd}
 
-## NOTE: These sections need to be updated based on meetings and discussions to develop an agreed upon method for collaboration.
-
 ## Git Manager Software
 Here are some apps (called "[clients](https://en.wikipedia.org/wiki/Client_(computing))") you can use to help you manage your Git interface (i.e., less command line, more point-and-click):    
 
@@ -77,6 +75,9 @@ Determining the ["Git Work Flow"](https://www.atlassian.com/git/tutorials/compar
 6. Push your changes (`$git push origin <your-branch-name>`)
 
 ## Code Review
+
+Please first review [Appendix J - Contributing](contributing.qmd), before initiating a pull request.
+
 ### Pull Request
 A pull request is a request by a collaborator for the repo owner to "pull" the new code into the main branch (or other branch) which will then reflect those changes on the remote repos when others pull that branch down.
 
@@ -111,6 +112,7 @@ The downsides include (see also^2^):
     a. What has been done    
     b. How to use the new code    
     c. What someone could do to test the code, e.g., do...    
+    see also: [Pull Request Messages](contributing.qmd#pull-requests-messages)
 7. Create the request    
 8. Add a reviewer - upper right hand corner. Will trigger an email.    
 9. Once reviewed, the pull request will be merged with the branch (typically main)
@@ -125,7 +127,9 @@ NOTE: You can add more commits to a single pull request, provided it has not bee
 5. Reviewer - Approve changes (upper right corner) and add approval comment    
 6. Reviewer - merge pull request    
 7. Originator -  delete the branch once the code has been merged. *Please do this so that our remote is clean!*    
-8. *DONT FORGET TO PULL* the new code to your local instance to get latest code.
+8. *DONT FORGET TO PULL* the new code to your local instance to get latest code.    
+
+see also [Reviewing Pull Requests](contributing.qmd#reviewing-pull-requests)
 
 ## Issues
 
