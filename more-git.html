@@ -301,6 +301,7 @@ ul.task-list li input[type="checkbox"] {
   <ul class="collapse">
   <li><a href="#to-update-already-existing-gh-pages" id="toc-to-update-already-existing-gh-pages" class="nav-link" data-scroll-target="#to-update-already-existing-gh-pages">To update already existing <code>gh-pages</code></a></li>
   </ul></li>
+  <li><a href="#incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository" id="toc-incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository" class="nav-link" data-scroll-target="#incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository">Incorporate an existing repository, tags, and history within a subfolder of a parent repository</a></li>
   </ul>
 <div class="toc-actions"><ul><li><a href="https://github.com/noaa-afsc/ateam-manual/edit/main/more-git.qmd" class="toc-action"><i class="bi bi-github"></i>Edit this page</a></li><li><a href="https://github.com/noaa-afsc/ateam-manual/issues/new" class="toc-action"><i class="bi empty"></i>Report an issue</a></li></ul></div></nav>
     </div>
@@ -412,8 +413,58 @@ iii <strong>Save</strong><br>
 </li>
 <li>Could take a few minutes to complete deployment, refresh browser to see site.</li>
 </ol>
+</section>
+</section>
+<section id="incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository" class="level2">
+<h2 class="anchored" data-anchor-id="incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository">Incorporate an existing repository, tags, and history within a subfolder of a parent repository</h2>
+<p>This is example code from Craig Faunce. The example code does it on a separate branch. In this example the parent is MAIN-REPORT and the subfolder is chapter-1, but the example below ‘chapter1’ is an alias used. I used this to include the Ann-Deployment chapter from github into my local version of the enterprise repository annual-report, and then push to enterprise cloud as a separate branch. The code below was used as a template.</p>
+<section id="clone-main-report-local" class="level4">
+<h4 class="anchored" data-anchor-id="clone-main-report-local">1. Clone MAIN-REPORT (LOCAL)</h4>
+<p><code>git clone git@github.your-enterprise.com:&lt;group&gt;/MAIN-REPORT.git</code><br>
+<code>cd MAIN-REPORT</code></p>
+<section id="add-chapter-1-as-a-new-remote-local" class="level5">
+<h5 class="anchored" data-anchor-id="add-chapter-1-as-a-new-remote-local">2. Add Chapter-1 as a new remote (LOCAL)</h5>
+<p>If Chapter-1 is also on Enterprise, change the URL accordingly.</p>
+<p><code>git remote add chapter1</code> <code>git@github.com:&lt;user&gt;/Chapter-1.git</code></p>
+</section>
+<section id="fetch-every-branch-and-every-tag-from-the-new-remote-local" class="level5">
+<h5 class="anchored" data-anchor-id="fetch-every-branch-and-every-tag-from-the-new-remote-local">3. Fetch every branch AND every tag from the new remote (LOCAL)</h5>
+<p><code>git fetch chapter1 --tags</code><br>
+- this took a while with Ch3!</p>
+</section>
+<section id="create-a-work-branch-to-stage-the-import-local" class="level5">
+<h5 class="anchored" data-anchor-id="create-a-work-branch-to-stage-the-import-local">4. Create a work branch to stage the import (LOCAL)</h5>
+<p><code>git checkout -b merge-chapter1</code><br>
+- the new branch is called ‘merge-chapter1’ here</p>
+</section>
+<section id="import-chapter-1-into-a-sub-folder-while-preserving-full-history-local" class="level5">
+<h5 class="anchored" data-anchor-id="import-chapter-1-into-a-sub-folder-while-preserving-full-history-local">5. Import Chapter-1 into a sub-folder while preserving full history (LOCAL)</h5>
+<p><code>git subtree add --prefix=Chapter-1 chapter1 main</code><br>
+- use ‘master’ if needed, as was the case for chapter 3.</p>
+</section>
+<section id="quick-sanity-check-local" class="level5">
+<h5 class="anchored" data-anchor-id="quick-sanity-check-local">6. Quick sanity check (LOCAL)</h5>
+<p><code>git log --oneline --graph --decorate --all | head</code><br>
+- should show all commits.</p>
+</section>
+<section id="push-the-work-branch-and-tags-to-enterprise-local" class="level5">
+<h5 class="anchored" data-anchor-id="push-the-work-branch-and-tags-to-enterprise-local">7. Push the work branch and tags to Enterprise (LOCAL)</h5>
+<p><code>git push origin merge-chapter1</code><br>
+<code>git push origin --tags</code> - optional but recommended</p>
+</section>
+<section id="open-a-pull-request-to-merge-merge-chapter1-into-main-reports-main-branch-gui" class="level5">
+<h5 class="anchored" data-anchor-id="open-a-pull-request-to-merge-merge-chapter1-into-main-reports-main-branch-gui">8. Open a Pull Request to merge ‘merge-chapter1’ into MAIN-REPORT’s main branch (GUI)</h5>
+<p>Review, approve, and merge as usual.</p>
+</section>
+<section id="house-cleaning-after-the-pr-is-merged-local" class="level5">
+<h5 class="anchored" data-anchor-id="house-cleaning-after-the-pr-is-merged-local">9. House-cleaning after the PR is merged (LOCAL)</h5>
+<p><code>git checkout main</code> - or ‘master’<br>
+<code>git pull origin main</code><br>
+<code>git branch -d merge-chapter1</code><br>
+<code>git remote remove chapter1</code> - optional cleanup</p>
 
 
+</section>
 </section>
 </section>
 

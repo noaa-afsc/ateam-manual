@@ -916,6 +916,17 @@
     ]
   },
   {
+    "objectID": "more-git.html#incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository",
+    "href": "more-git.html#incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository",
+    "title": "Appendix F — More Git",
+    "section": "Incorporate an existing repository, tags, and history within a subfolder of a parent repository",
+    "text": "Incorporate an existing repository, tags, and history within a subfolder of a parent repository\nThis is example code from Craig Faunce. The example code does it on a separate branch. In this example the parent is MAIN-REPORT and the subfolder is chapter-1, but the example below ‘chapter1’ is an alias used. I used this to include the Ann-Deployment chapter from github into my local version of the enterprise repository annual-report, and then push to enterprise cloud as a separate branch. The code below was used as a template.\n\n1. Clone MAIN-REPORT (LOCAL)\ngit clone git@github.your-enterprise.com:&lt;group&gt;/MAIN-REPORT.git\ncd MAIN-REPORT\n\n2. Add Chapter-1 as a new remote (LOCAL)\nIf Chapter-1 is also on Enterprise, change the URL accordingly.\ngit remote add chapter1 git@github.com:&lt;user&gt;/Chapter-1.git\n\n\n3. Fetch every branch AND every tag from the new remote (LOCAL)\ngit fetch chapter1 --tags\n- this took a while with Ch3!\n\n\n4. Create a work branch to stage the import (LOCAL)\ngit checkout -b merge-chapter1\n- the new branch is called ‘merge-chapter1’ here\n\n\n5. Import Chapter-1 into a sub-folder while preserving full history (LOCAL)\ngit subtree add --prefix=Chapter-1 chapter1 main\n- use ‘master’ if needed, as was the case for chapter 3.\n\n\n6. Quick sanity check (LOCAL)\ngit log --oneline --graph --decorate --all | head\n- should show all commits.\n\n\n7. Push the work branch and tags to Enterprise (LOCAL)\ngit push origin merge-chapter1\ngit push origin --tags - optional but recommended\n\n\n8. Open a Pull Request to merge ‘merge-chapter1’ into MAIN-REPORT’s main branch (GUI)\nReview, approve, and merge as usual.\n\n\n9. House-cleaning after the PR is merged (LOCAL)\ngit checkout main - or ‘master’\ngit pull origin main\ngit branch -d merge-chapter1\ngit remote remove chapter1 - optional cleanup",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Git Tips</span>"
+    ]
+  },
+  {
     "objectID": "jjphilosophy.html",
     "href": "jjphilosophy.html",
     "title": "Appendix G — Jason Jannot’s Leadership Philosophy",
