@@ -6,16 +6,13 @@ engine: knitr
 
 The FMA Analytical Services Program adheres to NOAA's mission of [Science, Service, and Stewardship](https://www.noaa.gov/our-mission-and-vision).
 
-Background on the history, science, and management of Alaska fisheries and the North Pacific Observer Program can be found in [Appendix A - Alaska Fisheries Background](fishery-background.qmd)
+The mission of the Analytical Services Program is to use fishery-dependent data collected by the North Pacific Observer Program, in conjunction with other data sources collected by various agencies, to create scientific products that inform fisheries management and science.
 
-In short, the mission of the Analytical Services Program is to use fishery-dependent data collected by the FMA, in conjunction with other data sources collected by various agencies, to create scientific products that inform fisheries management and science.
-<!-- Modify based on Program Launch additions to 02-the-big-picture.qmd#sec-big-picture -->
+The FMA Analytical Services Program was a team for many years prior to becoming a fully-fledged program in May 2023. Internally, we informally refer to ourselves as the A-Team.
 
 [The Big Picture](the-big-picture.qmd#sec-big_picture) describes our culture and philosophy in more detail.
 
-The FMA Analytical Services Program was a team for many years prior to becoming a fully-fledged program in May 2023. Internally, we informally refer to ourselves as the A-Team.
-<!-- We are motivated by... **INSERT MOTIVATIONAL REFERENCES**...: -->
-<!-- *\[To come: recommended reading list\]* -->
+Background on the history, science, and management of Alaska fisheries and the North Pacific Observer Program can be found in [Appendix A - Alaska Fisheries Background](fishery-background.qmd)
 
 ## Analytical Services Staff
  As of `r format(Sys.Date(), "%Y")`, the Analytical Services Program consists of
@@ -37,11 +34,10 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 :::{.column width="70%"}
  
  [**Jason Jannot, Program Manager**](https://www.fisheries.noaa.gov/contact/jason-e-jannot)    
+  Currently Acting FMA Deputy Director    
   Supervisory Research Fishery Biologist (NMFS)    
   AFSC, Seattle
   Building 4, Office 1060
-  
-  pronouns: he/him/his
   
   Jason was originally hired as an analyst with the FMA A-Team in February 2023 and became the PM in May 2023. Jason worked as a data analyst for the West Coast Groundfish and At-Sea Hake Observer Programs from 2010-2022 and for the International Pacific Halibut Commission from 2022-23.
   
@@ -241,7 +237,8 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
  
  **Phil Ganz, Data Analyst**    
  Fisheries Management Specialist (NMFS)    
- AKRO, Juneau
+ AKRO, Seattle
+ Building 4, Office 1057
 
 **Interests**
   
@@ -267,7 +264,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 
 :::{.column width="50%"}
  
- Cameron Van Horn was hired by PSMFC as a Data Analyst. Cameron's main contribution was to better understand data quality control measures, particularly data deletions, after observers return from sea.    
+ Cameron Van Horn was hired by PSMFC as a Data Analyst within FMA from 2023 to 2024. Cameron's main contribution was to better understand data quality control measures, particularly data deletions, after observers return from sea.    
  
 :::    
 
@@ -277,17 +274,15 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 
 *Other FMA staff offices*
 
-* 1059 - FMA Division Director - vacant
 * 1061 - [Lisa Thompson, Acting FMA  Director](https://www.fisheries.noaa.gov/contact/lisa-thompson)
 * 1062 - [Marlon Conception, Debriefing Program Manager](https://www.fisheries.noaa.gov/contact/marlon-concepcion)
 * 1063 - [Brian Mason, FMA Training Program Manager](https://www.fisheries.noaa.gov/contact/brian-mason)
 
-* AMMOP Program Manager, PSMFC (TBD)    
+* Anchorage Office - [Mike Vechter, EM Programs Coordinator](https://www.fisheries.noaa.gov/contact/mike-vechter)    
 
 **Collaborators**    
     * [Jason Gasper](https://www.fisheries.noaa.gov/contact/jason-gasper-phd) Alaska Regional Office (AKRO) Juneau    
-    * [Jennifer Mondragon](https://www.fisheries.noaa.gov/contact/jennifer-mondragon) Alaska Regional Office (AKRO) Juneau    
-    * Jacklyn Smith AKD Office of Law Enforcement
+    * Jacklyn Smith NOAA AKD Office of Law Enforcement (OLE), Anchorage
 
     
   
@@ -297,7 +292,7 @@ The FMA Analytical Services Program was a team for many years prior to becoming 
 ## How we meet
 
 ### A-Team Meetings {#ateam-meetings}
-#### semimonthly Wednesdays, 1400 PT, Google Meet
+#### semimonthly Tuesdays, 1100 PT, Google Meet
 Currently, as a whole team, we meet virtually by Google Meet every 2 weeks. We use Google Docs to set agendas, record decisions, and outline action items during these meetings.
 
 The [agenda](https://docs.google.com/document/d/1WvOqt77kHU4_72IQFUuYN3M9kF2xTi56QtwpRFHf6C4/edit#heading=h.32mfp9s1k5bh) is a single document -- this makes finding and referencing old agenda items easier.  At the end of each meeting, in prep for the next meeting, the table and agenda outline are copied to the top of the page, the date of the next meeting is added and any items or decisions that were covered and settled or meetings that have passed are removed to make space for the next meeting's items.  

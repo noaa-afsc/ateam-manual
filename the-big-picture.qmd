@@ -3,7 +3,8 @@
 ----
 ![](/_img/NOAA_Fisheries_image.png)
 
-NOAA Fisheries monitors the health and sustainability of fish, marine mammals, and their habitats across nearly 1.5 million square miles of water surrounding the state, which produces more than half of the fish caught in the United States, worth \$1.8 billion.
+NOAA Fisheries monitors the health and sustainability of fish, marine mammals, and their habitats across nearly 1.5 million square miles of water surrounding the state, which produces more than half of the fish caught in the United States, worth \$1.8 billion.    
+
 
 ----
 # Team Culture
