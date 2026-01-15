@@ -1,6 +1,9 @@
 # Publications by FMA Analytical Services {#sec-publications}![](_img/journalarticleicon.png){height=70}
 
 ## Peer-Reviewed Publications
+### 2026
+* Gredzens, C., A. Kingham, and J.E. Jannot. 2026. [Evaluating and advancing the use of shore-based observers for scientific sampling and catch verification in high-volume fisheries. Fisheries Management and Ecology 0:1-18](https://doi.org/10.1111/fme.70039)
+
 ### 2025
 
 * Gasper, J. and J. Cahalan. 2025. [Utilizing the random forest algorithm and interpretable machine learning to inform post-stratification of commercial fisheries data. Fisheries Research 281(107253)](https://doi.org/10.1016/j.fishres.2024.107253)
@@ -18,6 +21,13 @@
 ---
 
 ## Technical Memoranda and Other Reports
+### 2026
+* [2026 Annual Deployment Plan for Observers and Electronic Monitoring in the Groundfish and Halibut Fisheries off Alaska](https://www.fisheries.noaa.gov/s3/2026-01/Final_2026_ADP_akro.pdf)
+
+
+### 2025
+* [2025 Annual Deployment Plan for Observers and Electronic Monitoring in the Groundfish and Halibut Fisheries off Alaska](https://www.fisheries.noaa.gov/s3//2024-11/Final_2025_ADP.pdf)
+
 
 ### 2024
 * [2024 Annual Deployment Plan for Observers and Electronic Monitoring in the Groundfish and Halibut Fisheries off Alaska](https://www.fisheries.noaa.gov/s3//2023-11/Final-2024-ADP.pdf)
