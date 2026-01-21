@@ -26,6 +26,8 @@
 
 
 ### 2025
+* [A Summary of Post-Cruise Data Loss in the North Pacific Observer Program from 2014 to 2023](https://doi.org/10.25923/dger-h265)
+
 * [2025 Annual Deployment Plan for Observers and Electronic Monitoring in the Groundfish and Halibut Fisheries off Alaska](https://www.fisheries.noaa.gov/s3//2024-11/Final_2025_ADP.pdf)
 
 
