@@ -10,6 +10,7 @@
 ### 1. Project Goals and Deliverables
 ##### 1.1 Goals
 - The Annual Deployment Plan (ADP) describes how the National Marine Fisheries Service (NMFS) intends to assign at-sea and shoreside fishery observers and electronic monitoring (EM) to vessels and processing plants engaged in halibut and groundfish fishing operations in the North Pacific.
+
 ----
 
 ##### 1.2 Deliverables
@@ -19,6 +20,7 @@
 	- presentation of Draft Plan to NPFMC AP and Main Council, typically as a stand alone item under Agenda C.
 - Final Plan (December)
 	- report of Final ADP given to NPFMC AP and Main Council, typically as part of the NMFS B2 Report. Staff are present for questions but do not provide a formal presentation.
+
 ----
 
 ### 2. Scope Statement
@@ -31,6 +33,7 @@
 - The ADP follows the process envisioned by the Council and NFMS when the restructured observer program was developed and implemented. As a result, both the ADP development and the evaluation of data collected by observers and EM is an ongoing process.
 - NMFS is committed to working with the Council throughout the annual review and deployment cycle to identify improved analytical methods and ensure Council and public input is considered.
 - More details on the legal authority and purpose of the ADP are found in the Final Rule for Amendment 86 to the BSAI FMP and Amendment 76 to the GOA FMP (77 FR 70062, 21 November 2012). Further details on the integration of EM deployment into the ADP process are found in the final rule to integrate EM into the Observer Program (82 FR 36991). 
+
 ----
 
 ### 3. Team
@@ -51,12 +54,12 @@
 | List of Authors                                                                                 | List of Authors                                                                                                     | Jason Jannot                                                                          | Jason Jannot                                  | Jason Jannot                                                    | Jason Jannot                                                             |
 | Appendicies                                                                                     | Appendicies                                                                                                         | Various, changes from year to year                                                    | Authors                                       | Authors                                                         | Authors, Jason Jannot Lisa Thompson Alaska Regional Office\|AKRO |
 
-Project Management Outputs Review, Responsible, Accountable
 ----
 
 ##### 3.3 Stakeholders
 - NPFMC
 - AK Fishing Industry
+
 ----
 
 ### 4. Project Assumptions, Risks, Constraints 
@@ -70,11 +73,13 @@ Project Management Outputs Review, Responsible, Accountable
 ##### 4.2 Risks
 - Overspending our budget.
 - Not monitoring all of the trips (days) that are high-cost. Cost-efficiency only comes when we monitor all the high-cost days (ca. 1100-1300 days) because then the per-day cost drops.
+
 ----
 
 ##### 4.3 Constraints
 - Budget
 - Trade-off between shoreside EM monitoring and at-sea human observing
+
 ----
 
 ### 5. Key Dates
@@ -107,17 +112,15 @@ Project Management Outputs Review, Responsible, Accountable
 
 ----
 
-# Processes
-----
 # Report Outline
-*Executive Summary*
-*Introduction*
-*Partial Coverage Budget and Cost Assumptions*
-*Deployment Methods*
-*Communication and Outreach*
-*List of Preparers and Contributors*
-*References*
-*Appendices*
+*Executive Summary*    
+*Introduction*    
+*Partial Coverage Budget and Cost Assumptions*    
+*Deployment Methods*    
+*Communication and Outreach*    
+*List of Preparers and Contributors*    
+*References*    
+*Appendices*    
     - Appendix A: Council Motions on the ADP 
 
 ----
