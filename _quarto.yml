@@ -17,6 +17,10 @@ book:
     - text: Home
       href: index.qmd
     - intro.qmd
+    - publications.qmd
+    - part: "Projects"
+      chapters:
+        - annual-deployment-plan.qmd
     - the-big-picture.qmd
     - code-of-conduct.qmd
     - onboarding.qmd
@@ -25,7 +29,6 @@ book:
     - communication.qmd
     - collaborate.qmd
     - publicationprocess.qmd
-    - publications.qmd
     - travel.qmd
     - facilities.qmd
     - offboarding.qmd
