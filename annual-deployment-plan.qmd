@@ -84,9 +84,9 @@ Project Management Outputs Review, Responsible, Accountable
 | **Deadline**: Trawl CVs opt-in to Full Coverage                                                                                   |              |           |     |          |                |          |               | 15th October |         |         |
 | **Deadline**: Fixed-gear EM opt-in or opt-out                                                                                     |              |           |     |          |                |          |               |              | 1st Nov |         |
 ### 6. Budget
-- Currently accounted for the Activity Plan Prioritization (APP) - Annual Process|APP
-* Base operations funding (ORF) - salaries
-* Travel to North Pacific Fisheries Management Council|NPFMC June Meeting
+- Full coverage fisheries are "pay-as-you-go" system where vessels or plant operators contract directly with observer and EM providers to purchase monitoring services.  These fisheries have 100% monitoring.
+
+- The vessels fishing in the partial coverage fisheries with less than 100% monitoring pay a 1.6% landing fee (as of `r today`) on each delivery. This pays for both shoreside and at-sea monitoring using both human observers as well as EM. 
 
 ----
 # Processes
