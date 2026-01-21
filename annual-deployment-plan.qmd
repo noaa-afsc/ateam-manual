@@ -1,12 +1,6 @@
 # ADP
 ---
-### Products
-- [[2026_AnnualDeploymentPlan_Draft.pdf]] - report
-	- [[Draft 2026 ADP for NPFMC October 2025.pdf]] - presentation
-- [[2025_AnnualDeploymentPlan_Final.pdf]]
-- 
-- [[2024_AnnualDeploymentPlan_Draft_CostEfficienciesAnalysis.pdf]]
-- 
+# [Final Products](#sec-publications)
 ---
 
 # Project Plan
@@ -17,10 +11,10 @@
 ##### 1.2 Deliverables
 - 2 Reports: draft (October); final (December)
 - Draft Plan
-	- presentation of Draft Plan to [[Fishery Monitoring Advisory Committee and Partial Coverage Fishery Monitoring Advisory Committee|PCFMAC]]
-	- presentation of Draft Plan to [[North Pacific Fisheries Management Council|NPFMC]] AP and Main Council; typically stand alone item under Agenda C.
+	- presentation of Draft Plan to Fishery Monitoring Advisory Committee and Partial Coverage Fishery Monitoring Advisory Committee|PCFMAC
+	- presentation of Draft Plan to North Pacific Fisheries Management Council|NPFMC AP and Main Council; typically stand alone item under Agenda C.
 - Final Plan
-	- presentation of Draft Plan to [[North Pacific Fisheries Management Council|NPFMC]] AP and Main Council; typically as part of the B NMFS Report.
+	- presentation of Draft Plan to North Pacific Fisheries Management Council|NPFMC AP and Main Council; typically as part of the B NMFS Report.
 ### 2. Scope Statement
 - The ADP is developed under the authority of the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act) (16 U.S.C. 1862), the Fishery Management Plan for Groundfish of the Bering Sea and Aleutian Islands Management Area (BSAI FMP), the Fishery Management Plan for Groundfish of the Gulf of Alaska (GOA FMP), and the Northern Pacific Halibut Act of 1982. 
 - The ADP outlines the science-driven method for deployment of observers and EM systems to support statistically reliable data collection. The ADP is a core element in implementation of section 313 of the Magnuson-Stevens Act, which authorizes the North Pacific Fishery Management Council (Council) to prepare a fishery research plan in consultation with NMFS.
@@ -37,20 +31,20 @@
 
 | **Role**                                                                                        | **Description**                                                                                                     | **Team Member(s)**                                                                    | **Review**                                    | **Responsible**                                                 | **Accountable**                                                          |
 | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | --------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------------------ |
-| AFSC Lead                                                                                       | Provide Sponsorship, Project Management, and Leadership from AFSC                                                   | Jason Jannot, [[Lisa Thompson]]                                                       | --                                            | --                                                              | --                                                                       |
-| AKRO Lead                                                                                       | Provide Sponsorship, Project Management, and Leadership from AKRO                                                   | [[Jason Gasper]]                                                                      | --                                            | --                                                              | --                                                                       |
+| AFSC Lead                                                                                       | Provide Sponsorship, Project Management, and Leadership from AFSC                                                   | Jason Jannot, Lisa Thompson                                                       | --                                            | --                                                              | --                                                                       |
+| AKRO Lead                                                                                       | Provide Sponsorship, Project Management, and Leadership from AKRO                                                   | Jason Gasper                                                                      | --                                            | --                                                              | --                                                                       |
 | Executive Summary & Introduction Team                                                           | Produce Executive Summary & Introduction                                                                            | all                                                                                   | AFSC & AKRO Leads                             | AFSC & AKRO Leads                                               | AFSC & AKRO Leads                                                        |
-| Budget and Costs                                                                                | Generate budget, estimate costs                                                                                     | Jason Jannot, [[Lisa Thompson]], [[Geoff Mayhew]]; AKRO- Cathy Tide provides fee data | Budget & Costs Team                           | Budget & Costs Team                                             | Lisa & Jason J                                                           |
-| Deployment Methods                                                                              | Describe methods and develop annual selection rates                                                                 | [[Geoff Mayhew]], [[Christian Gredzens]], [[Phil Ganz]]                               | Deployment Methods & [[Craig Faunce]]         | Jason J & Geoff                                                 | Jason J                                                                  |
-| ODDS                                                                                            | Describe any significant changes or updates to ODDS                                                                 | [[Geoff Mayhew]], [[Craig Faunce]], [[Andy Kingham]]                                  | ODDS Team                                     | Craig                                                           | Jason J                                                                  |
-| Annual Coverage Category Requests, Halibut Deck Sorting, Freezer LL Voluntary Observer Coverage | Update these sections; add additional sections of regulatory changes that pertain to observers or observer coverage | [[Joel Kraski]], others?                                                              |                                               |                                                                 |                                                                          |
+| Budget and Costs                                                                                | Generate budget, estimate costs                                                                                     | Jason Jannot, Lisa Thompson, Geoff Mayhew; AKRO- Cathy Tide provides fee data | Budget & Costs Team                           | Budget & Costs Team                                             | Lisa & Jason J                                                           |
+| Deployment Methods                                                                              | Describe methods and develop annual selection rates                                                                 | Geoff Mayhew, Christian Gredzens, Phil Ganz                               | Deployment Methods & Craig Faunce         | Jason J & Geoff                                                 | Jason J                                                                  |
+| ODDS                                                                                            | Describe any significant changes or updates to ODDS                                                                 | Geoff Mayhew, Craig Faunce, Andy Kingham                                  | ODDS Team                                     | Craig                                                           | Jason J                                                                  |
+| Annual Coverage Category Requests, Halibut Deck Sorting, Freezer LL Voluntary Observer Coverage | Update these sections; add additional sections of regulatory changes that pertain to observers or observer coverage | Joel Kraski, others?                                                              |                                               |                                                                 |                                                                          |
 | EM Development Projects (ANY IN 2026??)                                                         | Provide updates or information related to any EM Projects                                                           | AFSC & AKRO                                                                           |                                               |                                                                 |                                                                          |
-| Communication & Outreach                                                                        | Provide information about upcoming outreach or communications and contact information for AFSC and AKRO             | AFSC & AKRO                                                                           | Jason Jannot [[Alaska Regional Office\|AKRO]] | Jason Jannot [[Lisa Thompson]] [[Alaska Regional Office\|AKRO]] | Jason Jannot [[Lisa Thompson]] [[Alaska Regional Office\|AKRO]]          |
+| Communication & Outreach                                                                        | Provide information about upcoming outreach or communications and contact information for AFSC and AKRO             | AFSC & AKRO                                                                           | Jason Jannot Alaska Regional Office\|AKRO | Jason Jannot Lisa Thompson Alaska Regional Office\|AKRO | Jason Jannot Lisa Thompson Alaska Regional Office\|AKRO          |
 | References                                                                                      | References                                                                                                          | AFSC & AKRO                                                                           | Jason Jannot                                  | Jason Jannot                                                    | Jason Jannot                                                             |
 | List of Authors                                                                                 | List of Authors                                                                                                     | Jason Jannot                                                                          | Jason Jannot                                  | Jason Jannot                                                    | Jason Jannot                                                             |
-| Appendicies                                                                                     | Appendicies                                                                                                         | Various, changes from year to year                                                    | Authors                                       | Authors                                                         | Authors, Jason Jannot [[Lisa Thompson]] [[Alaska Regional Office\|AKRO]] |
+| Appendicies                                                                                     | Appendicies                                                                                                         | Various, changes from year to year                                                    | Authors                                       | Authors                                                         | Authors, Jason Jannot Lisa Thompson Alaska Regional Office\|AKRO |
 
-[[Project Management Outputs Review, Responsible, Accountable]]
+Project Management Outputs Review, Responsible, Accountable
 
 ##### 3.3 Stakeholders
 - NPFMC
@@ -76,12 +70,12 @@
 | Teams working on sections                                                                                                         |              | X         | X   | X        |                |          |               |              |         |         |
 | Analysis complete                                                                                                                 |              |           |     | X        |                |          |               |              |         |         |
 | Draft Complete                                                                                                                    |              |           |     | X        | X              |          |               |              |         |         |
-| prepare [[Fishery Monitoring Advisory Committee and Partial Coverage Fishery Monitoring Advisory Committee\|PCFMAC]] Presentation |              |           |     |          | X              |          |               |              |         |         |
+| prepare Fishery Monitoring Advisory Committee and Partial Coverage Fishery Monitoring Advisory Committee\|PCFMAC Presentation |              |           |     |          | X              |          |               |              |         |         |
 | Preliminary NOIP report to Vechter                                                                                                |              |           |     |          | X              |          |               |              |         |         |
 | Draft due to PCFMAC                                                                                                               |              |           |     |          | X              |          |               |              |         |         |
 | Present to PCFMAC                                                                                                                 |              |           |     |          | X              |          |               |              |         |         |
 | Notify FG EM vessels of removal from pool                                                                                         |              |           |     |          |                | X        |               |              |         |         |
-| Prepare [[NPFMC Advisory Panel\|npfmcAP]], [[North Pacific Fisheries Management Council\|NPFMC]]Presentations                     |              |           |     |          |                | X        | X             |              |         |         |
+| Prepare NPFMC Advisory Panel\|npfmcAP, North Pacific Fisheries Management Council\|NPFMCPresentations                     |              |           |     |          |                | X        | X             |              |         |         |
 | Draft Report and Presentations due to NPFMC                                                                                       |              |           |     |          |                |          | X             |              |         |         |
 | Present to AP, NPFMC                                                                                                              |              |           |     |          |                |          |               | X            |         |         |
 | Incorporate NPFMC feedback into Final Report                                                                                      |              |           |     |          |                |          |               | X            | X       |         |
@@ -90,9 +84,9 @@
 | **Deadline**: Trawl CVs opt-in to Full Coverage                                                                                   |              |           |     |          |                |          |               | 15th October |         |         |
 | **Deadline**: Fixed-gear EM opt-in or opt-out                                                                                     |              |           |     |          |                |          |               |              | 1st Nov |         |
 ### 6. Budget
-- Currently accounted for the [[Activity Plan Prioritization (APP) - Annual Process|APP]]
+- Currently accounted for the Activity Plan Prioritization (APP) - Annual Process|APP
 * Base operations funding (ORF) - salaries
-* Travel to [[North Pacific Fisheries Management Council|NPFMC]] June Meeting
+* Travel to North Pacific Fisheries Management Council|NPFMC June Meeting
 
 ----
 # Processes
@@ -110,5 +104,4 @@
 ###### Appendix A: Council Motions on the ADP 
 
 ----
-# [Links to Final Products](#sec-publications)
 
