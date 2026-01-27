@@ -23,7 +23,12 @@ You should:
 
 **Telework Policy for NOAA FTEs - please note the following**
 
-The new DOC telework policy can be used now by non-bargaining unit employees. The union has bargaining rights for Impact and Implementation which is currently (`{r} today`) being negotiated.
+The new DOC telework policy is 52 hours of telework per leave year.
+Please fill out the forms in the [Telework](https://sites.google.com/noaa.gov/myafsc/administrative/time-and-attendance#:~:text=for%20timekeeping%20purposes.-,Telework,-AFSC%20Situational%20Telework) section of the AFSC Intranet page.
+
+Note that under this policy, you could be directed by management to complete your duties via telework during periods of work stoppage due to Weather & Safety. This does *not* count against your 52 hours and only applies if you are able to telework (i.e., power is out at AFSC, but power is on at your home/telework location). \small{If you do not have a telework agreement in place, then you would take Weather & Safety leave.}
+
+<!-- The new DOC telework policy can be used now by non-bargaining unit employees. The union has bargaining rights for Impact and Implementation which is currently (`{r} today`) being negotiated. -->
  
 <!--1. You are currently (`{r} today`) required to be in the office 2 days per pay period.    
 2. If you change your work hours within a given day by more than 1 hour, you must notify the Program Manger.    
