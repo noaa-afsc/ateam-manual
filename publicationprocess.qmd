@@ -43,88 +43,88 @@ The best resource is [Purchasing Open Access/Publication Page Fees](https://docs
 
 ## Using a Purchase Card to Pay for Publishing
 
-If your publication charges are < or = 3500 USD, then speak with the A-Team Program Manager about using a Purchase Card and reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.
+If your publication charges are < or = 3500 USD, then speak with the A-Team Program Manager about using a Purchase Card first. They might direct you to reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.
 
-## Using AFSC Acquisitions Field Delegate Purchase Card, a.k.a., Micro-Purchase Request (MPR)
+<!-- ## Using AFSC Acquisitions Field Delegate Purchase Card, a.k.a., Micro-Purchase Request (MPR) -->
 
-In some cases, you might be able to have one of the Field Delegates in AFSC Acquisitions use their purchase card. This is called a Micro-Purchase Request or MPR. **Please discuss with the A-Team Program Manger first and/or email AFSC Acquisitions (`afsc.acquisitions@noaa.gov`) to see if this is possible for your situation.
+<!-- In some cases, you might be able to have one of the Field Delegates in AFSC Acquisitions use their purchase card. This is called a Micro-Purchase Request or MPR. **Please discuss with the A-Team Program Manger first and/or email AFSC Acquisitions (`afsc.acquisitions@noaa.gov`) to see if this is possible for your situation. -->
 
-1. Confirm with A-Team Program Manager and/or AFSC Aquisitions that this is an viable option for journal publishing charges (e.g., an email to `afsc.acquisitions@noaa.gov`).    
-2. Obtain the following information from Acquisitions:    
-    a. name of the cardholer    
-    b. name of the funds certification offical (FCO)    
-    c. name of the approving official (AO)   
-    
-3. Fill out a request on the AFSC Intranet [MPR application](https://script.google.com/a/macros/noaa.gov/s/AKfycbwyQb1ihNYOtRbMNgAMCLUTvkdLrLp0qitLbr2TUlyGpDSx5iUwg9-CSmbx0vwIZ6tN/exec)    
+<!-- 1. Confirm with A-Team Program Manager and/or AFSC Aquisitions that this is an viable option for journal publishing charges (e.g., an email to `afsc.acquisitions@noaa.gov`).     -->
+<!-- 2. Obtain the following information from Acquisitions:     -->
+<!--     a. name of the cardholer     -->
+<!--     b. name of the funds certification offical (FCO)     -->
+<!--     c. name of the approving official (AO)    -->
 
-4. You will need to review the statements on the opening page of the MPR application. Note the following about each of these statements:    
-    1. The statement in the MPR about signing terms and conditions applies only to leases and rentals. For a journal publication, therefore this language won't be incorporated and thus, does not apply.    
-    2. This should only be used for official Government business.    
-    3. Statement #3 is about mandatory sources. We are required to review mandatory sources for all purchases. [AbilityOne](https://www.abilityone.gov/index.html) is the mandatory source for services. On the AbilityOne site, you will use the "Procurement List" drop down and click on "search services". Then write something in the "Service Type" text box, such as "Fisheries Research Publication" and results will display. For this search, there are no results. Just print to pdf the page and that is your support documentation.    
-    4. The fourth statement ensure that the purchase is of a reasonable price (we're not being gouged). This is completed through Market Research. Just like many of us perform market research at home (we look for the best deal on things we want to buy), we need to do the same thing when purchasing for the government. A few ways to complete this is to obtain quotes from a few vendors, check pricing against items sold on GSA Advantage and/or review past purchases to determine if the increased price (if applicable) is reasonable compared to inflation rates. For a publication purchase, price reasonableness gets tricky as there are really no comparisons and you cannot obtain quotes. Acquisitions suggests:    
-        a. Some of the Publishing companies provide downloadable pricing for their journals. Download the pricing sheet, find your journal and compare the basic pricing to some of the other journals.    
-        b. Compare pricing to previous publication costs, esp if you are using the same journal. You can simply state that the cost for your publication increased by <insert percentage> when compared to a previous publication cost from <insert year>.
+<!-- 3. Fill out a request on the AFSC Intranet [MPR application](https://script.google.com/a/macros/noaa.gov/s/AKfycbwyQb1ihNYOtRbMNgAMCLUTvkdLrLp0qitLbr2TUlyGpDSx5iUwg9-CSmbx0vwIZ6tN/exec)     -->
+
+<!-- 4. You will need to review the statements on the opening page of the MPR application. Note the following about each of these statements:     -->
+<!--     1. The statement in the MPR about signing terms and conditions applies only to leases and rentals. For a journal publication, therefore this language won't be incorporated and thus, does not apply.     -->
+<!--     2. This should only be used for official Government business.     -->
+<!--     3. Statement #3 is about mandatory sources. We are required to review mandatory sources for all purchases. [AbilityOne](https://www.abilityone.gov/index.html) is the mandatory source for services. On the AbilityOne site, you will use the "Procurement List" drop down and click on "search services". Then write something in the "Service Type" text box, such as "Fisheries Research Publication" and results will display. For this search, there are no results. Just print to pdf the page and that is your support documentation.     -->
+<!--     4. The fourth statement ensure that the purchase is of a reasonable price (we're not being gouged). This is completed through Market Research. Just like many of us perform market research at home (we look for the best deal on things we want to buy), we need to do the same thing when purchasing for the government. A few ways to complete this is to obtain quotes from a few vendors, check pricing against items sold on GSA Advantage and/or review past purchases to determine if the increased price (if applicable) is reasonable compared to inflation rates. For a publication purchase, price reasonableness gets tricky as there are really no comparisons and you cannot obtain quotes. Acquisitions suggests:     -->
+<!--         a. Some of the Publishing companies provide downloadable pricing for their journals. Download the pricing sheet, find your journal and compare the basic pricing to some of the other journals.     -->
+<!--         b. Compare pricing to previous publication costs, esp if you are using the same journal. You can simply state that the cost for your publication increased by <insert percentage> when compared to a previous publication cost from <insert year>. -->
 
 ## Using a Purchase Order to Pay for Publishing
 
-Use a Purchase Order (PO) for any costs >3500$ = maximum allowed for a purchase card charge. Please reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov` if you have questions.
+Use a Purchase Order (PO) for any costs >3500$ = maximum allowed for a purchase card charge. First, please speak with the A-Team Program Manager. They might direct you to reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.
 
-To submit a PO for publication charges:
+<!-- To submit a PO for publication charges: -->
 
-1. Publishing is a service and in most cases if you need to use a PO you will follow the guidelines for a *Service, >2,500 to 250,000 USD, Simplified Acquisition* as per the table on the [AFSC Intranet Acquisitions Procurement Table](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition#:~:text=acquisitions%40noaa.gov-,Procurement%20Table,-*%20Specific%20AFSC%20Purchase).
+<!-- 1. Publishing is a service and in most cases if you need to use a PO you will follow the guidelines for a *Service, >2,500 to 250,000 USD, Simplified Acquisition* as per the table on the [AFSC Intranet Acquisitions Procurement Table](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition#:~:text=acquisitions%40noaa.gov-,Procurement%20Table,-*%20Specific%20AFSC%20Purchase). -->
 
-The remainder of this guidance assumes the Simplified Acquisitions process.  If different, see the [AFSC Intranet Acquisitions page](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition).
+<!-- The remainder of this guidance assumes the Simplified Acquisitions process.  If different, see the [AFSC Intranet Acquisitions page](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition). -->
 
-2. Fill out the following forms. More detail on the forms are found below. The forms you need are:    
-    a. [Statement of Need/Work](https://docs.google.com/document/d/1XzYkUVyrFEs02QDO8Zc2RQc9nGSKLIARZnUcLFFoIg0/edit?tab=t.0#heading=h.3d0vs5m24hdd)    
-    b. [IGCE](https://docs.google.com/spreadsheets/d/1bbqGPShcjNeFhbq_aD8tXLihMvkB4Zz3/edit?gid=1152544175#gid=1152544175)    
-    c. [IT Security Checklist](https://drive.google.com/file/d/10660Y07dE5Ero1Nw-1qvcSujpUoIyg9c/edit)    
-    d. [Services Contract Form](https://drive.google.com/file/d/16XqlZ1owBqxSpukKsQf9OwjbNhjEJ8vq/view)    
-    e. [Sole Source Form](https://drive.google.com/file/d/1jQ3-l6Ka0Fkvv075CcfrhIIwLkvdGv3t/view)
-    f. [AFSC Acquisitions Purchase Order Intake](https://docs.google.com/forms/d/e/1FAIpQLSe1U8OoVXR8L2wxalDCD0YYrBz-af8fnZsIkjut4cu5D8HZEw/viewf)    
+<!-- 2. Fill out the following forms. More detail on the forms are found below. The forms you need are:     -->
+<!--     a. [Statement of Need/Work](https://docs.google.com/document/d/1XzYkUVyrFEs02QDO8Zc2RQc9nGSKLIARZnUcLFFoIg0/edit?tab=t.0#heading=h.3d0vs5m24hdd)     -->
+<!--     b. [IGCE](https://docs.google.com/spreadsheets/d/1bbqGPShcjNeFhbq_aD8tXLihMvkB4Zz3/edit?gid=1152544175#gid=1152544175)     -->
+<!--     c. [IT Security Checklist](https://drive.google.com/file/d/10660Y07dE5Ero1Nw-1qvcSujpUoIyg9c/edit)     -->
+<!--     d. [Services Contract Form](https://drive.google.com/file/d/16XqlZ1owBqxSpukKsQf9OwjbNhjEJ8vq/view)     -->
+<!--     e. [Sole Source Form](https://drive.google.com/file/d/1jQ3-l6Ka0Fkvv075CcfrhIIwLkvdGv3t/view) -->
+<!--     f. [AFSC Acquisitions Purchase Order Intake](https://docs.google.com/forms/d/e/1FAIpQLSe1U8OoVXR8L2wxalDCD0YYrBz-af8fnZsIkjut4cu5D8HZEw/viewf)     -->
 
- See the [Reference Guide](https://docs.google.com/document/d/1DqBYIpfb0NHYSbEzMdtyxJSGk4AU9vnd9L4gKkFLZ1E/edit?tab=t.0) for a list of standard forms.
- 
-3. You will also need to fill out and submit [form GPO 3868](https://www.gpo.gov/docs/default-source/forms-standards-pdf-files/3868.pdf?sfvrsn=2). Instructions are found under [Journal Article Waiver Requests *When is a journal article waiver needed?*](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts). **IMPORTANT NOTE despite the title, this form applies to all journal articles, not just those with a waiver!**   
+<!--  See the [Reference Guide](https://docs.google.com/document/d/1DqBYIpfb0NHYSbEzMdtyxJSGk4AU9vnd9L4gKkFLZ1E/edit?tab=t.0) for a list of standard forms. -->
 
-4. Once you have received an invoice from the publishing company, forward it to the cardholder or Field Delegate for payment processing. Work with the cardholder or Field Delegate if you anticipate that the publication will published, and therefore invoiced, during the next fiscal year.
+<!-- 3. You will also need to fill out and submit [form GPO 3868](https://www.gpo.gov/docs/default-source/forms-standards-pdf-files/3868.pdf?sfvrsn=2). Instructions are found under [Journal Article Waiver Requests *When is a journal article waiver needed?*](https://sites.google.com/noaa.gov/myafsc/communications/publications-and-rpts). **IMPORTANT NOTE despite the title, this form applies to all journal articles, not just those with a waiver!**    -->
+
+<!-- 4. Once you have received an invoice from the publishing company, forward it to the cardholder or Field Delegate for payment processing. Work with the cardholder or Field Delegate if you anticipate that the publication will published, and therefore invoiced, during the next fiscal year. -->
 
 
-### Forms
-Return the completed forms under #2 above (a-e) to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.  
-**Be sure to complete this step *AFTER* approval in RPTS but *BEFORE* submission to the journal itself.  Please note the timeline in your email to AFSC Acquisitions.**
+<!-- ### Forms -->
+<!-- Return the completed forms under #2 above (a-e) to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.   -->
+<!-- **Be sure to complete this step *AFTER* approval in RPTS but *BEFORE* submission to the journal itself.  Please note the timeline in your email to AFSC Acquisitions.** -->
 
-#### Statement of Need/Work
-1. Delete any unnecessary sections.    
-2. Delete any blue explanatory text.    
+<!-- #### Statement of Need/Work -->
+<!-- 1. Delete any unnecessary sections.     -->
+<!-- 2. Delete any blue explanatory text.     -->
 
-#### IGCE
-1. Fill out the top of the Summary tab.    
-2. Fill out the bottom section under "OTHER (Anything not covered above)" of the SERVICE IGCE tab.    
-3. Ignore the SUPPLY IGCE tab.    
+<!-- #### IGCE -->
+<!-- 1. Fill out the top of the Summary tab.     -->
+<!-- 2. Fill out the bottom section under "OTHER (Anything not covered above)" of the SERVICE IGCE tab.     -->
+<!-- 3. Ignore the SUPPLY IGCE tab.     -->
 
-#### IT Security Checklist
-1. Fill out the top portion and date.    
-2. Check "No" to all boxes.    
-3. Sign under "procurement COR".    
-4. Submit to `nmfs.afsc.helpdesk@noaa.gov` for review and signature. Include Statement of Need/Work (SON/SOW), IGCE and IT Security Checklist.
+<!-- #### IT Security Checklist -->
+<!-- 1. Fill out the top portion and date.     -->
+<!-- 2. Check "No" to all boxes.     -->
+<!-- 3. Sign under "procurement COR".     -->
+<!-- 4. Submit to `nmfs.afsc.helpdesk@noaa.gov` for review and signature. Include Statement of Need/Work (SON/SOW), IGCE and IT Security Checklist. -->
 
-#### AFSC Acquisitions Purchase Order Intake
-This form initiates the PO process with the AFSC Acquisitions Team.    
-1. *Procurement Type* = **Service**    
-2. *Are you using IRA funding* = **No**    
-3. *Are you including sole source justification* = **Yes**    
-4. *Have you submitted an IT Security Checklist to OFIS for ISSO Review* = **Yes**    
-5. *If IT-Related: Have you created a NOAALink Worksheet?* = **Not Applicable**    
-6. *If Construction, have you completed a CWIP Determination Memo?* = **Not Applicable**    
-7. *Name of Contracting Officer, if applicable* = **Not Applicable**    
+<!-- #### AFSC Acquisitions Purchase Order Intake -->
+<!-- This form initiates the PO process with the AFSC Acquisitions Team.     -->
+<!-- 1. *Procurement Type* = **Service**     -->
+<!-- 2. *Are you using IRA funding* = **No**     -->
+<!-- 3. *Are you including sole source justification* = **Yes**     -->
+<!-- 4. *Have you submitted an IT Security Checklist to OFIS for ISSO Review* = **Yes**     -->
+<!-- 5. *If IT-Related: Have you created a NOAALink Worksheet?* = **Not Applicable**     -->
+<!-- 6. *If Construction, have you completed a CWIP Determination Memo?* = **Not Applicable**     -->
+<!-- 7. *Name of Contracting Officer, if applicable* = **Not Applicable**     -->
 
-#### GPO 3868
-1. Fill out to the extent possible.    
-2. The form requires a cost estimate and a document upload.    
-3. Send to `intenttopublish@gpo.gov`
+<!-- #### GPO 3868 -->
+<!-- 1. Fill out to the extent possible.     -->
+<!-- 2. The form requires a cost estimate and a document upload.     -->
+<!-- 3. Send to `intenttopublish@gpo.gov` -->
 
-Here are some [Examples of POs](https://docs.google.com/document/d/1KA2czkPN3oFoXhVvGTtOBI82wJ7FZEKfUshh0CarK7M/edit?tab=t.0) for reference.
+<!-- Here are some [Examples of POs](https://docs.google.com/document/d/1KA2czkPN3oFoXhVvGTtOBI82wJ7FZEKfUshh0CarK7M/edit?tab=t.0) for reference. -->
   
 
 
