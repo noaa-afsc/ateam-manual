@@ -44,7 +44,10 @@ Duties and responsibilities of each role are described in the table below.
 
  Figure. Three of the ADP roles cycle on a semi-regular basis in the following manner: Technical Lead ==> Project Lead ==> Support Role ==> new Technical Lead...etc.
  
-[](_img/ADP_Roles_Cycle.png){height=70}
+![](_img/ADP_Roles_Cycle.png)
+<br>
+<br>
+
 
 Table. Description of ADP Roles.
 
@@ -59,9 +62,10 @@ Table. Description of ADP Roles.
 | Regulatory Leads     | * update and add regulatory changes that pertain to observers or observer coverage<br> * write, edit, and review regulatory section of documents                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | AKRO                                                                                          |
 | Communications Leads | * provide information about upcoming outreach or communications<br> * provide contact information for AFSC and AKRO<br> * write, edit, and review communications section of documents                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | AFSC & AKRO                                                                                   |
 
-
+<br>
+<br>
 Table. ADP chapter or section leads, reviewers, and accountable. Leads are responsible for ensure a draft of the chapter or section is written and edited on time. Reviewers review and edit the chapter or section, and accountable ensure deadlines and quality standards are met.
-
+<br>
 
 | **Chapter/Section**                          | **Team Member(s)**                                               | **Lead**                           | **Review**                         | **Accountable**                      |
 | -------------------------------------------- | ---------------------------------------------------------------- | ---------------------------------- | ---------------------------------- | ------------------------------------ |
