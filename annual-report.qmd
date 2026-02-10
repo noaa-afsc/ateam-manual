@@ -1,0 +1,112 @@
+# Annual Report
+
+---
+
+### Final Annual Processed Reports 
+
+2025 North Pacific Observer Program Annual Report (expected July 2026)    
+[2024 North Pacific Observer Program Annual Report](https://doi.org/10.25923/nnhn-jc60)    
+[2023 North Pacific Observer Program Annual Report](https://doi.org/10.25923/zbt1-v967)
+
+---
+
+# Project Plan
+
+### 1. Project Goals and Deliverables
+
+##### 1.1 Goal
+
+- The North Pacific Observer Program Annual Report (AR) provides an assessment the previous year's monitoring achievements and challenges of the North Pacific Observer Program.
+
+---
+
+##### 1.2 Deliverables
+- Written Report  - published as a NOAA Processed Report in the [NOAA Institutional Repository](https://repository.library.noaa.gov/)
+- Oral Presentations 
+	- May - presentation of the AR to the Fishery Monitoring Advisory Committee (FMAC)
+	- May - presentation of AR to NPFMC SSC, AP, and Main Council
+	* Final Report - published as a processed report
+
+---
+
+### 2. Scope Statement
+* This is an annual summary of  Fisheries Monitoring and Analysis Division|FMA  and  Alaska Regional Office  activities for the year prior.  This is a joint project between  Fisheries Monitoring and Analysis Division|FMA 's  Analytical Services Program , other members of  Fisheries Monitoring and Analysis Division|FMA ,  Alaska Regional Office  and  NOAA Office of Law Enforcement .
+* The Annual Report provides information, analysis, and recommendations based on the deployment of observers and Electronic Monitoring (EM) systems by the North Pacific Observer Program (Observer Program) in the halibut and groundfish fisheries off Alaska. Section 313 of the Magnuson-Stevens Act (16 U.S.C. 1862) authorizes the North Pacific Fishery Management Council (Council), in consultation with National Marine Fisheries Service (NMFS), to prepare a fishery research plan for the purpose of stationing observers and EM systems to collect data necessary for the conservation, management, and scientific understanding of the commercial groundfish and Pacific halibut fisheries of the Bering Sea and Aleutian Islands (BSAI) and Gulf of Alaska (GOA) management areas. Observers and EM systems collect fishery-dependent information used to estimate total catch and interactions with protected species. Managers use these data to manage groundfish and prohibited species catch within established limits and to document and reduce fishery interactions with protected resources. Scientists use fishery-dependent data to assess fish stocks, to provide scientific information for fisheries and ecosystem research and fishing fleet behavior, to assess marine mammal interactions with fishing gear, and to assess fishing interactions with habitat. 
+* The Observer Program is the nation’s largest observer program and covers vessels in both partial coverage and full coverage. In the full coverage component of the program, every trip is monitored by 1 or 2 observers and the vast majority of groundfish harvest is covered by this portion of the program. Each year, the Annual Deployment Plan (ADP) describes the science-driven method for deployment of observers and EM systems on vessels in the partial coverage component of the program (50 CFR 679.51(a)). The ADP specifies the scientific deployment design for the partial coverage fisheries and the selection rate—the portion of trips that are sampled by observers and EM. 
+* The following year, the agency provides an Annual Report with descriptive information and scientific evaluation of the deployment of observers and EM. The ADP and Annual Report process provides information to assess whether the objectives of the Observer Program have been met and a process to make recommendations to improve implementation of the program to further these objectives.
+
+---
+
+### 3. Team
+
+##### 3.1 Duties and responsibilities
+
+| Title/Role            | Duties and Responsibilities                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Member(s)                                                                                 |
+| ------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| AFSC & AKRO Leads         |  sponsorship, leadership, and oversight    - facilitate discussions with partners & stakeholders    - schedule meetings and coordinate group communication    - provide review (as needed), oversight, and accountability    - help solve conflicts & overcome challenges     - review, edit, and publish documents and presentations                                                                                                                                                                                                |  FMA Director    - FMA A-Team Program Manager    - AKRO SFD Leadership     |
+| Chapter Leads             |  provide SME     - identify and gather data and information needed for chapter    - Hold check-in meetings to ensure chapter team is on track as needed    - Track tasks and communicate priorities to chapter team     - help solve conflicts and overcome challenges    - elevate issues to AFSC & AKRO Leads as necessary    - lead writing, reviewing, editing, and publishing of documents    - provide alt-text for 508 compliance tables, equations, and figures    - help produce, review, & edit presentations     | Varies by Chapter                                                                             |
+| Support                   |  provide support and assistance as needed and directed by AFSC, AKRO, or Chapter Leads    - provide, data, tables, figures, legends, written text or summaries, or other information to ensure clear and complete chapter reporting    - help write, review, and edit and finalize  chapter for publication    - review and edit final document and presentations as needed                                                                                                                                                                | Varies by Chapter                                                                             |
+| Appendix Lead and Support |  conduct analysis and gather data and information    - provide data, tables, figures, and summaries as needed    - write, edit, and review text and written summaries                                                                                                                                                                                                                                                                                                                                                                         | Varies by Appendix                                                                            |
+| Review                    |  review, edit, and offer suggestions for improving text, tables, figures, and message    - reject, accept, or clarify other contributors comments and suggestions as needed and appropriate    - ensure organization and message are logical and clear                                                                                                                                                                                                                                                                                        | Varies by Chapter/Section                                                                     |
+| Cover                     |  collate, review, and approve front and back cover photos    - provide files and support to AFSC Comms to complete front and back covers    - review final front and back cover for quality, ensure on-time completion</li><ul>                                                                                                                                                                                                                                                                                                                     | FMA Analytical Services PM & Outreach Coordinator, AFSC Comms                                 |
+| 508 Compliance            |  ensure document meets 508 compliance    - distribute final document to NPFMC and associated committees and stakeholders<ul>                                                                                                                                                                                                                                                                                                                                                                                                                           | AKRO (508 compliance); AFSC Leads (distribute to NPFMC)                                       |
+| Processed Report          |  submit final document to RPTS    - respond to technical editor requests for edits and corrections    - ensure final document is reviewed and approved by all reviewers within RPTS    - ensure final document is published in NOAA Institutional Repository    - disseminate final processed report URL, as needed                                                                                                                                                                                                                     | FMA Analytical Services PM                                                                    |
+
+##### 3.2 Roles
+
+| Chapter/Section                            | Lead                           | Support                                                                    | Review                                      | Accountable                                                          |
+| ---------------------------------------------- | ---------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------- | ------------------------------------------------------------------------ |
+| AFSC Leads                                     |  Lisa Thompson           | Jason Jannot                                                                   | --                                              | --                                                                       |
+| AKRO Leads                                     |  Jason Gasper                    |                                                                                | --                                              | --                                                                       |
+| Executive Summary                              | AFSC & AKRO Leads                  | Chapter Leads                                                                  | AFSC & AKRO Leads                               | AFSC & AKRO Leads                                                        |
+| Chapter 1 Team - Introduction                  | Jason Jannot                       |  Joel Kraski                                                                 | Chapter 1 Team                                  | Chapter 1 Team                                                           |
+| Chapter 2 Team - Fees and Budget               |  Lisa Thompson                   |  Andy Kingham ,  Geoff Mayhew ,  Cathy Tide                              | Chapter 2 Team                                  | Chapter 2 Team, Jason Jannot                                             |
+| Chapter 3 Team - Deployment Performance Review |  Geoff Mayhew                    |  Christian Gredzens ,  Craig Faunce ,  Phil Ganz                         | Chapter 3 Team                                  |  Geoff Mayhew  Jason Jannot                                            |
+| Chapter 4 Team - Descriptive Information       | Jason Jannot  Joel Kraski        |  Lisa Thompson ,  Gwynne Schnaittacher ,  Mike Vechter ,  Joel Kraski  | Chapter 4 Team                                  | Jason Jannot Chapter 4 Team                                              |
+| Chapter 5 Team - Compliance and Enforcement    |  Jacklyn Smith                   |  Craig Faunce ,  Andy Kingham ,  Alex Perry                              | Chapter 5 Team                                  | Chapter 5 Team Jason Jannot                                              |
+| Chapter 6 - NMFS Recommendations               |  Lisa Thompson   Jason Gasper  | Jason Jannot                                                                   | Jason Jannot  Lisa Thompson   Jason Gasper  | Jason Jannot  Lisa Thompson   Jason Gasper                           |
+| Citations                                      | Jason Jannot                       |  Geoff Mayhew                                                                | Jason Jannot                                    | Jason Jannot                                                             |
+| List of Authors                                | Jason Jannot                       |  Alaska Regional Office                                                | Jason Jannot                                    | Jason Jannot                                                             |
+| Appendicies                                    | Authors                            | Authors                                                                        | Authors                                         | Authors, Jason Jannot  Lisa Thompson   Alaska Regional Office  |
+| Cover Team                                     | Jason Jannot                       |  Gwynne Schnaittacher , AFSC Comms                                           | Cover Team                                      | Cover Team                                                               |
+| 508 Compliance                                 |  Alaska Regional Office    |  Alaska Regional Office , Jason Jannot                                 |  Alaska Regional Office , Jason Jannot  |  Alaska Regional Office , Jason Jannot                           |
+| Processed Report                               | Jason Jannot                       |  Phil Ganz                                                                   | Jason Jannot                                    | Jason Jannot                                                             |
+---
+
+## 3.3 Stakeholders
+- Industry
+- NPFMC
+- the public
+
+---
+
+# 4. Key Dates
+
+
+| Task                                           | Feb | Mar | Apr | 1st week May | 2nd week May | 3rd week May | 4th week May | 1st week June | 2nd week June   |
+| -------------------------------------------------- | ------- | ------- | ------- | ---------------- | ---------------- | ---------------- | ---------------- | ----------------- | ------------------- |
+| Convene FMA-only Kick off meeting                  | X       |         |         |                  |                  |                  |                  |                   |                     |
+| Request EM Budget info from PSFMC                  | X       |         |         |                  |                  |                  |                  |                   |                     |
+| Convene FMA-AKRO Kick-off meeting                  |         | X       |         |                  |                  |                  |                  |                   |                     |
+| Bi-weekly Meetings                                 |         | X       | X       |                  |                  |                  |                  |                   |                     |
+| Chapter work                                       |         | X       | X       |                  |                  |                  |                  |                   |                     |
+| Draft Complete                                     |         |         |         | X                |                  |                  |                  |                   |                     |
+| Draft final edits, Word version, &  508 compliance |         |         |         |                  | X                |                  |                  |                   |                     |
+| Draft FMAC Presentation                            |         |         |         |                  | X                |                  |                  |                   |                     |
+| Presentation Approval from AFSC                    |         |         |         |                  | X                |                  |                  |                   |                     |
+| Post to FMAC Agenda                                |         |         |         |                  | X                |                  |                  |                   |                     |
+| FMAC Presentation                                  |         |         |         |                  | X                |                  |                  |                   |                     |
+| Incorporate FMAC feedback                          |         |         |         |                  |                  | X                |                  |                   |                     |
+|                                                    |         | Mar | Apr | 1st week May | 2nd week May | 3rd week May | 4th week May | 1st week June | 2nd week June   |
+| Draft SSC Presentation                             |         |         |         |                  | X                | X                |                  |                   |                     |
+| Draft AP Presentation                              |         |         |         |                  | X                | X                |                  |                   |                     |
+| Draft NPFMC Presentation                           |         |         |         |                  | X                | X                |                  |                   |                     |
+| Approvals for SSC, AP, and NPFMC Presentations     |         |         |         |                  |                  | X                |                  |                   |                     |
+| Post to SSC, AP, and NPFMC Agendas                 |         |         |         |                  |                  | X                |                  |                   |                     |
+| SSC, AP, NPFMC Presentations                       |         |         |         |                  |                  |                  | X                | X                 |                     |
+|                                                    |         | Mar | Apr | 1st week May | 2nd week May | 3rd week May | 4th week May | 1st week June | 2nd week June   |
+| Incorporate Council feedback and finalize report   |         |         |         |                  |                  |                  |                  | X                 | X                   |
+| Create Cover                                       |         |         |         |                  |                  |                  |                  | X                 | X                   |
+| Submit to RPTS for Processed Report Publication    |         |         |         |                  |                  |                  |                  |                   | X                   |
+| Publish Processed Report                           |         |         |         |                  |                  |                  |                  |                   | no later than Aug 1 |
+
