@@ -1,10 +1,10 @@
-# FMA Analytical Services Team Manual
+# [FMA Analytical Services Team Manual](https://noaa-afsc.github.io/ateam-manual/)
 
 # Description
 
 This is the repository for the [FMA Analytical Services Team](https://github.com/orgs/noaa-afsc/teams/fisheries-monitoring-analytical-services) onboarding and operating manual.
 
-To contribute to [this repo](https://noaa-afsc.github.io/ateam-manual/FMA-A-Team-Manual.pdf) please see [Contributing](contributing.qmd).
+To contribute to this repo please see [Contributing](contributing.qmd).
 
 
 # Maintainer
