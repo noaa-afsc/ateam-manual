@@ -1,6 +1,6 @@
 # Analytical Services Publications {#sec-publications}![](_img/journalarticleicon.png){height=70}
 
-## Peer-Reviewed Publications
+## Peer-Reviewed Publications (since 2023)
 ### 2026
 * Gredzens, C., A. Kingham, and J.E. Jannot. 2026. [Evaluating and advancing the use of shore-based observers for scientific sampling and catch verification in high-volume fisheries. Fisheries Management and Ecology 0:1-18](https://doi.org/10.1111/fme.70039)
     * webstory -link to be added soon
@@ -19,6 +19,8 @@
 * Cheng, M.L.H. C.J. Rodgveller, J.A. Langan, C.J Cunningham. 2023. [Standardizing fishery-dependent catch-rate information across gears and data collection programs for Alaska sablefish (*Anoplopoma fimbria*). ICES J. Mar. Sci. 80(4):1028 - 1042](https://doi.org/10.1093/icesjms/fsad037).
 
 * Faunce, C., J. Smith, A. Kingham, D. Jaszka. 2023. [Fisheries observers as enforcement assets: 21 Years of lessons from the North Pacific. Marine Policy 158: 1-12](https://doi.org/10.1016/j.marpol.2023.105868). See also [WebStory](https://www.fisheries.noaa.gov/feature-story/advancing-transparency-fisheries-monitoring-and-enforcement)
+
+For older publications, please see [this list](https://www.fisheries.noaa.gov/s3//2023-12/Observer-Related-Resources-10-2023.pdf).
 
 ---
 
