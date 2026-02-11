@@ -336,14 +336,13 @@ We think it is useful to have standard ways of sharing things. These don't alway
 
 * Mechanisms for Sharing
   * Code: Github, Google Docs    
-    * GitHub account: [Alaska Fisheries Monitoring Analytics](https://github.com/Alaska-Fisheries-Monitoring-Analytics)    
+    * GitHub account: [Fisheries Monitoring Analytical Services](https://github.com/orgs/noaa-afsc/teams/fisheries-monitoring-analytical-services)    
   * Docs: Rmarkdown, Google Docs, or MSWord    
-    * [A-team Manual](https://github.com/Alaska-Fisheries-Monitoring-Analytics/ateam-manual)    
+    * [A-team Manual](https://noaa-afsc.github.io/ateam-manual/)    
   * Network Drives    
-    * `Y://Programs Share/FMA_Observers/Observer/A is for ANALYSIS/`    
-    * Google Drive: `FMA Analysis Group` <font size="1.5"> (request access) </font>    
+    * Google Drive: `NOAA FMA Analysis Group` <font size="1.5"> (request access) </font>    
   * FMAnalytics G-Chat Space    
-  * project specific G-Chat Spaces (e.g., SASH, ADP)    
+  * project specific G-Chat Spaces (e.g., SASH, ADP, Annual Report)    
   * Github Issues    
 * When sharing make sure to describe what you are sharing    
 * A project-based approach to organizing your work makes it easier to share and solicit feedback from others    
