@@ -1,0 +1,6 @@
+/* Hides chapter numbers in the content and sidebar */
+.chapter-number,
+.sidebar-section-item .section-number,
+.toc-actions .section-number {
+  display: none;
+}
