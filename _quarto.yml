@@ -6,6 +6,7 @@ project:
 book:
   title: FMA A-Team Manual
   author: "Analytical Services\\\nFisheries Monitoring and Analaysis\\\nAFSC, NOAA Fisheries"
+  number-sections: false
   date: last-modified
   cover-image: _img/FMAnalytics_logo_pic.png
   favicon: _img/FMAnalytics_logo_pic.png
