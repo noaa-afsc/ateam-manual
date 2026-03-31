@@ -1,4 +1,4 @@
-# Publication Process with AFSC {#sec-publicationprocess}![](_img/contract.png){height=70}
+# Publication Process {#sec-publicationprocess}![](_img/contract.png){height=70}
 
 ## Style
 Please refer to the [AFSC Style Guide](https://drive.google.com/file/d/0B-F6OHsoRmTkX2x6cXZ3NWwzeFE/view?resourcekey=0-PULR1VmB2gVOuSMDW-YAQA) for questions about style.
