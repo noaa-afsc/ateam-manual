@@ -1,56 +1,57 @@
-# Travel (Federal employees)
+# Travel
+ See Program Manager for current travel policies and procedures.
+ 
+<!-- ## Domestic Travel  -->
+<!-- To request domestic travel approval use the [Travel App](https://script.google.com/a/macros/noaa.gov/s/AKfycbwdQxgdDdWfoH_4bBK9xMfShQaqMPNogkTZx-VgC6tTx3aUMDogSxwEGWHWnAcZMSv4/exec) for all domestic individual travel. For foreign travel requests, please work directly with your travel arranger. -->
 
-## Domestic Travel 
-To request domestic travel approval use the [Travel App](https://script.google.com/a/macros/noaa.gov/s/AKfycbwdQxgdDdWfoH_4bBK9xMfShQaqMPNogkTZx-VgC6tTx3aUMDogSxwEGWHWnAcZMSv4/exec) for all domestic individual travel. For foreign travel requests, please work directly with your travel arranger.
+<!-- While on travel collect receipts for:     -->
+<!-- 1. Lodging - ensure the balance shows 0.00 (zero)!     -->
+<!-- 2. Local transport     -->
+<!-- 3. Checked baggage charges     -->
 
-While on travel collect receipts for:    
-1. Lodging - ensure the balance shows 0.00 (zero)!    
-2. Local transport    
-3. Checked baggage charges    
+<!-- Receipts for food or other incidentals are not necessary. -->
 
-Receipts for food or other incidentals are not necessary.
-
-Upon return:    
-1. Create and approve the final travel voucher in [E2](https://e2.gov.cwtsatotravel.com/)    
-2. Include receipts    
+<!-- Upon return:     -->
+<!-- 1. Create and approve the final travel voucher in [E2](https://e2.gov.cwtsatotravel.com/)     -->
+<!-- 2. Include receipts     -->
 
 
-[AFSC Travel FAQ](https://sites.google.com/noaa.gov/myafsc/administrative/travel)
+<!-- [AFSC Travel FAQ](https://sites.google.com/noaa.gov/myafsc/administrative/travel) -->
 
-## Foreign Travel
-This summarizes NOAAs requirements for international travel while working for the government. This does not cover requirements for non-government employees (e.g., contractors, grantees, PSMFC, etc.).
+<!-- ## Foreign Travel -->
+<!-- This summarizes NOAAs requirements for international travel while working for the government. This does not cover requirements for non-government employees (e.g., contractors, grantees, PSMFC, etc.). -->
 
-This document is not intended to replace NOAA or U.S. government requirements or guidance but rather as a resource to guide you to the appropriate forms and documentation which you will need.  Always read and defer to the official NOAA/U.S. Government guidance, policy, forms, instructions, and directives.
+<!-- This document is not intended to replace NOAA or U.S. government requirements or guidance but rather as a resource to guide you to the appropriate forms and documentation which you will need.  Always read and defer to the official NOAA/U.S. Government guidance, policy, forms, instructions, and directives. -->
 
-Be sure to understand and read the linked resources carefully as the process and forms can be quite confusing.
+<!-- Be sure to understand and read the linked resources carefully as the process and forms can be quite confusing. -->
 
-The best source for information is NOAA's Finance Office [Foreign Travel webpage](https://sites.google.com/noaa.gov/noaa-finance-office/travel/foreign-travel?authuser=0).
+<!-- The best source for information is NOAA's Finance Office [Foreign Travel webpage](https://sites.google.com/noaa.gov/noaa-finance-office/travel/foreign-travel?authuser=0). -->
 
-You can also find this information on the ***My AFSC intranet ==> Administrative ==> Travel***. However the information is not as easy to find on this page.
+<!-- You can also find this information on the ***My AFSC intranet ==> Administrative ==> Travel***. However the information is not as easy to find on this page. -->
 
-### IMPORTANT: Give yourself lots of lead time to complete these forms and steps. A minimum of two months is recommended, especilly if you do not already have a government issued passport.
+<!-- ### IMPORTANT: Give yourself lots of lead time to complete these forms and steps. A minimum of two months is recommended, especilly if you do not already have a government issued passport. -->
 
-# Overview of Requirements
-1. Travel must be 'approved' by the Program Manager, which could be an informal approval (e.g., verbal approval) which might or might not come with caveats (e.g., depending on budget, Program/Division needs, timing, etc.).
+<!-- # Overview of Requirements -->
+<!-- 1. Travel must be 'approved' by the Program Manager, which could be an informal approval (e.g., verbal approval) which might or might not come with caveats (e.g., depending on budget, Program/Division needs, timing, etc.). -->
 
-2. A travel authorization submitted thru the [AFSC Travel Request App](https://script.google.com/a/macros/noaa.gov/s/AKfycbwdQxgdDdWfoH_4bBK9xMfShQaqMPNogkTZx-VgC6tTx3aUMDogSxwEGWHWnAcZMSv4/exec). This does not need to be completed with final signatures (e.g., authorized) for the purposes of the Foreign Travel Checklist, but see point (1) above.
+<!-- 2. A travel authorization submitted thru the [AFSC Travel Request App](https://script.google.com/a/macros/noaa.gov/s/AKfycbwdQxgdDdWfoH_4bBK9xMfShQaqMPNogkTZx-VgC6tTx3aUMDogSxwEGWHWnAcZMSv4/exec). This does not need to be completed with final signatures (e.g., authorized) for the purposes of the Foreign Travel Checklist, but see point (1) above. -->
 
-3. A completed [Foreign Travel Checklist](https://drive.google.com/file/d/1eX0_OjkajG3my9p7xNe6V2a4GXfUMkKk/view).
+<!-- 3. A completed [Foreign Travel Checklist](https://drive.google.com/file/d/1eX0_OjkajG3my9p7xNe6V2a4GXfUMkKk/view). -->
 
-4. A valid Counter Threat Awareness Training (CTAT) certificate.  This can be obtained through the [CLC](https://doc.csod.com/client/doc/default.aspx). This training is good for 6 years. **NOTE: CTAT training on the CLC takes approximately 5 hours to complete all modules.**
+<!-- 4. A valid Counter Threat Awareness Training (CTAT) certificate.  This can be obtained through the [CLC](https://doc.csod.com/client/doc/default.aspx). This training is good for 6 years. **NOTE: CTAT training on the CLC takes approximately 5 hours to complete all modules.** -->
 
-5.  An official government passport, valid for 5 years ([Passport Instructions ](https://sites.google.com/noaa.gov/noaa-finance-office/travel/foreign-travel/passport-instructions?authuser=0)). You cannot use your personal passport while traveling internationally on US government business. However, if you plan on taking leave while on international government travel, you will need to have both your personal and official passports. Use your government passport when traveling for work and personal passport when traveling on leave.  If you have had an official passport issued within the last 15 years, you can apply for a renewal, otherwise apply for a new official passport.
+<!-- 5.  An official government passport, valid for 5 years ([Passport Instructions ](https://sites.google.com/noaa.gov/noaa-finance-office/travel/foreign-travel/passport-instructions?authuser=0)). You cannot use your personal passport while traveling internationally on US government business. However, if you plan on taking leave while on international government travel, you will need to have both your personal and official passports. Use your government passport when traveling for work and personal passport when traveling on leave.  If you have had an official passport issued within the last 15 years, you can apply for a renewal, otherwise apply for a new official passport. -->
 
-6. A visa for the country, if needed. You can check [this official list](https://docs.google.com/document/d/1o3PFOFCAMHW8QZCowIpQvdgsiTj1hIc1/edit). Scroll down to find the country and visa requirements. You must have an official passport before you can obtain a visa.
+<!-- 6. A visa for the country, if needed. You can check [this official list](https://docs.google.com/document/d/1o3PFOFCAMHW8QZCowIpQvdgsiTj1hIc1/edit). Scroll down to find the country and visa requirements. You must have an official passport before you can obtain a visa. -->
 
-7. [Electronic Country Clearance cable ](https://sites.google.com/noaa.gov/noaa-finance-office/travel/foreign-travel/my-services-ecc) notifies the Department of State officials in Washington, D.C., and embassy and post officers abroad, of a traveler’s presence in a foreign country. Department of State policy requires embassy clearance for official travel to a foreign country.
+<!-- 7. [Electronic Country Clearance cable ](https://sites.google.com/noaa.gov/noaa-finance-office/travel/foreign-travel/my-services-ecc) notifies the Department of State officials in Washington, D.C., and embassy and post officers abroad, of a traveler’s presence in a foreign country. Department of State policy requires embassy clearance for official travel to a foreign country. -->
 
-# Other Resources
-[Department of Commerce (DOC) Foreign Travel Regulations](https://www.google.com/url?q=https%3A%2F%2Fwww.commerce.gov%2Fofm%2Foffices%2Foffice-financial-reporting-policy-internal-controls-and-travel%2Ftravel-management-1&sa=D&sntz=1&usg=AOvVaw3osuMKaQwjOf_2TAaw9bSq)
+<!-- # Other Resources -->
+<!-- [Department of Commerce (DOC) Foreign Travel Regulations](https://www.google.com/url?q=https%3A%2F%2Fwww.commerce.gov%2Fofm%2Foffices%2Foffice-financial-reporting-policy-internal-controls-and-travel%2Ftravel-management-1&sa=D&sntz=1&usg=AOvVaw3osuMKaQwjOf_2TAaw9bSq) -->
 
-[NOAA Foreign Travel Regulations](https://docs.google.com/document/d/1kd4WDMJP4GLyg9rcKHEdvnCb0_ighGIr/edit#heading=h.gjdgxs)
+<!-- [NOAA Foreign Travel Regulations](https://docs.google.com/document/d/1kd4WDMJP4GLyg9rcKHEdvnCb0_ighGIr/edit#heading=h.gjdgxs) -->
 
-[Department of State Emergencies and Crises](https://www.google.com/url?q=https%3A%2F%2Ftravel.state.gov%2Fcontent%2Ftravel.html&sa=D&sntz=1&usg=AOvVaw10Kjpw2lguaPCVEr0yhEqz)
+<!-- [Department of State Emergencies and Crises](https://www.google.com/url?q=https%3A%2F%2Ftravel.state.gov%2Fcontent%2Ftravel.html&sa=D&sntz=1&usg=AOvVaw10Kjpw2lguaPCVEr0yhEqz) -->
 
-[Department of Homeland Security](https://www.google.com/url?q=https%3A%2F%2Fwww.dhs.gov%2F&sa=D&sntz=1&usg=AOvVaw0Vb4o1jIgqVaVUs7jT8nZ_)
+<!-- [Department of Homeland Security](https://www.google.com/url?q=https%3A%2F%2Fwww.dhs.gov%2F&sa=D&sntz=1&usg=AOvVaw0Vb4o1jIgqVaVUs7jT8nZ_) -->
 
