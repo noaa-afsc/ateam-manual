@@ -35,15 +35,39 @@ In short the process is as follows:
   6. The final step should submit the publication to the [NOAA Institutional Library](https://repository.library.noaa.gov/welcome) for archiving.
 
 # Paying for Publication Charges
-Note that when possible, all publications should be Open Access. 
 
-Publishing is *free* when publishing a NOAA Technical Memo, or in [Fishery Bulletin](https://spo.nmfs.noaa.gov/fb.htm), [Marine Fisheries Review](https://spo.nmfs.noaa.gov/mfr.htm), or any [Wiley Publications](https://www.wiley.com/en-us).
+- When possible, all publications should be Open Access. 
+
+Publishing is *free* when publishing:    
+
+  - NOAA Technical Memo, or in    
+  - [Fishery Bulletin](https://spo.nmfs.noaa.gov/fb.htm)    
+  - [Marine Fisheries Review](https://spo.nmfs.noaa.gov/mfr.htm)    
+  - [Wiley Publications](https://www.wiley.com/en-us)        - [Wiley Read & Publish Agreement with NOAA](https://docs.google.com/document/d/1a73re5YgRR9pLkkoAcGerbkgMSNcjaXCUfUV6VnIiP0/edit?tab=t.0)
+
+## Process Overview
+
+1. Submit your manuscript to the [AFSC Research Publication Tracking System](https://apps-st.fisheries.noaa.gov/rpts/#view=login) (RPTS). Obtain supervisor approval for the purchase and obtain accounting information for the purchase.    
+2. Two months prior to submission, email the A-Team Program Manager include the following information:    
+    a. names and affiliations of all authors    
+    b. working title of paper    
+    c. intended journal    
+    d. cost *estimate* from journal website    
+    e. target submission date    
+    f. If the submission will span *fiscal years* i.e., you plan on submitting August or September but do not expect publication before Oct 1st.    
+3. Develop a purchase package    
+    a. Instructions and forms for the purchase package are available in    
+        i. [this Google Doc](https://docs.google.com/document/d/16-_5PjysiwTas4wt47c0Vq9jcyCFuaPH8NLoxE15OrY/edit?tab=t.0#heading=h.94xz8wxm64o5)    
+        ii. on the [AFSC Acquisitions Intranet page](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition) (scroll to the bottom of the embedded document)    
+    b. **Plan Ahead** - The approvals process for the purchase package can be very long and complicated    
+    c. Submit the purchase package to Christie Lang/Acquisitions **no later than** the same day as submission to the journal. You will not know if it will be accepted, but that’s OK. As long as we have a purchase package underway (preferably accepted), that is critical. 
+
 
 The best resource is [Purchasing Open Access/Publication Page Fees](https://docs.google.com/document/d/16-_5PjysiwTas4wt47c0Vq9jcyCFuaPH8NLoxE15OrY/edit?tab=t.0#heading=h.94xz8wxm64o5).
 
-## Using a Purchase Card to Pay for Publishing
+<!-- ## Using a Purchase Card to Pay for Publishing -->
 
-If your publication charges are < or = 3500 USD, then speak with the A-Team Program Manager about using a Purchase Card first. They might direct you to reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.
+<!-- If your publication charges are < or = 3500 USD, then speak with the A-Team Program Manager about using a Purchase Card first. They might direct you to reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`. -->
 
 <!-- ## Using AFSC Acquisitions Field Delegate Purchase Card, a.k.a., Micro-Purchase Request (MPR) -->
 
@@ -65,9 +89,9 @@ If your publication charges are < or = 3500 USD, then speak with the A-Team Prog
 <!--         a. Some of the Publishing companies provide downloadable pricing for their journals. Download the pricing sheet, find your journal and compare the basic pricing to some of the other journals.     -->
 <!--         b. Compare pricing to previous publication costs, esp if you are using the same journal. You can simply state that the cost for your publication increased by <insert percentage> when compared to a previous publication cost from <insert year>. -->
 
-## Using a Purchase Order to Pay for Publishing
+<!-- ## Using a Purchase Order to Pay for Publishing -->
 
-Use a Purchase Order (PO) for any costs >3500$ = maximum allowed for a purchase card charge. First, please speak with the A-Team Program Manager. They might direct you to reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`.
+<!-- Use a Purchase Order (PO) for any costs >3500$ = maximum allowed for a purchase card charge. First, please speak with the A-Team Program Manager. They might direct you to reach out to the AFSC Acquisition Team at `afsc.acquisitions@noaa.gov`. -->
 
 <!-- To submit a PO for publication charges: -->
 
