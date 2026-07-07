@@ -1,7 +1,7 @@
 engine: knitr
 project:
   type: book
-  output-dir: docs
+  output-dir: _book
 
 book:
   title: FMA A-Team Manual
