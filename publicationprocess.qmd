@@ -1,5 +1,12 @@
 # Publication Process {#sec-publicationprocess}![](_img/contract.png){height=70}
 
+## Key Takeaways
+
+>**Manuscripts destined for review by peer-reviewed journal cannot be submitted to the journal until they have been entered into [RPTS](#rpts-research-publications-tracking-system) and completed the internal review process!**
+
+>**When the need for a publication is identified, the lead author should ___immediately___ seek the necessary [procurement package approvals](#paying-for-publication-charges). The package must be submitted for approval before or at the time of journal submission.**
+
+
 ## Style
 Please refer to the [AFSC Style Guide](https://drive.google.com/file/d/0B-F6OHsoRmTkX2x6cXZ3NWwzeFE/view?resourcekey=0-PULR1VmB2gVOuSMDW-YAQA) for questions about style.
 
@@ -15,7 +22,7 @@ What's the [proper spacing around a degree symbol](https://techwritertemplates.c
 
 
 ## RPTS Research Publications Tracking System
-Tacking our science is important to you, the Analytical Services Program, AFSC, and NOAA. Science is what we produce and therefore documenting our science through a formal process provides both authors and the organization with a mechanism for recognition and dissemination of our work.
+Tracking our science is important to you, the Analytical Services Program, AFSC, and NOAA. Science is what we produce and therefore documenting our science through a formal process provides both authors and the organization with a mechanism for recognition and dissemination of our work.
 
 All formal research documents that present data, research, science, analyses, findings or conclusions where an author or co-author cites affiliation with AFSC, must go through review and approval using the RPTS system.
 
@@ -36,7 +43,7 @@ In short the process is as follows:
 
 # Paying for Publication Charges
 
-- When possible, all publications should be Open Access. 
+>_When possible, all publications should be Open Access._ 
 
 Publishing is *free* when publishing:    
 
@@ -44,11 +51,15 @@ Publishing is *free* when publishing:
   - [Fishery Bulletin](https://spo.nmfs.noaa.gov/fb.htm)    
   - [Marine Fisheries Review](https://spo.nmfs.noaa.gov/mfr.htm)    
   - [Wiley Publications](https://www.wiley.com/en-us)        - [Wiley Read & Publish Agreement with NOAA](https://docs.google.com/document/d/1a73re5YgRR9pLkkoAcGerbkgMSNcjaXCUfUV6VnIiP0/edit?tab=t.0)
+  
+  More options and details on free and low-cost publishing options can be found in [Scientific Publications Process - MB Guidance ACQ-025](https://docs.google.com/document/d/1bHi9_PY0cGB9zEcgqw4HeZZyM11emmXqk58SG3whn4Y/edit?tab=t.0#heading=h.kuhjdgrdf93q)
 
-## Process Overview
+## Publication Procurement Process Overview
+**When the need for a publication is identified, the lead author should ___immediately___ seek the necessary procurement package approvals. The package must be submitted for approval before or at the time of journal submission.**
 
+0. Read and familiarize yourself with [Scientific Publication Procurement Process MB Guidance ACQ-025](https://docs.google.com/document/d/1bHi9_PY0cGB9zEcgqw4HeZZyM11emmXqk58SG3whn4Y/edit?tab=t.0)
 1. Submit your manuscript to the [AFSC Research Publication Tracking System](https://apps-st.fisheries.noaa.gov/rpts/#view=login) (RPTS). Obtain supervisor approval for the purchase and obtain accounting information for the purchase.    
-2. Two months prior to submission, email the A-Team Program Manager include the following information:    
+2. ___Two months prior to submission___, email the A-Team Program Manager include the following information:    
     a. names and affiliations of all authors    
     b. working title of paper    
     c. intended journal    
@@ -60,10 +71,10 @@ Publishing is *free* when publishing:
         i. [this Google Doc](https://docs.google.com/document/d/16-_5PjysiwTas4wt47c0Vq9jcyCFuaPH8NLoxE15OrY/edit?tab=t.0#heading=h.94xz8wxm64o5)    
         ii. on the [AFSC Acquisitions Intranet page](https://sites.google.com/noaa.gov/myafsc/budget-acquisitions/acquisition) (scroll to the bottom of the embedded document)    
     b. **Plan Ahead** - The approvals process for the purchase package can be very long and complicated    
-    c. Submit the purchase package to Christie Lang/Acquisitions **no later than** the same day as submission to the journal. You will not know if it will be accepted, but that’s OK. As long as we have a purchase package underway (preferably accepted), that is critical. 
+    c. Submit the purchase package to Acquisitions **no later than** the same day as submission to the journal. You will not know if it will be accepted, but that’s OK. As long as we have a purchase package underway (preferably accepted), that is critical. 
 
 
-The best resource is [Purchasing Open Access/Publication Page Fees](https://docs.google.com/document/d/16-_5PjysiwTas4wt47c0Vq9jcyCFuaPH8NLoxE15OrY/edit?tab=t.0#heading=h.94xz8wxm64o5).
+The best resource is [AFSC Purchasing Open Access/Publication Page Fees](https://docs.google.com/document/d/16-_5PjysiwTas4wt47c0Vq9jcyCFuaPH8NLoxE15OrY/edit?tab=t.0#heading=h.94xz8wxm64o5).
 
 <!-- ## Using a Purchase Card to Pay for Publishing -->
 
