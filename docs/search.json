@@ -1,0 +1,1096 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "FMA A-Team Manual",
+    "section": "",
+    "text": "Welcome!1\nThis is the manual for the Analytical Services Program in the Fisheries Monitoring and Analysis Division at NOAA’s Alaska Fisheries Science Center2.\nFMA’s Analytical Services Program provides scientific products to support the management of marine ecosystems and commercial fisheries.\nThis manual is intended to provide an overview for Program staff and others about how we do our work, and our expectations. It is also a space to document institutional knowledge and for important information about procedures and available resources. If you have suggestions for additions or changes, please contact the Analytical Services Program Manager, Jason Jannot (jason /dot/ jannot /at/ noaa /dot/ gov) and review our Contributing policy.",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "index.html#footnotes",
+    "href": "index.html#footnotes",
+    "title": "FMA A-Team Manual",
+    "section": "",
+    "text": "This manual is a collaborative effort of the FMA A-Team, with input from AFSC FMA Division staff.↩︎\nJeepers, that’s a mouthful! Let’s just abbreviate from now on - acronym definitions are here↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Home</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html",
+    "href": "intro.html",
+    "title": "2  Who We Are",
+    "section": "",
+    "text": "Analytical Services Staff\nAs of 2026, the Analytical Services Program consists of\nFormer Members\nOther FMA staff offices\nCollaborators\n* Jason Gasper Alaska Regional Office (AKRO) Juneau\n* Jacklyn Smith NOAA AKD Office of Law Enforcement (OLE), Anchorage",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Who We Are</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#analytical-services-staff",
+    "href": "intro.html#analytical-services-staff",
+    "title": "2  Who We Are",
+    "section": "",
+    "text": "Jason Jannot, Program Manager\nCurrently Acting FMA Deputy Director\nSupervisory Research Fishery Biologist (NMFS)\nAFSC, Seattle Building 4, Office 1060\nJason was originally hired as an analyst with the FMA A-Team in February 2023 and became the PM in May 2023. Jason worked as a data analyst for the West Coast Groundfish and At-Sea Hake Observer Programs from 2010-2022 and for the International Pacific Halibut Commission from 2022-23.\nInterests\n\nprofessional: leadership, team building, program management, project management, succession planning\n\npersonal: biking, bluegrass banjo, telemark skiing, travel, books, painting, German language\n\nLearn more about his leadership style here and about him at his personal website.\n\n\n\n\n\n\n\n\n\nJennifer Cahalan, Statistician\nPacific States Marine Fisheries Commission\nAFSC, Seattle Building 4, Office 1089\nInterests\n\nprofessional: statistics, sampling design, estimation\n\n\n\n\n\n\n\n\n\n\nCraig Faunce, Data Analyst\nResearch Fish Biologist (NMFS)\nAFSC, Seattle Building 4, Office 1041\nInterests\n\nprofessional: observer effects, annual deployment plans, project management\n\npersonal: sports, nature, music, family\n\nYou can learn more about Craig, here\n\n\n\n\n\n\n\n\n\nChristian Gredzens, Data Analyst\nResearch Fish Biologist (NMFS)\nAFSC, Seattle Building 4, Office 1065\nInterests\n\nprofessional: spatial analyses\n\npersonal: reading, outdoors, biking, diving\n\n\n\n\n\n\n\n\n\n\nAndy Kingham, Data Analyst & Developer\nOperations Research Analyst (NMFS)\nAFSC, Seattle Building 4, Office 1057\nInterests\n\nprofessional: database and application development, operations\n\npersonal: sports, fishing, family\n\n\n\n\n\n\n\n\n\n\nGeoff Mayhew, Data Analyst\nResearch Fish Biologist (NMFS)\nAFSC, Seattle Building 4, Office 1057\nInterests\n\nprofessional: modeling, R coding, annual deployment planning\n\npersonal: travel, house projects, woodworking\n\n\n\n\n\n\n\n\n\n\nPhil Ganz, Data Analyst\nFisheries Management Specialist (NMFS)\nAKRO, Seattle Building 4, Office 1057\nInterests\n\nprofessional: annual reporting, annual deployment planning, catch accounting, data quality\n\npersonal: family, running\n\nYou can learn more about Phil here\n\n\n\n\n\n\n\n\nCameron Van Horn was hired by PSMFC as a Data Analyst within FMA from 2023 to 2024. Cameron’s main contribution was to better understand data quality control measures, particularly data deletions, after observers return from sea.\n\n\n\n\n\n1061 - Lisa Thompson, Acting FMA Director\n1062 - Marlon Conception, Debriefing Program Manager\n1063 - Brian Mason, FMA Training Program Manager\nAnchorage Office - Mike Vechter, EM Programs Coordinator",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Who We Are</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#how-we-meet",
+    "href": "intro.html#how-we-meet",
+    "title": "2  Who We Are",
+    "section": "How we meet",
+    "text": "How we meet\n\nA-Team Meetings\n\nsemimonthly Tuesdays, 1100 PT, Google Meet\nCurrently, as a whole team, we meet virtually by Google Meet every 2 weeks. We use Google Docs to set agendas, record decisions, and outline action items during these meetings.\nThe agenda is a single document – this makes finding and referencing old agenda items easier. At the end of each meeting, in prep for the next meeting, the table and agenda outline are copied to the top of the page, the date of the next meeting is added and any items or decisions that were covered and settled or meetings that have passed are removed to make space for the next meeting’s items.\nDuring the time between meetings, staff are expected to:\n\nfill in their updates in the table\n\nreview all the staff updates prior to the meeting and come with any questions\n\nif appropriate, add items to the Discussion, Meetings or other sections of the agenda\n\nScrivener duties for the meeting rotate among A-Team staff and are listed at the bottom of the agenda.\nScrivener Duties The Scrivener is responsible for:\n1. Setting up the page for the next meeting (see above)\n2. Running the meeting and keeping it on time\n3. Documenting discussions and decisions, with help as needed from other attendees\n\n\n\n1:1 with Jason\nEach team member has individual in-person meetings with Jason.\nEach member is responsible for documenting their 1:1 meetings with Jason, including tracking decisions and action items for themselves. Jason is happy to collaborate in Google Docs with individuals if that is their desire.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Who We Are</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#how-we-give-and-receive-feedback",
+    "href": "intro.html#how-we-give-and-receive-feedback",
+    "title": "2  Who We Are",
+    "section": "How we give and receive feedback",
+    "text": "How we give and receive feedback\nFeedback, both giving and receiving it, is an important aspect of our team. We expect feedback to be supportive but constructive. Feedback we give and receive can come in a variety of places and times, including but not limited to, during:\n\nbrainstorming sessions\n\nmeetings\n\nreviews of code or written documents\n\npractice talks\n\npost-project/post-meeting debriefs\n\n1:1’s\n\nSee the Feedback section of the Code of Conduct for more discussion and some resources.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Who We Are</span>"
+    ]
+  },
+  {
+    "objectID": "intro.html#how-we-share-things",
+    "href": "intro.html#how-we-share-things",
+    "title": "2  Who We Are",
+    "section": "How we share things",
+    "text": "How we share things\nAsk for help, and share what you learn and know: Most of our learning is done from each other. Struggling through problems alone is inefficient. Ask for and give assistance with awareness of the value of everyone’s time.\nWe think it is useful to have standard ways of sharing things. These don’t always have to be followed but are a useful guide. The most important principle is to make it easier for others and your future self!\n\nMechanisms for Sharing\n\nCode: Github, Google Docs\n\nGitHub account: Fisheries Monitoring Analytical Services\n\n\nDocs: Rmarkdown, Google Docs, or MSWord\n\nA-team Manual\n\n\nNetwork Drives\n\nGoogle Drive: NOAA FMA Analysis Group  (request access) \n\n\nFMAnalytics G-Chat Space\n\nproject specific G-Chat Spaces (e.g., SASH, ADP, Annual Report)\n\nGithub Issues\n\n\nWhen sharing make sure to describe what you are sharing\n\nA project-based approach to organizing your work makes it easier to share and solicit feedback from others\n\nhere is a good guide\n\nsee also Good enough practices in scientific computing (Wilson et al. 2017))\n\n\n\n\n\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in Scientific Computing.” Edited by Francis Ouellette. PLOS Computational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
+    "crumbs": [
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Who We Are</span>"
+    ]
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "3  Analytical Services Publications",
+    "section": "",
+    "text": "Peer-Reviewed Publications (since 2023)",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Analytical Services Publications</span>"
+    ]
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications-since-2023",
+    "href": "publications.html#peer-reviewed-publications-since-2023",
+    "title": "3  Analytical Services Publications",
+    "section": "",
+    "text": "2026\n\nGredzens, C., A. Kingham, and J.E. Jannot. 2026. Evaluating and advancing the use of shore-based observers for scientific sampling and catch verification in high-volume fisheries. Fisheries Management and Ecology 0:1-18\n\nwebstory -link to be added soon\n\n\n\n\n2025\n\nGasper, J. and J. Cahalan. 2025. Utilizing the random forest algorithm and interpretable machine learning to inform post-stratification of commercial fisheries data. Fisheries Research 281(107253)\n\n\n\n2024\n\nJeroue, L, C. Faunce, A. Kingham, J. Smith. 2024. Estimates of disclosure and vitimization rates for fishery observers in the maritime workplace. Frontiers in Marine Science 11\n\nwebstory\n\n\n\n\n2023\n\nCheng, M.L.H. C.J. Rodgveller, J.A. Langan, C.J Cunningham. 2023. Standardizing fishery-dependent catch-rate information across gears and data collection programs for Alaska sablefish (Anoplopoma fimbria). ICES J. Mar. Sci. 80(4):1028 - 1042.\nFaunce, C., J. Smith, A. Kingham, D. Jaszka. 2023. Fisheries observers as enforcement assets: 21 Years of lessons from the North Pacific. Marine Policy 158: 1-12. See also WebStory\n\nFor older publications, please see this list.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Analytical Services Publications</span>"
+    ]
+  },
+  {
+    "objectID": "publications.html#technical-memoranda-and-other-reports",
+    "href": "publications.html#technical-memoranda-and-other-reports",
+    "title": "3  Analytical Services Publications",
+    "section": "Technical Memoranda and Other Reports",
+    "text": "Technical Memoranda and Other Reports\n\n2026\n\n2026 Annual Deployment Plan for Observers and Electronic Monitoring in the Groundfish and Halibut Fisheries off Alaska\n\n\n\n2025\n\nA Summary of Post-Cruise Data Loss in the North Pacific Observer Program from 2014 to 2023\n2025 Annual Deployment Plan for Observers and Electronic Monitoring in the Groundfish and Halibut Fisheries off Alaska\n\n\n\n2024\n\n2024 Annual Deployment Plan for Observers and Electronic Monitoring in the Groundfish and Halibut Fisheries off Alaska\nDraft 2024 Annual Deployment Plan and Partial Coverage Cost Efficiencies Analysis\n\n\n\n2023\n\nFreed, J. C., N. C. Young, A. A. Brower, B. J. Delean, M. M. Muto, K. L. Raum-Suryan, K. M. Savage, S. S. Teerlink, L. A. Jemison, K. M. Wilkinson, J. E. Jannot, K. A. Somers. 2023. Human-caused mortality and injury of NMFS-managed Alaska Marine Mammal Stocks, 2017-2021.\n\n\nFor publications prior to 2023, see this link and this link.",
+    "crumbs": [
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Analytical Services Publications</span>"
+    ]
+  },
+  {
+    "objectID": "annual-deployment-plan.html",
+    "href": "annual-deployment-plan.html",
+    "title": "4  Annual Deployment Plan (ADP)",
+    "section": "",
+    "text": "Final Products\n\n\n\nProject Plan\n\n1. Project Goals and Deliverables\n\n1.1 Goals\n\nThe Annual Deployment Plan (ADP) describes how the National Marine Fisheries Service (NMFS) intends to assign at-sea and shoreside fishery observers and electronic monitoring (EM) to vessels and processing plants engaged in halibut and groundfish fishing operations in the North Pacific.\n\n\n\n\n1.2 Deliverables\n\nTwo Reports: draft & final\nDraft Plan (October)\n\npresentation of Draft Plan to Fishery Monitoring Advisory Committee and Partial Coverage Fishery Monitoring Advisory Committee(PCFMAC)\npresentation of Draft Plan to NPFMC AP and Main Council, typically as a stand alone item under Agenda C.\n\nFinal Plan (December)\n\nreport of Final ADP given to NPFMC AP and Main Council, typically as part of the NMFS B2 Report. Staff are present for questions but do not provide a formal presentation.\n\n\n\n\n\n\n2. Scope Statement\n\nThe ADP is developed under the authority of the Magnuson-Stevens Fishery Conservation and Management Act (Magnuson-Stevens Act) (16 U.S.C. 1862), the Fishery Management Plan for Groundfish of the Bering Sea and Aleutian Islands Management Area (BSAI FMP), the Fishery Management Plan for Groundfish of the Gulf of Alaska (GOA FMP), and the Northern Pacific Halibut Act of 1982.\nThe ADP outlines the science-driven method for deployment of observers and EM systems to support statistically reliable data collection. The ADP is a core element in implementation of section 313 of the Magnuson-Stevens Act, which authorizes the North Pacific Fishery Management Council (Council) to prepare a fishery research plan in consultation with NMFS.\nThe Council’s role in the annual deployment plan process is described in the analysis that was developed to support the restructured observer program (NPFMC 2011) and in the preamble to the proposed rule to implement the restructured observer program (77 FR 23326). The preamble to the proposed rule notes that NMFS would consult with the Council each year on the deployment plan for the upcoming year. In addition, the Council would:\n\nSelect a meeting for the annual report consultation that provides sufficient time for Council review and input to NMFS. The Council would likely need to schedule this review for its October meeting.\nNot formally approve or disapprove the annual report, including the deployment plan, but NMFS would consult with the Council on the annual report to provide an opportunity for Council input.\nThe final deployment plan would be developed per NMFS’ discretion to meet data needs for conservation and management. (77 FR 23344 & 23345).\n\nThe ADP follows the process envisioned by the Council and NFMS when the restructured observer program was developed and implemented. As a result, both the ADP development and the evaluation of data collected by observers and EM is an ongoing process.\nNMFS is committed to working with the Council throughout the annual review and deployment cycle to identify improved analytical methods and ensure Council and public input is considered.\nMore details on the legal authority and purpose of the ADP are found in the Final Rule for Amendment 86 to the BSAI FMP and Amendment 76 to the GOA FMP (77 FR 70062, 21 November 2012). Further details on the integration of EM deployment into the ADP process are found in the final rule to integrate EM into the Observer Program (82 FR 36991).\n\n\n\n\n3. Team\n\n3.1 Roles\nThe core ADP team consists of 4 roles: Project, Technical, and Data Leads as well as a Support role. The Project and Technical Leads as well as the Support Role are typically members of FMA and rotate in and out of each of these three positions as shown in the flow chart below. The Data Lead is typically a member of AKRO SFD and usually does not rotate in and out of these roles.\nDuties and responsibilities of each role are described in the table below.\nFigure. Three of the ADP roles cycle on a semi-regular basis in the following manner: Technical Lead ==&gt; Project Lead ==&gt; Support Role ==&gt; new Technical Lead…etc.\n  \nTable. Description of ADP Roles.\n\n\n\n\n\n\n\n\nTitle/Role\nDuties and Responsibilities\nMember(s)\n\n\n\n\nAFSC & AKRO Leads\n* sponsorship and leadership * facilitate discussions with partners & stakeholders * provide review (as needed), oversight, and accountability * help solve conflicts & overcome challenges  * review, edit, and publish documents and presentations  * present results to stakeholders and answer questions and inquires  * promote and broadcast the science and work\nFMA Director * FMA A-Team Program Manager * AKRO SFD Leadership\n\n\nProject Lead\n* provide SME & support to Technical Lead * help Technical Lead identify and gather data * Hold regular check-in meetings, ensure team is on track and meets deadlines * Track tasks and communicate priorities to team  * help solve conflicts and overcome challenges * elevate issues to AFSC & AKRO Leads as necessary * lead writing, reviewing, editing, and publishing of documents * help produce, review, & edit presentations\nFormer Technical Lead\n\n\nTechnical Lead\n* in collaboration with Project Lead, identify and gather data sources * write, execute, and troubleshoot main codebase * clearly document and record changes and improvements to codebase * write technical portions of the documents (e.g., deployment methods, technical appendicies) * provide figures, tables, and other graphics for technical portions of the documents and presentations and, as requested, for other sections of the documents * review and edit all written sections of the documents * in collaboration with other leads, develop and present information to NPFMC, PCFMAC and other stakeholders\nFormer Support\n\n\nData Lead\n* prepare baseline data object for use by Technical Lead * join fish tickets with observer data * support Technical Lead as needed * help write, review, and edit final documents * review and edit presentations as needed\nAKRO\n\n\nSupport\n* provide support and assistance as needed and directed by AFSC Lead, Project Lead, and Technical Lead * investigate potential improvements to the following year’s ADP, as needed * provide figures, tables, and written summaries of methods and results of investigations in Appendix of the documents * present results of investigations to NPFMC and other stakeholder groups * help write, review, and edit documents * review and edit presentations of main documents as needed\nFormer Project Lead\n\n\nEM Leads\n* provide written summaries and updates of proposed or current EM EFP projects\nAFSC & AKRO EM Leads\n\n\nRegulatory Leads\n* update and add regulatory changes that pertain to observers or observer coverage * write, edit, and review regulatory section of documents\nAKRO\n\n\nCommunications Leads\n* provide information about upcoming outreach or communications * provide contact information for AFSC and AKRO * write, edit, and review communications section of documents\nAFSC & AKRO\n\n\nReview\n* review, edit, and offer suggestions for improving text, tables, figures, and message * reject, accept, or clarify other contributors comments and suggestions as needed and appropriate * ensure organization and message are logical and clear\nEveryone\n\n\nAccountable\n* final responsibility for verifying quality and timeliness of products * verify end-user feedback has been completely addressed or incorporated into products * verify product meets needs of users * communicate products to non-technical audiences and users * final approval of products\nAFSC & AKRO Leads or designates\n\n\n\n  Table. ADP chapter or section leads, reviewers, and accountable. Leads are responsible for ensure a draft of the chapter or section is written and edited on time. Reviewers review and edit the chapter or section, and accountable ensure deadlines and quality standards are met. \n\n\n\n\n\n\n\n\n\n\nChapter/Section\nTeam Member(s)\nLead\nReview\nAccountable\n\n\n\n\nExecutive Summary\nall\nProject Lead\nAFSC & AKRO Leads\nAFSC & AKRO Leads\n\n\nIntroduction\nall\nProject Lead\nAFSC & AKRO Leads\nAFSC & AKRO Leads\n\n\nPartial Coverage Budget and Cost Assumptions\nAFSC Lead, Project Lead, Technical Lead AKRO - provides fee data\nAFSC, Project, and Technical Leads\nAFSC Lead\nAFSC & AKRO Leads\n\n\nDeployment Methods\nProject Lead, Technical Lead, Data Lead, Support Team\nProject and Technical Leads\nSupport and A-Team Project Manager\nA-Team Project Manager\n\n\nODDS updates and changes\nProject and Technical Leads, Support, ODDS Programmer\nProject and Technical Leads\nSupport and A-Team Project Manager\nA-Team Project Manager\n\n\nRegulatory updates and changes\nAKRO SFD\nAKRO SFD\nAKRO SFD\nAFSC & AKRO Leads\n\n\nEM Projects\nAFSC EM Lead, AKRO EM Lead\nAFSC & AKRO Leads\nAFSC & AKRO Leads\nAFSC & AKRO Leads\n\n\nCommunications and Outreach\nProject Lead, AFSC & AKRO Leads\nProject Lead\nAFSC & AKRO Leads\nAFSC & AKRO Leads\n\n\nReferences\nProject Lead, A-Team Program Manager\nProject Lead\nA-Team Program Manager\nA-Team Program Manager\n\n\nList of Authors\nProject Lead, A-Team Program Manager\nProject Lead\nA-Team Program Manager\nA-Team Program Manager\n\n\nAppendicies\nVarious, changes from year to year\nAuthors, Project Lead\nAuthors, Project Lead\nProject Lead, A-Team Program Manager\n\n\n\n\n\n\n3.3 Stakeholders\n\nNPFMC\nAK Fishing Industry\n\n\n\n\n\n4. Project Assumptions, Risks, Constraints\n\n4.1 Assumptions\n\nAuthors know shoreside plant operations with minimal error.\nFishing effort is predictable based on data from previous years.\nProximity allocation method adequately identifies spatio-temporal gaps in sampling.\nFishers are not fishing differently with vs. without monitoring.\n\n\n\n\n4.2 Risks\n\nOverspending our budget.\nNot monitoring all of the trips (days) that are high-cost. Cost-efficiency only comes when we monitor all the high-cost days (ca. 1100-1300 days) because then the per-day cost drops.\n\n\n\n\n4.3 Constraints\n\nBudget\nTrade-off between shoreside EM monitoring and at-sea human observing\n\n\n\n\n\n5. Key Dates\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTasks\nmid-July\nlate-July\nAug\nlate-Aug\nearly Sept\nmid-Sept\nlate-Sept\nOct\nNov\nDec\n\n\n\n\nKick-off meeting\nX\n\n\n\n\n\n\n\n\n\n\n\nTeams working on sections\n\nX\nX\nX\n\n\n\n\n\n\n\n\nAnalysis complete\n\n\n\nX\n\n\n\n\n\n\n\n\nDraft Complete\n\n\n\nX\nX\n\n\n\n\n\n\n\nprepare PCFMAC Presentation\n\n\n\n\nX\n\n\n\n\n\n\n\nPreliminary NOIP report to Vechter\n\n\n\n\nX\n\n\n\n\n\n\n\nDraft due to PCFMAC\n\n\n\n\nX\n\n\n\n\n\n\n\nPresent to PCFMAC\n\n\n\n\nX\n\n\n\n\n\n\n\nNotify FG EM vessels of removal from pool\n\n\n\n\n\nX\n\n\n\n\n\n\nPrepare NPFMC Advisory Panel & NPFMC presentations\n\n\n\n\n\nX\nX\n\n\n\n\n\nDraft Report and Presentations due to NPFMC\n\n\n\n\n\n\nX\n\n\n\n\n\nPresent to AP, NPFMC\n\n\n\n\n\n\n\nX\n\n\n\n\nIncorporate NPFMC feedback into Final Report\n\n\n\n\n\n\n\nX\nX\n\n\n\nSubmit Final Report to NPFMC\n\n\n\n\n\n\n\n\nX\n\n\n\nPresent Final Report to NPFMC within B Report\n\n\n\n\n\n\n\n\n\nX\n\n\nDeadline: Trawl CVs opt-in to Full Coverage\n\n\n\n\n\n\n\n15th October\n\n\n\n\nDeadline: Fixed-gear EM opt-in or opt-out\n\n\n\n\n\n\n\n\n1st Nov\n\n\n\n\n\n\n\n6. Budget\n\nFull coverage fisheries are “pay-as-you-go” system where vessels or plant operators contract directly with observer and EM providers to purchase monitoring services. These fisheries have 100% monitoring.\nThe vessels fishing in the partial coverage fisheries with less than 100% monitoring pay a 1.6% landing fee (as of {r} I(Sys.Date())) on each delivery. This pays for both shoreside and at-sea monitoring using both human observers as well as EM.\n\n\n\n\n\nReport Outline\nExecutive Summary\nIntroduction\nPartial Coverage Budget and Cost Assumptions\nDeployment Methods\nCommunication and Outreach\nList of Preparers and Contributors\nReferences\nAppendices\n- Appendix A: Council Motions on the ADP",
+    "crumbs": [
+      "Projects",
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Annual Deployment Plan (ADP)</span>"
+    ]
+  },
+  {
+    "objectID": "annual-report.html",
+    "href": "annual-report.html",
+    "title": "5  Annual Report",
+    "section": "",
+    "text": "Final Annual Processed Reports\n2025 North Pacific Observer Program Annual Report (expected July 2026)\n2024 North Pacific Observer Program Annual Report\n2023 North Pacific Observer Program Annual Report",
+    "crumbs": [
+      "Projects",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Annual Report</span>"
+    ]
+  },
+  {
+    "objectID": "annual-report.html#stakeholders",
+    "href": "annual-report.html#stakeholders",
+    "title": "5  Annual Report",
+    "section": "3.3 Stakeholders",
+    "text": "3.3 Stakeholders\n\nIndustry\nNPFMC\nthe public",
+    "crumbs": [
+      "Projects",
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Annual Report</span>"
+    ]
+  },
+  {
+    "objectID": "the-big-picture.html",
+    "href": "the-big-picture.html",
+    "title": "6  The Big Picture",
+    "section": "",
+    "text": "Team Culture\nTeam culture is a set of values, goals and attitudes that members of the same team practice to create a productive and healthy workplace atmosphere. It represents all the ways people behave and the attitudes and beliefs that inform those behaviors, including both the formal stated norms as well as the implicit ways people interact.\nThe culture is everyone’s responsibility.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Big Picture</span>"
+    ]
+  },
+  {
+    "objectID": "the-big-picture.html#principles",
+    "href": "the-big-picture.html#principles",
+    "title": "6  The Big Picture",
+    "section": "Principles",
+    "text": "Principles",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Big Picture</span>"
+    ]
+  },
+  {
+    "objectID": "the-big-picture.html#note-this-section-is-still-being-developed-with-the-help-of-all-program-staff.",
+    "href": "the-big-picture.html#note-this-section-is-still-being-developed-with-the-help-of-all-program-staff.",
+    "title": "6  The Big Picture",
+    "section": "NOTE: This section is still being developed with the help of all Program Staff.",
+    "text": "NOTE: This section is still being developed with the help of all Program Staff.\n\nService\nNOAA’s Mission statement is science, service, and stewardship. We are the Analytical Services Program. Therefore, we should strive to build a culture around service and adopt a service mindset by asking “How can I help?”.\nService in practice…\n* puts the needs of others first\n* actively listens\n* asks questions\n* suspends judgement\n* is empathetic\n* helps resolve issues and challenges\n* exhibits self-awareness\n* shares time, knowlegdge, expertise, and energy\nEven when the person being asked doesn’t feel they need help,\nasking How can I help? has multiple benefits including:\n\nMaking others feel supported\n\nReinforces the service mindset\n\nBuilds communication skills\n\nLeads to broader opportunities for learning and growth\n\nProduces better results\n\nMore positive about those you work with\n\n\n\nIntegrity\n\n\nOpen-Mindedness\n\n\nPersonal Development\n\n\nScience\nNOAA’s Mission statement also includes science.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Big Picture</span>"
+    ]
+  },
+  {
+    "objectID": "the-big-picture.html#purpose---why-do-we-do-this",
+    "href": "the-big-picture.html#purpose---why-do-we-do-this",
+    "title": "6  The Big Picture",
+    "section": "Purpose - Why do we do this?",
+    "text": "Purpose - Why do we do this?\nWe firmly believe that economically and environmentally sustainable fisheries management:\n\nMust rely on data collected directly from commercial fishing vessels\n\nThe highest quality data is collected by scientific observers placed on commercial fishing vessels at sea or at shoreside processing plants\n\nBoth shoreside landing receipts and electronic monitoring do, and will continue to, play an important supporting role in providing data for fisheries management\n\nWe are committed to:\n\nUsing all commercial fishing data sources, in combination with each other or other environmental or economic data when appropriate, to produce the best available science\n\nDeveloping high-quality science for use in fisheries management and to advance the fields of fisheries science and management\n\nDisseminating and communicating the best science based on these data\n\nSharing our data, knowledge, and advice to the greatest extent possible\n\nDeveloping, enhancing, and fostering positive and strong collaborations among ourselves and our stakeholders\nWhat is the inspiration that guides and motivates the team to achieve the mission?",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Big Picture</span>"
+    ]
+  },
+  {
+    "objectID": "the-big-picture.html#mission---what-do-we-do",
+    "href": "the-big-picture.html#mission---what-do-we-do",
+    "title": "6  The Big Picture",
+    "section": "Mission - What do we do?",
+    "text": "Mission - What do we do?\nOur mission is to provide the highest quality best available science for use in managing fisheries and marine resources.\nThe FMA Analytical Services Program adheres to NOAA’s mission of Science, Service, and Stewardship.\nScience1 from the FMA A-Team:\n\nis rigorous, quantitative, and best available;\nbased on statistics and evidence and;\naims for transparency & reproducibility.\n\nService from the FMA A-Team:\n\nis to provide the best-available science for use in decision-making;\nbased on clear, consistent and effective communication and collaboration;\naims to share data, knowledge, and information\n\nStewardship from the FMA A-Team:\n\nis to protect living marine resources, commercial fisheries, and the people who work in, on, or with marine ecosystems;\nbased on the diverse skill set and evolving abilities of the people and leveraged technologies and;\naims to be rational, ethical, and equitable.\n\nWhat does the team aim to do to fulfill its purpose and achieve it’s vision?",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Big Picture</span>"
+    ]
+  },
+  {
+    "objectID": "the-big-picture.html#subsec-stakeholders",
+    "href": "the-big-picture.html#subsec-stakeholders",
+    "title": "6  The Big Picture",
+    "section": "Internal Stakeholders",
+    "text": "Internal Stakeholders\nInternal stakeholders include:\n\nEach other (ASP staff)\nFMA Staff\n\nAFSC Staff\n\nNOAA Staff",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Big Picture</span>"
+    ]
+  },
+  {
+    "objectID": "the-big-picture.html#external-stakeholders",
+    "href": "the-big-picture.html#external-stakeholders",
+    "title": "6  The Big Picture",
+    "section": "External Stakeholders",
+    "text": "External Stakeholders\nExternal stakeholders often include, but are not limited to:\n\nNPFMC and advisory bodies\n\nAcademics and other researchers\n\nADFG and other AK State personnel\n\nNGO’s\n\nThe U.S. Public\n\nAlaska Native’s and U.S. Federally recognized Tribal Nations are not stakeholders. They are co-owners and co-managers of the resource. Find out more here.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Big Picture</span>"
+    ]
+  },
+  {
+    "objectID": "the-big-picture.html#footnotes",
+    "href": "the-big-picture.html#footnotes",
+    "title": "6  The Big Picture",
+    "section": "",
+    "text": "Scientific products might include (but is not limited to) data, data products, software, web applications, summaries, reports, analyses, models, presentations and advice.\n↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>The Big Picture</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html",
+    "href": "code-of-conduct.html",
+    "title": "7  Code of Conduct ",
+    "section": "",
+    "text": "Managing Conflict\nTo promote healthy resolutions to conflict, build trust, and develop a sense of psychological safety on th A-Team, all members of the Analytical Services Program are expected to:\nHow to Actively Listen\nHow to have an uncomfortable conversation",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Code of Conduct \\hspace{1cm}</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html#managing-conflict",
+    "href": "code-of-conduct.html#managing-conflict",
+    "title": "7  Code of Conduct ",
+    "section": "",
+    "text": "Delay entering into conversations when feelings are “elevated” (i.e., high level of frustration, anger, upset, etc.)\n\nWhy? Anger impacts the way you process information. Other emotions can have negative impacts on communication as well.\n\nWhat to do\n\nIf you are angry, do not confront the person until you are able to have a rational conversation where you are open to hearing them and can actively listen.\n\nIf you are confronted by a person who is angry or upset\n\nDo not to become defensive\n\nPolitely request to delay the conversation\n\nFollow-up when emotions have settled\n\n\n\nAlways assume positive intent of others. If your initial response is negative, try to change your viewpoint and find a positive explanation.\nRecognize the humanity in yourself and others. This means:\n\nRecognizing that no one is perfect, we all make mistakes.\n\nGracefully and sincerely apologizing when mistakes are made.\n\nGracefully accepting a sincere apology for mistakes when given.\n\nCultivating real compassion for yourself and others.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Code of Conduct \\hspace{1cm}</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html#feedback",
+    "href": "code-of-conduct.html#feedback",
+    "title": "7  Code of Conduct ",
+    "section": "Feedback",
+    "text": "Feedback\nFeedback is meant to change outcomes. Feedback can be either reinforcing, i.e., it reinforces behaviors or actions that lead to outcomes we want, or redirecting, i.e., it outlines behaviors or actions that lead to unwanted outcomes and provides alternative behaviors or actions that lead to desired outcomes.\nGiving and receiving redirecting feedback can be difficult. However, if we don’t get feedback, we can’t see our own blind-spots. If we don’t provide constructive ways for others to improve, then we can’t expect them to improve and we can’t expect to have our own needs met.\nHealthy, productive teams have members who give each other six (6) or more reinforcing feedback comments for every redirecting feedback comment.\nReward your colleagues for good work and deeds. Here’s some ways to recognize them.\nSimon Sinek has some great advice for how to give difficult feedback (watch at least to the 6:10 mark; but the whole clip is worthwhile).\nEffective communication skills are like muscles, we need to exercise them. You can’t go to the gym for 9 hours and expect to be in shape. But if you go for 30 minutes a day, every day, you will eventually get in shape. Similarly, the first time you try to give or receive feedback in a new way, it might go badly. But eventually it will get better and easier - but never easy.\nNot having a conversation because it will be hard is not an excuse for not having a conversation. Difficult conversations avoided today become tomorrow’s even more difficult conversation.\nThis resource from UBC outlines best practices for giving and receiving feedback.\nHow to Create a Culture of Feedback",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Code of Conduct \\hspace{1cm}</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html#psychological-safety",
+    "href": "code-of-conduct.html#psychological-safety",
+    "title": "7  Code of Conduct ",
+    "section": "Psychological Safety",
+    "text": "Psychological Safety\n\nWhat is Psychological Safety?\nAll members of Analytical Services (including the Program Manager) are expected to conform to a set of behavioral norms that are designed to make the workplace a psychologically and physically safe space.\n\nA norm is a rule that guides behavior toward the usual, typical, and/or standard behavior of a group.\n\nA psychologically safe space is:\n\n“a climate in which people are comfortable expressing and being themselves.” – Amy Edmondson, The Fearless Organization\n\nIn practice, this means that people feel comfortable taking risks, being themselves, speaking their minds, and being openly vulnerable in front of co-workers. The ability to be vulnerable in a workplace is directly related to the consequences that individuals feel they might be subject to if they are openly vulnerable.\nIn a double-blind research study of teams, Google found that the most important feature of highly effective teams was the presence of psychological safety.\n\n\n\nWhy Do We Need Psychological Safety in the Workplace?\nEvidence shows that creating a psychologically safe workplace is strongly linked with highly effective teams1 which are more likely to share ideas, give and welcome feedback, experiment, and discuss mistakes openly1,2. Psychologically safe workplaces are linked to higher employee satisfaction2\n\nBoth images above are from Science for Work.\n\n\nHow Do We Create Psychological Safety in the Workplace?\nTo promote psychological safety, we can:\n\nDevelop self-awareness so that you can adjust your emotional responses and learn to react in a way that invites open discussion.\n\nDemonstrate concern for other team members as people so that they feel comfortable speaking up and showing up as their whole selves.\n\nAsk questions, show appreciation for other’s ideas, and suspend judgement.\n\nEngage in positive dialog to inspire honest conversations.\n\nOwn up to our mistakes and share learnings from failures.\n\n\nSee also the resources for Psychological Safety and Wellness",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Code of Conduct \\hspace{1cm}</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html#reporting-harassment",
+    "href": "code-of-conduct.html#reporting-harassment",
+    "title": "7  Code of Conduct ",
+    "section": "Reporting Harassment",
+    "text": "Reporting Harassment\nIf you are being harassed by a member of the FMA A-Team, notice that someone else is being harassed, or have any other concerns, please contact the FMA Analytical Services Program Manager, Dr. Jason Jannot, at jason.jannot@noaa.gov. If you do not feel comfortable reporting to Jason, please contact Jennifer Ferdinand (FMA Division Director) or Lisa Thompson (FMA Deputy Director) or any other AFSC supervisor. Other methods of reporting available to you include:\n\nNOAA Sexual Assault Sexual Harassment Helpline\nNOAA Workplace Violence Prevention and Response Program\nNOAA Workforce Management Office\nNOAA Office of Inclusion and Civil Rights\n\nIn addition to the AFSC’s Code of Conduct, the Dec. 8th 2022 Policy Statement on Equal Employment Opportunity from NOAA provides a good explanation of NOAA’s stance and policies against harassment, discrimination, and violence in the workplace.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Code of Conduct \\hspace{1cm}</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html#drug-free-workplace",
+    "href": "code-of-conduct.html#drug-free-workplace",
+    "title": "7  Code of Conduct ",
+    "section": "Drug Free Workplace",
+    "text": "Drug Free Workplace\nA drug-free workplace is a condition of employment for all federal employees to refrain from using illegal drugs on or off-duty.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Code of Conduct \\hspace{1cm}</span>"
+    ]
+  },
+  {
+    "objectID": "code-of-conduct.html#footnotes",
+    "href": "code-of-conduct.html#footnotes",
+    "title": "7  Code of Conduct ",
+    "section": "",
+    "text": "https://rework.withgoogle.com/guides/understanding-team-effectiveness/steps/identify-dynamics-of-effective-teams/↩︎\nhttps://scienceforwork.com/blog/psychological-safety/↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'>Code of Conduct \\hspace{1cm}</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html",
+    "href": "onboarding.html",
+    "title": "8  Onboarding",
+    "section": "",
+    "text": "Welcome to the FMA A-Team!\nOur group is excited that you have decided to join our team!\nHere are some resources to help you get settled. We hope that these on-boarding resources, guidelines, and tips will make your transition to FMA seamless and enjoyable.\nAFSC Onboarding Checklist for Federal and Non-Federal Staff\nFor Federal FTEs, check out the following for many good resources:\nNOAA Fisheries New Hire Employee Resource Group\nFisheries New Employee Orientation website\nNew Employee Onboarding\nForeign Nationals should review the AFSC Interal Foreign Nationals webpage during their first few days of employment.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#cac---common-access-card",
+    "href": "onboarding.html#cac---common-access-card",
+    "title": "8  Onboarding",
+    "section": "CAC - Common Access Card",
+    "text": "CAC - Common Access Card\nA CAC will give you access to buildings and computer systems. It is the necessary first step to getting started.\nBoth Federal and non-Federal employees will need a CAC.\nForeign Nationals (FN) are not assigned a CAC. FNs will need to obtain a CAC Waiver. Work with your NOAA Sponsor.\n\nGet a New CAC\nCAC cards are only issued at Defense Department authorized locations (referred to as “RAPIDS” offices) and may or may not be associated with a NOAA facility. For AFSC staff, the following locations are the closet RAPIDS stations.\n\nSeattle staff = WRC building 1, site ID 105831 (phone: 206-526-6571)\nJuneau staff = Federal Bldg, site 102444 (phone: 907-463-2170)\n\n\n\nRenew a CAC\nSee the CAC Renewal page on MyAFSC.\n\n\nWestern Regional Campus (WRC), Seattle, WA\nMost likely you will be assigned space at the WRC campus. The FMA Division is housed in building 4.\nAccess for buildings 1, 3 & 4 is Weekdays 0445-2100 (to honor CBA flex hours) and for entering the gate.\nGeneral Access (not an employee assigned workspace) for buildings 1, 3,& 4 will be 0600 - 1800 Weekdays.\nThe default gate departure time will be set for 2330.\nThere is no standard weekend access for all employees. 24 / 7 access to campus and buildings required to support missions will be determined on a case-by-case basis with approval from leadership.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#it",
+    "href": "onboarding.html#it",
+    "title": "8  Onboarding",
+    "section": "IT",
+    "text": "IT\nOn the first day, an A-Team member (likely Jason), will bring you to OFIS to:\n\nget computer equipment\nset-up accounts (including an Oracle database account)\nget logged into NOAA computer & Google account\nrequest a VPN account\ndownload software needed (e.g., R, RStudio, SQL Developer, Endnote)\n\n\nConfidential Data\nData used by the Analytical Services Program in it’s raw1 form is considered to contain confidential information. As such, you will need to read and sign a Statement of Non-Disclosure (SON). Work with the PM to get this completed in the early days of on-boarding.\nAll confidential data must be summarized to meet the Rule of Three before being shared with anyone who does not have a current, signed SON on file with FMA. The rule of three requires that, when data is aggregated, every data point in the aggregated data set includes a minimum of three entities which mask the confidential information in such a way that individual entities cannot be identified or tied to a specific data point.\nMore general information on confidential data can be found here.\n\n\nOther IT Resouces\nIT Onboarding webpage\nIT Resources\nIT Help\nSoftware Management and Permission",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#general-adminstrative-resources",
+    "href": "onboarding.html#general-adminstrative-resources",
+    "title": "8  Onboarding",
+    "section": "General Adminstrative Resources",
+    "text": "General Adminstrative Resources\nGeneral Admin Resources",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#health-safety",
+    "href": "onboarding.html#health-safety",
+    "title": "8  Onboarding",
+    "section": "Health & Safety",
+    "text": "Health & Safety\nHealth and safety resources (e.g., reporting an accident) can be found here.",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "onboarding.html#footnotes",
+    "href": "onboarding.html#footnotes",
+    "title": "8  Onboarding",
+    "section": "",
+    "text": "Raw here could mean the data has gone through QAQC processes as well as other processing. However, the data has not been summarized to meet the rule of three.↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'>Onboarding</span>"
+    ]
+  },
+  {
+    "objectID": "timeattendance.html",
+    "href": "timeattendance.html",
+    "title": "9  Schedules, Leave, Duties, Performance",
+    "section": "",
+    "text": "Schedules, Time & Attendance",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Schedules, Leave, Duties, Performance</span>"
+    ]
+  },
+  {
+    "objectID": "timeattendance.html#schedules-time-attendance",
+    "href": "timeattendance.html#schedules-time-attendance",
+    "title": "9  Schedules, Leave, Duties, Performance",
+    "section": "",
+    "text": "non-Federal employees\nGuidance on schedules, time and attendance should be provided by your employer. Please also be sure to work with the A-Team Program Manager on setting your schedule.\n\n\nFederal employees\nIf you are federal employee, you will access your time-sheets through the GovTA web portal. Within one week of on-boarding Enterprise Services will create a new profile for you in GovTA.\nYou should:\n\nwork with the Program Manager to set your work schedule\n\nfamiliarize yourself with the definitions and rules around Alternative Work Schedules\n\nfill out an Employee Work Schedule Form\n\n  \n\nTelework Policy for NOAA FTEs - please note the following\nThe new DOC telework policy is 52 hours of telework per leave year. Please fill out the forms in the Telework section of the AFSC Intranet page.\nNote that under this policy, you could be directed by management to complete your duties via telework during periods of work stoppage due to Weather & Safety. This does not count against your 52 hours and only applies if you are able to telework (i.e., power is out at AFSC, but power is on at your home/telework location). {If you do not have a telework agreement in place, then you would take Weather & Safety leave.}\n\n\nTime and Attendance Resources\n\n\nLeave\n\nnon-Federal employees\nGuidance on leave should be provided by your employer.\n\n\nFederal employees\nUse GovTA to request leave. You can find resources related to leave here\nIn 2023, NOAA added a new leave category 66-Administrative Leave - Wellness. The category “…aims to provide workplace liabilities that increase employees’ engagement, retention, and interest in their health and wellness.” (HRGB #1018, FY23). This program allows for up to 40 hours per year of leave to participate in wellness activities during work hours. Below is some guidance, but please see the policy for a complete understanding of the rules and the FAQ for further information.\nAdministrative Leave to participate in wellness activities:\n\nMust be coordinated with, requested to, and approved by your supervisor before being taken.\n\nMust be displayed on your G-calendar.\n\nMust be used in increments of at least 15 minutes.\n\nGenerally may not exceed more than 1 hour on any given work week.\n\nMay be used in conjunction with lunch periods, or at the beginning or end of a workday.\n\nMust be used within the employee’s established work hours.\n\nIs not allowed on the employee’s days off, or while the employee is otherwise on approved leave, or when the employee is on overtime.\n\nMay not be combined with other instances of approved Administrative Leave.\n\nSee the policy for eligibility, employee responsibilities and allowable activities.\n\n\n\nWorking Over-Time (more than 40/80)\n\nnon-Federal employees\nObtain guidance on over-time from your employer.\n\n\nFederal employees\nFor Federal staff, there are three mechanisms for being compensated for working more than 80 hours in a pay period (PP):\n\nOvertime Pay\nCredit hours for those on maxi-flex schedules\nCompensatory time\n\n\nOvertime Pay\nOvertime pay is awarded for working beyond the 80 hours in a pay period. This should not occur often during the year. As best as possible, please work with the Program Manager ahead of time to gain approval for overtime work. If you are on a Maxi-Flex schedule, Credit Hours can be claimed in lieu of overtime pay. Guidelines:\n\nGain approval from Program Manager beforehand\nWork with PM and Timekeeper to fill out paperwork\n\n\n\nCredit Hours\nIf you are on a Maxi-Flex schedule, Credit Hours can be claimed in lieu of overtime pay. Guidelines:\n\nCan carry up to 24 credit hours\n\nNo advance approval is needed\n\nProperly record credit hours on time-sheet\n\nSubmit a Request for Premium Pay in GovTA\n\n\n\nCompensatory Time\nCompensatory time can be awarded for travel that occurs outside or beyond normal working hours or days (e.g., “red-eye” flight, travel on weekend, etc).\nCompensatory time for working (as opposed to traveling) is typically not awarded. Rather, overtime work is typically compensated via overtime pay or credit hours (see above).\nA quick guide for how to claim and record Compensatory Time for traveling can be found here.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Schedules, Leave, Duties, Performance</span>"
+    ]
+  },
+  {
+    "objectID": "timeattendance.html#duties",
+    "href": "timeattendance.html#duties",
+    "title": "9  Schedules, Leave, Duties, Performance",
+    "section": "Duties",
+    "text": "Duties\nBoth Federal and non-Federal employees will work with the PM to determine specific responsibilities, individual projects, deliverables, and duties. Duties and responsibilities will be revisited (with the PM, and when appropriate, members of the A-Team) during the year and updated to reflect any changes on a regular basis.\nDuties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs include (but are not limited to):\n\nleading and assisting in designated research projects\n* Note that “leading” in this context means acting as Project Manager\n\nparticipation in professional development opportunities\npresenting analyses and results to NPFMC and other stakeholders\n\ndeveloping and submitting research funding proposals\nsubmitting and publishing NOAA Technical Memorandum and other reports\nsubmitting and publishing peer-reviewed journal articles\nparticipating in outreach activities\nattending scientific and professional conferences\n\n\nObserver Training Class\nThe Program Manager strongly encourages all new and existing Program staff to attend relevant portions of the 3 week observer training class. This might be a requirement for any new staff members who have never observed before or who have not had observer training with FMA in the last 3 years.\nMore details can be found in the Observer Training appendix, but check with the Program Manager or the FMA Training Program Manager for the most up-to-date schedule.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Schedules, Leave, Duties, Performance</span>"
+    ]
+  },
+  {
+    "objectID": "timeattendance.html#sec-perf",
+    "href": "timeattendance.html#sec-perf",
+    "title": "9  Schedules, Leave, Duties, Performance",
+    "section": "Performance",
+    "text": "Performance\n\nnon-Federal employees\nGuidance on performance reviews should be provided by your employer.\n\n\nFederal employees\nSoon after joining the A-Team, you should work with the PM to create an annual, individual Performance Plan. Specific responsibilities, individual projects, deliverables, and duties will be reflected in the individual Performance Plan. This document will guide your work and will be revisited (in discussions with the PM) during the year and updated to reflect any changes on an annual basis.\nDuties that team members might assume, depending on interest, time, Program/Division/Center priorities, and needs are listed above under Duties.\nMore about the performance process can be found here.\nThe AFSC Awards page lists the many ways Federal employees can be recognized and awarded for their achievements including opportunities to nominate your peers for their hard work.",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Schedules, Leave, Duties, Performance</span>"
+    ]
+  },
+  {
+    "objectID": "timeattendance.html#afsc-contact-card",
+    "href": "timeattendance.html#afsc-contact-card",
+    "title": "9  Schedules, Leave, Duties, Performance",
+    "section": "AFSC Contact Card",
+    "text": "AFSC Contact Card\nFederal staff are encouraged to set-up an AFSC Contact Card, for example, see Jason’s Contact Card. This is optional and not required but provides a public facing profile so that others within and outside NOAA can find you and can be linked to other social media accounts (e.g., Research Gate, LinkedIn, etc.). You can request a Contact Card here",
+    "crumbs": [
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'>Schedules, Leave, Duties, Performance</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html",
+    "href": "expectations.html",
+    "title": "10  Expectations",
+    "section": "",
+    "text": "NOAA Fisheries CORE Policies\nMost of NOAA Fisheries policies can be found in the CORE Policy Handbook\nMany other NOAA Fisheries employee resources can be found here .",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#professional-behavior",
+    "href": "expectations.html#professional-behavior",
+    "title": "10  Expectations",
+    "section": "Professional Behavior",
+    "text": "Professional Behavior\nAll FMA Analytical Services staff (including the PM) are expected to adhere to the code of conduct and norms of behavior listed in Chapter 4 Code of Conduct of this manual.\nIt’s important for all of us within the Program to always, always show respect and courtesy to others in all of our professional communications and interactions – that includes face-to-face, virtual meetings, emails, phone calls, chat, and text. It also includes all interactions among Program staff or any professional interactions outside the Program.\nAs a service Program our most important asset is our relationships!\nProfessional behavior includes, but is not limited to:\n\nAlways using an appropriate tone and volume when speaking. Yelling is almost never necessary, unless there is an emergency or someone is in immediate danger.\n\nAlways using appropriate body language to help emphasize our point. When words and body language send different messages, humans defer to the message in the body language. This means that intimidating body language such as leaning across a desk, getting into someone face, standing up, looming over a person, or beating our chest are all inappropriate behaviors in the workplace. They are counterproductive to getting your message across.\n\nAlways using appropriate language – that means no swearing, no inappropriate or derogatory descriptions of others such as “ignorant”, “idiot”, “stupid”. These create a toxic work environment and they are unnecessary and counterproductive.\n\nAlways work to support each other, not to undermine others. This means we do not “talk trash” or disparage others under any circumstances.\n\nSee also the resources for Psychological Safety and Wellness.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#availability",
+    "href": "expectations.html#availability",
+    "title": "10  Expectations",
+    "section": "Availability",
+    "text": "Availability\n\nCore hours for the AFSC are 9:30 am to 2:30 pm, T,W,Th.\n\nA-Team members are encouraged to work in the office on one or more of these days.\n\nCore hours do not apply on Monday or Friday.\n\nNOAA Telework Policy for Federal employees requires 2 days in the office per pay period.\n\nNon-Federal employees should follow the telework guidance from their employer.\n\nYou are not expected to be available 24/7. Similarly, unless it is an emergency, do not expect responses to emails or any communication before or after regular business hours on weekdays (6 am - 6 pm), or any time on weekends/holidays/flex-days. However, because we recognize that A-Team members should be able to create a working schedule that is right for them, team members will not be penalized for sending communication outside normal working hours.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#google",
+    "href": "expectations.html#google",
+    "title": "10  Expectations",
+    "section": "Google",
+    "text": "Google\n\nG-Mail\nWe communicate largely via email on the A-Team. You should therefore check your email at least once a day during the normal work week.\n\n\nG-Calendar\nMuch of our work is communicating and much of that communication comes in the form of meetings. Therefore, you should:\n\nMake your calendar visible to others.\n\nKeep your calendar up-to-date\n\nAdd your working location and hours\n\nAdd leave and out of office (OOO) to your calendars\n\nSet-up automated OOO message, if OOO for longer than 1 day\n\nBusy/Private appointments during regularly scheduled work hours should only be used for non-work related activities for which there is approved leave, e.g., doctor’s appointment, parental duties, etc. Please use “Focus Time” or other similar titles to block uninterrupted work time.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#attendance-at-regularly-scheduled-events",
+    "href": "expectations.html#attendance-at-regularly-scheduled-events",
+    "title": "10  Expectations",
+    "section": "Attendance at regularly scheduled events",
+    "text": "Attendance at regularly scheduled events\nAttendance, either virtual or in-person, is reasonably expected at:\n\nSemimonthly A-Team meetings\nIndividual 1:1 with Jason (in-person when possible)\n\nRegularly scheduled project meetings\n\nNPFM Council Meetings\n\nFMA All-hands\n\nAttendance is strongly recommended when possible at:\n\nAFSC All-Hands\n\nOther Center-wide Meetings\n\n\nTardiness & Absence\nLet’s face it - life happens. Be kind. If you’re going to be late, please notify someone else in the meeting as soon as you realize it and provide a time frame for arrival. If you know in advance that you aren’t going to attend the meeting, decline on your calendar.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#expectations-of-the-program-manager",
+    "href": "expectations.html#expectations-of-the-program-manager",
+    "title": "10  Expectations",
+    "section": "Expectations of the Program Manager",
+    "text": "Expectations of the Program Manager\nAs of 2025, Jason Jannot is the FMA Analytical Program Manager. You can read about his leadership and management philosophy here.\nThe Program Manager will (at a minimum) provide the A-Team with:\n\nClarity (the why?)\n\nGuidance (the how?)\n\nExpectations (the what?)\n\nCollaboration & Communication (the who?)\n\nPrioritization & Gate-keeping\n\nAccountability\n\nVisibility & Public Recognition\n\nSupport Overcoming Barriers\n\nTimely Administrative Support\n\nA Professional and Ethical Role Model\n\nIn addition to the above, the Program Manager will (at a minimum) provide individual team members with:\n\nPositive feedback & constructive criticism on work\n\nProfessional career support and development, including but not limited to:\n\nopportunities for\n\ntraining\n\npresenting (e.g., conferences, meetings, outreach, etc.)\n\npublishing\nadvancing (e.g., promotion, details, etc.)\n\ncollaborating\n\nleading\n\nmentoring\n\n\nRegular meetings to discuss work & maintain progress on goals\n\nEmpathetic listening\n\nCoaching",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#expectations-of-team-members",
+    "href": "expectations.html#expectations-of-team-members",
+    "title": "10  Expectations",
+    "section": "Expectations of Team Members",
+    "text": "Expectations of Team Members\nA-Team members will (at minimum):\n\nbehave professionally and ethically in all work interactions\nstrive to produce the best science, given the constraints\n\ngrow and maintain technical and inter-personal skills\nshare knowledge, experience, code, and time\n\nadopt a service mindset\nadopt a collaborative working mindset\n\nadapt and be flexible, within reason\n\ncommunicate clearly and effectively\ncommunicate both successes and sticking points regularly\n\ncontribute to creating a positive, inclusive, and safe work culture\n\nRemember, as a government agency, we serve the people of the United States and service is 1/3rd of NOAA’s mission. Adopting a service mindset when approaching each other, stakeholders, partners, and collaborators will magnify our positive impacts on marine ecosystems, commercial fishing, and the wider world.\nSome ways to adopt a service mindset:\n\nShare - code, knowledge, resources, opportunities\nServe as a role model\n\nServe as a resource for other members of the A-Team\n\nNominate your peers for their hard work and achievements - AFSC Awards page.\nParticipate in outreach activities\nMentor others when appropriate, especially new team members",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "expectations.html#team-collaboration-and-communication",
+    "href": "expectations.html#team-collaboration-and-communication",
+    "title": "10  Expectations",
+    "section": "Team Collaboration and Communication",
+    "text": "Team Collaboration and Communication\nAlthough the Program Manager is your primary supervisor, everyone should always feel like they can reach out to anyone else on the A-team for help or collaboration.\n\n“We are Willing to Try” artwork © Samantha Tustison Snyder, Doodle Art Alley Inc.",
+    "crumbs": [
+      "<span class='chapter-number'>10</span>  <span class='chapter-title'>Expectations</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html",
+    "href": "communication.html",
+    "title": "11  Communication",
+    "section": "",
+    "text": "Email\nTopics: Single topics requiring simple or little or no context, explanation, or discussion\nTime:\nTone: It can be very difficult to get the right tone in an email. Sometimes it’s worthwhile to write the email but delay sending it. Then go back and check the tone after taking a pause.\nPros: Creates a record\nCons: Can be slow, lost, ignored\nTracking: Formally captured in writing - creates a record\nUses:\nConsider: moving to a video call/FTF or phone call if the email chain goes back and forth more than a few times or in-depth discussion is necessary.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#email",
+    "href": "communication.html#email",
+    "title": "11  Communication",
+    "section": "",
+    "text": "Immediate action is not required and/or;\n\nDiscussion is very limited or unnecessary and/or;\n\nCompletion time is not pressing\n\n\n\nSimple requests for a single action or, at most, a few closely related actions\n\nShort summary of a single topic\n\nRoutine tasking\n\nFollow-up summaries from video calls/FTF/phone calls",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#video-callface-to-face-meeting-ftf",
+    "href": "communication.html#video-callface-to-face-meeting-ftf",
+    "title": "11  Communication",
+    "section": "Video call/Face-To-Face Meeting (FTF) ",
+    "text": "Video call/Face-To-Face Meeting (FTF) \nYou are expected to follow the AFSC Guidance on Inclusive Meetings in Hybrid Work Environments. The slide deck from the AFSC FAQ session describing this guidance is also available.\nTopics: Sensitive, complex, or multiple topics\nTime: Lengthy discussion necessary; actions or responses will be discussed\nTone: Voice inflection, body language and body posture can be distorted or hidden by the tech. Eye contact can be misinterpreted, misleading, or absent.\nPros: Can screen share/show\nCons: Requires some planning\nTracking: No formal tracking - requires participants to take notes; Video calls can be recorded.\nUse:\n\nTo collaborate with team members\n\nTo build rapport and relationships\n\nTo provide or receive feedback\n\nTo provide or receive coaching\n\nFor instructional/side-by-side training/teaching\n\nWhen there are multiple participants\n\nWhen screen sharing/showing is needed\n\nConsider: using other methods for simple updates that are informational only and require no response.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#chat",
+    "href": "communication.html#chat",
+    "title": "11  Communication",
+    "section": "Chat",
+    "text": "Chat\nTopics: Single, non-sensitive topics which require no explanation, sharing general information (e.g., links, papers, etc.)\nTime:\n\nImmediate response is necessary, requested or implied\nDiscussion is very limited or unnecessary\nVery simple responses expected\n\nTone: Fast pace can lead to misunderstandings of tone and intent, similar to email.\nPros: Fast\nCons:\n\nNo record created\n\nLimited ability to engage in depth\n\nLinks to files will be lost if history is turned off\n\nTracking: No formal tracking - requires participants to take notes or screen shots.\nUse:\n\nTo ask simple questions\n\nTo check-in for current/near-future availability\n\nShare informational link\n\nReal-time discussion among team during formal meetings, e.g., FMAC, PCFMAC, Council, etc. - though discussion will be limited\n\nConsider: moving lengthy discussions to a video call or FTF.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#phone",
+    "href": "communication.html#phone",
+    "title": "11  Communication",
+    "section": "Phone ",
+    "text": "Phone \nTopics: Sensitive or complex topics\nTime:\n\nImmediate response or action is necessary\n\nDiscussion could be lengthy\n\nCompletion time is pressing\n\nTone: Voice inflection can be distorted, lost or misinterpreted due to tech; requires careful listening and voice control.\nPros: Can address time sensitive issues quickly\nCons: No screen show/share, body language missing\nTracking: No formal tracking - requires participants to take notes\nUse:\n\nEmergencies\n\nUrgent, time sensitive requests\n\nContact necessary during off-hours or off-days\n\nWhen video call/FTF is not possible but topics are sensitive or complex\n\nQuick topics that are time sensitive\n\nConsider: following up with an email summary of the conversation",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "communication.html#mobile-textsms",
+    "href": "communication.html#mobile-textsms",
+    "title": "11  Communication",
+    "section": "Mobile Text/SMS ",
+    "text": "Mobile Text/SMS \nTopics: Extremely time sensitive topics or contact necessary outside normal work days/hours, requires zero explanation\nTime:\n\nImmediate response or action is necessary\nNo discussion\nVery simple responses expected\n\nTone: Fast pace can lead to misunderstandings of tone and intent, similar to email and chat.\nPros: Can address time sensitive issues quickly\nCons: No screen show/share\nTracking: Creates a record, but there might be limits and constraints\nUse:\n\nEmergencies\n\nUrgent, time sensitive requests\n\nNecessary contact during off-hours or off-days\n\nTo check-in for current/near-future availability\n\nConsider: moving to another method as soon as practicable.",
+    "crumbs": [
+      "<span class='chapter-number'>11</span>  <span class='chapter-title'>Communication</span>"
+    ]
+  },
+  {
+    "objectID": "collaborate.html",
+    "href": "collaborate.html",
+    "title": "12  Collaboration & Code Review",
+    "section": "",
+    "text": "Git Manager Software\nHere are some apps (called “clients”) you can use to help you manage your Git interface (i.e., less command line, more point-and-click):\nFork - Jason’s favorite and it’s free and easy to install\nRstudio - has a built-in Git interface\nGitHub Desktop - probably one of the more famous clients\nsourcetree - another common one\nYou can read about those and many others here.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Collaboration & Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "collaborate.html#noaa-open-science-git-resources",
+    "href": "collaborate.html#noaa-open-science-git-resources",
+    "title": "12  Collaboration & Code Review",
+    "section": "NOAA Open Science Git Resources",
+    "text": "NOAA Open Science Git Resources\nGitHub and Git NOAA Open Scapes resources",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Collaboration & Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "collaborate.html#collaboration-using-git",
+    "href": "collaborate.html#collaboration-using-git",
+    "title": "12  Collaboration & Code Review",
+    "section": "Collaboration using Git",
+    "text": "Collaboration using Git\nCurrently, this is an amalgamation of Jason’s Git Collaboration notes and the 2024 ADP Team Charter\n\n\n\nDetermining the “Git Work Flow” is a huge part of working in a team! Be sure to check out the “Guidelines” section in the previous link for best practices when developing a workflow.\n\n\n\n\n\n\n\nJason suggests the Centralized Workflow (see link above) which keeps a linear history1.\n\n\nHow to Collaborate\n\nAdd collaborators to repository\n\nCollaborators clone repository to their local machine\n\nMake changes\n\nCreate a New Branch\n\nName it appropriately e.g., jason/newfeature\n\nMake changes locally on the new branch\n\nCommit changes to the new branch\n\nAs a general rule, you should commit when you finish something that allows your code to work - usually ends up being a couple times an hour.\n\n\nSee below before completing this step - Push changes to the remote repository…this will create a pull request….\n\n\n\n\nBefore Pushing to the Repository\n\nSwitch to your local main branch ($git checkout main)\n\nPull the remote main into your local main ($git pull origin main)\n\nSwitch to your dev branch ($git checkout &lt;your-dev-branch-name-here&gt;)\n\nMerge your local main to your local dev branch ($git merge main)\n\nNOTE This is where conflicts will show up if they will occur\n\nFix any conflicts\n\nDo some checking before pushing:\n\nCheck the commits that will be pushed ($git log - - oneline; q escapes you back to the $)\n\nCheck your connection ($git remote -v)\n\n\nPush your changes ($git push origin &lt;your-branch-name&gt;)",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Collaboration & Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "collaborate.html#code-review",
+    "href": "collaborate.html#code-review",
+    "title": "12  Collaboration & Code Review",
+    "section": "Code Review",
+    "text": "Code Review\nPlease first review Appendix J - Contributing, before initiating a pull request.\n\nPull Request\nA pull request is a request by a collaborator for the repo owner to “pull” the new code into the main branch (or other branch) which will then reflect those changes on the remote repos when others pull that branch down.\n\nPull Request - What are they good for?\nPull request can simplify code review. They are a discussion point between coders. They can be used to:\n\nreview and discuss code: a new feature, improvements, strategy, etc.\naddress issues\nany time new code is added to the repo\n\nWhat are the benefits of pull requests as code review2?\n\nIncreases the quality of the code\nDecreases probability of breaking stuff\nFrees time from micromanaging other peoples code\nReduces the need for meetings\nEmail notifications act as the interface\nThey create a history - all discussion & code (even if it is ultimately rejected), lives on a branch\n\nThe downsides include (see also2):\n1. You have to wait to have your code reviewed by others\n2. Reviewer can get backed up & overwhelmed\n\n\nHow to Submit a Pull Request\n\nGo to the repo, at the top click on Pull Requests\n\nCreate a New Pull Request (green button upper right)\n\nEnsure you are comparing the right branches\n\nLook at the gitdiff\n\nGive it an appropriate succinct title\n\nInclude a descriptive message\n\nWhat has been done\n\nHow to use the new code\n\nWhat someone could do to test the code, e.g., do…\nsee also: Pull Request Messages\n\nCreate the request\n\nAdd a reviewer - upper right hand corner. Will trigger an email.\n\nOnce reviewed, the pull request will be merged with the branch (typically main)\n\nNOTE: You can add more commits to a single pull request, provided it has not been reviewed and merged. However, only do this for very minor changes - missing spaces, typos, missing last lines etc.\n\n\nHow to Review a Pull Request\n\nOpen the pull request\n\nReview the code changes\n\nReviewer - provide comments and feedback as comments\n\nOriginator - respond to comments, perhaps add comments\n\nReviewer - Approve changes (upper right corner) and add approval comment\n\nReviewer - merge pull request\n\nOriginator - delete the branch once the code has been merged. Please do this so that our remote is clean!\n\nDONT FORGET TO PULL the new code to your local instance to get latest code.\n\nsee also Reviewing Pull Requests",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Collaboration & Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "collaborate.html#issues",
+    "href": "collaborate.html#issues",
+    "title": "12  Collaboration & Code Review",
+    "section": "Issues",
+    "text": "Issues\nIssues are a great way to improve code outside the normal pull request-review process. Issues can be used to propose:\n\nFixes to broken code\n\nCool new features\n\nTackle TODO lists\n\nDocument Q&A\n\nUse tags (right sidebar) to highlight the type of issue being submitted.\n\nHow to submit an Issue\n\nOpen an issue\n\nGive it a succinct but appropriate name\n\nGive it a tag\n\nUse the @ in the body of the issue to mention others who might be interested or involved in the issue resolution\n\nUse simple pseudo-code (via Markup code) to describe your proposed changes.\n\nProvide a minimal reproducible example for bugs/errors, a.k.a. a repex\n\nBe sure to close the issue once it is complete.\n\nPro Tip: You can use the following statement to make Github automatically close an issue:\nthis closes issue #&lt;insert-issue-num&gt; see example here\n\n\n\n\nAssigning Issues\n\nFeel free to assign yourself the issue, but be sure to eventually tackle the issue.\nBEFORE ASSIGNING TO OTHERS discuss with the other person and/or the PM to ensure assignment is appropriate and does not conflict with current priorities.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Collaboration & Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "collaborate.html#compare-two-branches-on-github",
+    "href": "collaborate.html#compare-two-branches-on-github",
+    "title": "12  Collaboration & Code Review",
+    "section": "Compare Two Branches on GitHub",
+    "text": "Compare Two Branches on GitHub\n\nOpen the branch with the newest commits\nAt the top you’ll see the number of commits difference like this:\n\n\n\nClick on the link “&lt;#&gt; commit ahead”\nThat will bring you to the diff page! Voila!",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Collaboration & Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "collaborate.html#to-link-a-pull-request-with-an-issue",
+    "href": "collaborate.html#to-link-a-pull-request-with-an-issue",
+    "title": "12  Collaboration & Code Review",
+    "section": "To link a pull request with an issue",
+    "text": "To link a pull request with an issue\nLink Pull Request with Issue\nSee Git Tips for additional tips and resources.",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Collaboration & Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "collaborate.html#footnotes",
+    "href": "collaborate.html#footnotes",
+    "title": "12  Collaboration & Code Review",
+    "section": "",
+    "text": "If you don’t like the Centralized Workflow, try the Trunk-based Workflow.↩︎\nFor a counter argument to pull requests, see this video↩︎",
+    "crumbs": [
+      "<span class='chapter-number'>12</span>  <span class='chapter-title'>Collaboration & Code Review</span>"
+    ]
+  },
+  {
+    "objectID": "publicationprocess.html",
+    "href": "publicationprocess.html",
+    "title": "13  Publication Process",
+    "section": "",
+    "text": "Key Takeaways",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Publication Process</span>"
+    ]
+  },
+  {
+    "objectID": "publicationprocess.html#key-takeaways",
+    "href": "publicationprocess.html#key-takeaways",
+    "title": "13  Publication Process",
+    "section": "",
+    "text": "Manuscripts destined for review by peer-reviewed journal cannot be submitted to the journal until they have been entered into RPTS and completed the internal review process!\n\n\nWhen the need for a publication is identified, the lead author should immediately seek the necessary procurement package approvals. The package must be submitted for approval before or at the time of journal submission.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Publication Process</span>"
+    ]
+  },
+  {
+    "objectID": "publicationprocess.html#style",
+    "href": "publicationprocess.html#style",
+    "title": "13  Publication Process",
+    "section": "Style",
+    "text": "Style\nPlease refer to the AFSC Style Guide for questions about style.\nPlease refer to the Federal standards for plain language guidelines - it’s a great resource for how to be a better writer, irrespective of your audience!\nShould I use NMFS or NOAA Fisheries?\nIs it Fish, Fishery, or Fisheries?\nHow do I cite my AFSC Affiliation?\nWhat’s the proper spacing around a degree symbol?",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Publication Process</span>"
+    ]
+  },
+  {
+    "objectID": "publicationprocess.html#rpts-research-publications-tracking-system",
+    "href": "publicationprocess.html#rpts-research-publications-tracking-system",
+    "title": "13  Publication Process",
+    "section": "RPTS Research Publications Tracking System",
+    "text": "RPTS Research Publications Tracking System\nTracking our science is important to you, the Analytical Services Program, AFSC, and NOAA. Science is what we produce and therefore documenting our science through a formal process provides both authors and the organization with a mechanism for recognition and dissemination of our work.\nAll formal research documents that present data, research, science, analyses, findings or conclusions where an author or co-author cites affiliation with AFSC, must go through review and approval using the RPTS system.\n\nManuscripts destined for review by peer-reviewed journal cannot be submitted to the journal until they have been entered into RPTS and completed the internal review process!\n\nThe AFSC Intrasite Publications and RPTS describes the process and should be your first resource when moving to publication.\nRPTS login\nIn short the process is as follows:\n\nSubmit your manuscript to RPTS.\n\nAnalytical Services Program Manager will complete the Technical Review.\n\nFMA Division Director will complete the Information Quality Act review.\n\nSubmit to the journal for peer-review. Follow the peer-review process.\n\nIMPORTANT After publication, log into RPTS and update the status of the publication.\n\nThe final step should submit the publication to the NOAA Institutional Library for archiving.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Publication Process</span>"
+    ]
+  },
+  {
+    "objectID": "publicationprocess.html#publication-procurement-process-overview",
+    "href": "publicationprocess.html#publication-procurement-process-overview",
+    "title": "13  Publication Process",
+    "section": "Publication Procurement Process Overview",
+    "text": "Publication Procurement Process Overview\nWhen the need for a publication is identified, the lead author should immediately seek the necessary procurement package approvals. The package must be submitted for approval before or at the time of journal submission.\n\nRead and familiarize yourself with Scientific Publication Procurement Process MB Guidance ACQ-025\nSubmit your manuscript to the AFSC Research Publication Tracking System (RPTS). Obtain supervisor approval for the purchase and obtain accounting information for the purchase.\n\nTwo months prior to submission, email the A-Team Program Manager include the following information:\n\nnames and affiliations of all authors\n\nworking title of paper\n\nintended journal\n\ncost estimate from journal website\n\ntarget submission date\n\nIf the submission will span fiscal years i.e., you plan on submitting August or September but do not expect publication before Oct 1st.\n\n\nDevelop a purchase package\n\nInstructions and forms for the purchase package are available in\n\nthis Google Doc\n\non the AFSC Acquisitions Intranet page (scroll to the bottom of the embedded document)\n\n\nPlan Ahead - The approvals process for the purchase package can be very long and complicated\n\nSubmit the purchase package to Acquisitions no later than the same day as submission to the journal. You will not know if it will be accepted, but that’s OK. As long as we have a purchase package underway (preferably accepted), that is critical.\n\n\nThe best resource is AFSC Purchasing Open Access/Publication Page Fees.",
+    "crumbs": [
+      "<span class='chapter-number'>13</span>  <span class='chapter-title'>Publication Process</span>"
+    ]
+  },
+  {
+    "objectID": "travel.html",
+    "href": "travel.html",
+    "title": "14  Travel",
+    "section": "",
+    "text": "Discuss any work-related travel plans early (e.g., 3-4 months prior, longer for international trips) with the Program Manager.\nAfter speaking with the Program Manager, please follow the steps in the AFSC Mission Critical Travel Process Flowchart.\nAFSC Travel Card Instructions You must have a travel card. All travel card and non-travel card holders should follow the link above and follow the instructions.",
+    "crumbs": [
+      "<span class='chapter-number'>14</span>  <span class='chapter-title'>Travel</span>"
+    ]
+  },
+  {
+    "objectID": "facilities.html",
+    "href": "facilities.html",
+    "title": "15  Facilities",
+    "section": "",
+    "text": "AFSC buildings on the Seattle Sand Point Campus (a.k.a. Western Regional Center [WRC]) are only accessible during work hours and with a CAC.\nMap of NOAA Sand Point Seattle Campus\nThere is a cafeteria in Building 2 that offers snacks and drinks (coffee, tea, etc.). Full lunch meals are no longer offered. As of r Sys.Date() WRC is experimenting with food trucks on campus on T,W, & Th, 1100-1330, located in the upper parking lot of Building 3. Eventually there will be a Food Truck calendar.\n\nOffice space\nOur physical offices are in Building 4 of the WRC.\nThe following are FMA A-Team (and affiliated staff) office numbers:\n\n1060 - Jason Jannot, FMA Analytical Services Program Manager\n1065 - Christian Gredzens, Research Fishery Biologist, NOAA\n1057 - Andy Kingham, Operations Analyst, NOAA\n1057 - Geoff Mayhew, Research Fishery Biologist, NOAA\n1041 - Craig Faunce, Research Fishery Biologist, NOAA\n1089 - Jennifer Cahalan, Statistician/Analyst, PSMFC\n\nAffiliated staff\n\nAlaska Regional Office (AKRO) Juneau A-Team collaborators\n\nPhil Ganz\n\nJason Gasper\n\n\nOther FMA staff offices\n\n1061 - Lisa Thompson, FMA Deputy Director\n1062 - Marlon Conception, FMA Debriefing Program Manager\n1063 - Brian Mason, FMA Training Program Manager\n\n\n\nReservations - Rooms & Vehicles\nReservations for rooms or government vehicles can be found here\n\n\nParking\nTo obtain either a vehicle or a bike parking pass for the Seattle Sand Point Campus, contact Pass & ID Security Office in Building 1 (206-526-6571). You will need to fill out a WRC Parking Form.\n\n\nTransit Benefits for Bicyclists\n\nFederal employees only\nAllows for reimbursement to employees who use a non-motorized bicycle for a substantial portion of travel between your residence and the work site. Reimbursement can be up to $20 per month, not to exceed $240 per calendar year for bicycle commuting expenses.\nMore information on bike benefits and instructions.\n\n\n\nTransportation Subsidy\n\nFederal employees only\nNOAA offers this non-taxable transit-fare subsidy program to encourage federal employees to use public mass transportation while commuting to and from work. Qualified employees are provided with a monthly benefit based on the distance to and from work. The monthly maximum subsidy transit benefit allowance is $270. Unused benefits do not carry over to the next month.\nMore information on the transit subsidy program and application.",
+    "crumbs": [
+      "<span class='chapter-number'>15</span>  <span class='chapter-title'>Facilities</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html",
+    "href": "offboarding.html",
+    "title": "16  Offboarding",
+    "section": "",
+    "text": "Exit Interview\nSet up a dedicated time to meet with the A-Team PM to talk about your time in FMA, and to go through the appropriate checklist above. Besides the checklist, things to talk about include the best part of being part of the FMA A-Team, whether you got the support you needed and what could we improve for someone in your role in the future.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#project-documentation",
+    "href": "offboarding.html#project-documentation",
+    "title": "16  Offboarding",
+    "section": "Project Documentation",
+    "text": "Project Documentation\nProject work should be hosted in the A-Team Github repository and saved on the FMA Analytics Group Google drive.\nEach project should have an easily found README text file that provides information for others so they can navigate and use your work, and give contact information for authors (and any data creators/use restrictions if confidential data). Ideally, the README should also include links to publications and presentations from the work.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#publications-and-presentations",
+    "href": "offboarding.html#publications-and-presentations",
+    "title": "16  Offboarding",
+    "section": "Publications and Presentations",
+    "text": "Publications and Presentations\nEnsure that publications and presentations from your projects are archived in the appropriate folder in the FMA Analytics Group Google drive.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#data",
+    "href": "offboarding.html#data",
+    "title": "16  Offboarding",
+    "section": "Data",
+    "text": "Data\nData used in support of your projects should be:\n\nSaved in appropriate, non-proprietary format with accompanying metadata\nNot included/hosted on github or any other public repository (unless non-confidential/anonymized)\n\nAccessible to A-Team members.\nBriefly described in the project README.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#code",
+    "href": "offboarding.html#code",
+    "title": "16  Offboarding",
+    "section": "Code",
+    "text": "Code\nCode used or developed for your projects should be:\n\ncomplete and well-documented, including information in a README about what each file does and workflow to run the code.\nhosted in the A-Team Github repository and saved on the FMA Analytics Group Google drive.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#turning-in-equipment",
+    "href": "offboarding.html#turning-in-equipment",
+    "title": "16  Offboarding",
+    "section": "Turning in equipment",
+    "text": "Turning in equipment\nReturn all equipment (e.g., computer and peripherals) you have been using to the A-Team PM. Ensure all office furniture is present and remains in your office.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "offboarding.html#terminating-access",
+    "href": "offboarding.html#terminating-access",
+    "title": "16  Offboarding",
+    "section": "Terminating Access",
+    "text": "Terminating Access\n\nAccess to your @noaa.gov account will terminate on your last day. Transfer ownership of Google Docs to the A-Team PM.\nCAC access to the NOAA facilities and computers will be terminated when you leave Federal service. Ensure you have all your personal belongings prior to your last day.",
+    "crumbs": [
+      "<span class='chapter-number'>16</span>  <span class='chapter-title'>Offboarding</span>"
+    ]
+  },
+  {
+    "objectID": "psychological-safety-resources.html",
+    "href": "psychological-safety-resources.html",
+    "title": "Appendix A — Psychological Safety",
+    "section": "",
+    "text": "Reporting Harassment\nIf you are being harassed by a member of the FMA A-Team, notice that someone else is being harassed, or have any other concerns, please contact the FMA Analytical Services Program Manager, Dr. Jason Jannot, at jason.jannot@noaa.gov. If you do not feel comfortable reporting to Jason, please contact Jennifer Ferdinand (FMA Division Director) or Lisa Thompson (FMA Deputy Director) or any other AFSC supervisor. Other methods of reporting available to you include:\nIn addition to the AFSC’s Code of Conduct, the Dec. 8th 2022 Policy Statement on Equal Employment Opportunity from NOAA provides a good explanation of NOAA’s stance and policies against harassment, discrimination, and violence in the workplace.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Psychological Safety</span>"
+    ]
+  },
+  {
+    "objectID": "psychological-safety-resources.html#reporting-harassment",
+    "href": "psychological-safety-resources.html#reporting-harassment",
+    "title": "Appendix A — Psychological Safety",
+    "section": "",
+    "text": "NOAA Sexual Assault Sexual Harassment Helpline\nNOAA Workplace Violence Prevention and Response Program\nNOAA Workforce Management Office\nNOAA Office of Inclusion and Civil Rights",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Psychological Safety</span>"
+    ]
+  },
+  {
+    "objectID": "psychological-safety-resources.html#summaries-handouts",
+    "href": "psychological-safety-resources.html#summaries-handouts",
+    "title": "Appendix A — Psychological Safety",
+    "section": "Summaries & Handouts",
+    "text": "Summaries & Handouts\n\nThe Openscapes talk on Psychological Safety in open data science teams by Tara Robertson (there is also a resource list at the end of this slide deck!)\n\nWorksheet from NOAA Psychological Safety training",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Psychological Safety</span>"
+    ]
+  },
+  {
+    "objectID": "psychological-safety-resources.html#books",
+    "href": "psychological-safety-resources.html#books",
+    "title": "Appendix A — Psychological Safety",
+    "section": "Books",
+    "text": "Books\n\nFeminist Fight Club talks about how members of the group can hand the mic back if it’s taken away, giving credit, support quieter members, etc. It is focused on women supporting women, not Psych Safety specifically.\nThis Chair Rocks by Ashton Applewhite (and her TED talk [12 mins])",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Psychological Safety</span>"
+    ]
+  },
+  {
+    "objectID": "psychological-safety-resources.html#studies",
+    "href": "psychological-safety-resources.html#studies",
+    "title": "Appendix A — Psychological Safety",
+    "section": "Studies",
+    "text": "Studies\n\nCanadian study “The Tallest Poppy” from the Women of Influence group\nPaper: “Know Before You Go: A Community-Derived Approach to Planning for and Preventing Sexual Harassment at Oceanographic Field Sites.”",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Psychological Safety</span>"
+    ]
+  },
+  {
+    "objectID": "psychological-safety-resources.html#videos",
+    "href": "psychological-safety-resources.html#videos",
+    "title": "Appendix A — Psychological Safety",
+    "section": "Videos",
+    "text": "Videos\nBrene Brown’s TED talk on vulnerability (20 mins)",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>A</span>  <span class='chapter-title'>Psychological Safety</span>"
+    ]
+  },
+  {
+    "objectID": "wellness-resources.html",
+    "href": "wellness-resources.html",
+    "title": "Appendix B — Wellness Resources",
+    "section": "",
+    "text": "NOAA provides an array of resources in the area of health and wellness.\n\nNOAA ADR Program uses two approaches for early intervention and dispute resolution, which are mediation and facilitated problem-solving.\nFederal Occupational Health (FOH) supports programs to improve the health, safety, and productivity of the federal workforce through webinars and activities (i.e., Creating Belonging through Psychological Safety, Social Security Retirement, etc.).\nMindful NOAA offers mindfulness practices and educational opportunities to improve workplace culture through employee health, resilience, performance, and leadership.\nReasonable Accommodations allows employees to request a change or modification in the work environment or in the way things are customarily done.\nNOAA Nursing Mother’s Program serves to offer the emotional support and work-site assistance nursing mothers need as they transition back into the workplace.\nNOAA Workplace Violence Prevention & Response Program works to establish a culture of professionalism and respect through: violence prevention and response; education and training; victim support; reporting procedures; and appropriate accountability that enhances the safety and well-being of all NOAA employees, affiliates, and visitors.\nNOAA Sexual Assault Sexual Harassment (SASH) offers a helpline phone: 866-288-6555, option 1, text: 202-335-0265, NOAA online chat, and reporting email: noaa.victimservices@noaa.gov.\nWorkLife4You helps you and your household better manage daily responsibilities and life events.\nDrug Free Workplace is a condition of employment for all federal employees to refrain from using illegal drugs on or off-duty.\nEmployee Assistance Program (EAP) provides services — including counseling sessions and advice on a wide range of issues — to create a positive and productive work environment for all employees and their managers.\nNOAA Behavioral Health and Wellness provides training, information, services, and resources on a wide range of behavioral health and wellness topics.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>B</span>  <span class='chapter-title'>Wellness Resources</span>"
+    ]
+  },
+  {
+    "objectID": "fishery-background.html",
+    "href": "fishery-background.html",
+    "title": "Appendix C — Alaska Fishery Background",
+    "section": "",
+    "text": "Alaska Fishing Fleet Profiles An older publication (2012) with information about the fishing fleets prosecuting federally managed fisheries off Alaska.\n\nA basic understanding of Alaska fisheries can be gained by reading the Summary of Management Measures in the Executive Summary section of the various Fishery Management Plans (FMPs):\n\nBSAI Groundfish FMP\nGOA Groundfish FMP\nCrab FMP\nOther Alaska FMPs\n\nAlaska Fishery Ecosystem Plans, Amendments to FMPs, and Conservation Area Summaries can be found at this link.\nA History of Federal Marine Fisheries Research in Alaska is an eBook presenting historical timelines and accounts of the Alaska Fisheries Science Center as well as fisheries research in Alaska.\n\nNorth Pacific Observer Program\nNPOP Publications\nNPOP Observer Manual\nNOAA Fisheries Fishery Observers\nNOAA Fisheries Bycatch and Prohibited Species Catch in Groundfish and Shellfish Fisheries in Alaska\nNOAA Fisheries Seabird Bycatch in Alaska\nNOAA Fisheries Electronic Monitoring in Alaska\n\n\nNorth Pacific Fishery Management Council (NPFMC)\nThe NPFMC website has lots of information, background and history related to Alaska Fisheries. In particular, you might want to peruse their on-line library.\nBoth past and current NPFMC meeting agendas, along with past and current agendas for Plan Teams, SSC, and other Council bodies can be found here.\n\n\nStock Assessment\nCurrent BSAI and GOA SAFE Reports\nA Guide to Stock Assessment of Bering Sea and Aleutian Islands Groundfish\nFish Stock Assessment 101\nThe ABC’s of Stock Assessments(a video)\n\n\nFishery Management\nNOAA Fisheries Sustainable Fisheries Management\nUnderstanding Fisheries Management in the US\nStatus of US Fisheries",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>C</span>  <span class='chapter-title'>Alaska Fishery Background</span>"
+    ]
+  },
+  {
+    "objectID": "observer-training-classes.html",
+    "href": "observer-training-classes.html",
+    "title": "Appendix D — Observer Training Classes",
+    "section": "",
+    "text": "The FMA holds the introductory 3-week observer trainings monthly from December to August. All are conducted in room 1055 of Building 4 (Seattle). The materials are consistent throughout the year so you can attend portions of different classes as needed to work with your schedule. Talk with the A-Team Program Manager and/or the Training Team Program Manager, Brian Mason.\n\nSchedule for 2024 3-week observer trainings.\n\n\nYear\nDates\nDays\nLocation\n\n\n\n\n2023\nNov 27 - Dec 15\nM-F\nSeattle\n\n\n2023-24\nDec 21 - Jan 16\nTh-Tues\nRemote/Seattle\n\n\n2024\nFeb 26 - Mar 15\nM-F\nSeattle\n\n\n2024\nApr 1-19\nM-F\nSeattle\n\n\n2024\nMay 16 - June 6\nTh-Tues\nSeattle\n\n\n2024\nJune 10 - July 1\nM-M\nSeattle\n\n\n2024\nJuly 8-26\nM-F\nSeattle\n\n\n2024\nAug 12-30\nM-F\nSeattle\n\n\n\nThe full schedule can be found here.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>D</span>  <span class='chapter-title'>Observer Training Classes</span>"
+    ]
+  },
+  {
+    "objectID": "NOAA-AFSC-FMA-resources.html",
+    "href": "NOAA-AFSC-FMA-resources.html",
+    "title": "Appendix E — NOAA, AFSC, FMA Resouces",
+    "section": "",
+    "text": "NOAA\nNOAA’s Vision and Mission",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>NOAA, AFSC, FMA Resources</span>"
+    ]
+  },
+  {
+    "objectID": "NOAA-AFSC-FMA-resources.html#afsc",
+    "href": "NOAA-AFSC-FMA-resources.html#afsc",
+    "title": "Appendix E — NOAA, AFSC, FMA Resouces",
+    "section": "AFSC",
+    "text": "AFSC\nAFSC Intranet\n\nStrategic Science Plans\nAFSC Strategic Science Plans define vision, mission, core values, goals and objectives for a 5 year period.\nFY2023-FY2027\n\n\nAnnual Guidance Memos\nAnnual Guidance Memorandums prioritize activities for a single year to meet the objectives in the Strategic Science Plan.\nFY2024\nFY2023",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>NOAA, AFSC, FMA Resources</span>"
+    ]
+  },
+  {
+    "objectID": "NOAA-AFSC-FMA-resources.html#fma",
+    "href": "NOAA-AFSC-FMA-resources.html#fma",
+    "title": "Appendix E — NOAA, AFSC, FMA Resouces",
+    "section": "FMA",
+    "text": "FMA\nFMA Activity Plans\nOverview of the North Pacific Observer Program (NPOP)\nNPOP Observer Manual\nNPOP Publications",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>E</span>  <span class='chapter-title'>NOAA, AFSC, FMA Resources</span>"
+    ]
+  },
+  {
+    "objectID": "more-git.html",
+    "href": "more-git.html",
+    "title": "Appendix F — More Git",
+    "section": "",
+    "text": "To remove a file from Tracking that is already being tracked\n!!!! IMPORTANT NOTE !!!! ==&gt; The following steps will completely remove the files on all remotes once they checkout a branch that contains this change. The files will only exist in your local repo. (Of course you can always push them back up if anyone complains…)",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Git Tips</span>"
+    ]
+  },
+  {
+    "objectID": "more-git.html#to-remove-a-file-from-tracking-that-is-already-being-tracked",
+    "href": "more-git.html#to-remove-a-file-from-tracking-that-is-already-being-tracked",
+    "title": "Appendix F — More Git",
+    "section": "",
+    "text": "Move the file outside the git repository, i.e., save to your local machine/Desktop\n\nAdd all the file/folder names that you want to stop tracking in the repo but keep locally to .gitignore.\n\nOn the command line, execute\n\nFor a file: $git rm --cached put/here/your/file.ext\n\nFor a folder: $git rm --cached folder/\\* (if the files are in a folder you need to use /* to escape the *)\n\n\nCommit your changes:\n\n$git commit -m “&lt;Message&gt;”\n\nPush to remote.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Git Tips</span>"
+    ]
+  },
+  {
+    "objectID": "more-git.html#to-completely-remove-an-item-from-the-repo",
+    "href": "more-git.html#to-completely-remove-an-item-from-the-repo",
+    "title": "Appendix F — More Git",
+    "section": "To completely Remove an item from the repo",
+    "text": "To completely Remove an item from the repo\n\nOn your local machine, navigate to file and delete it\n\nThe git status should show that file was deleted.\n\n\nStage all uncommitted changes ($git add -u)\n\nCommit the deletion ($git commit -m &lt;commit message&gt;)\n\nView changes on the branch ($git log –online)\n\nensure local main is up-to-date with remote main ($git checkout main; $git pull origin main)\n\nEnsure your branch is up-to-date with your local main ($git checkout &lt;your-branch-name&gt;; $git merge main)\n\nPush your changes to the remote ($git push origin &lt;your-branch-name&gt;)",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Git Tips</span>"
+    ]
+  },
+  {
+    "objectID": "more-git.html#publish-to-gh-pages",
+    "href": "more-git.html#publish-to-gh-pages",
+    "title": "Appendix F — More Git",
+    "section": "Publish to gh-pages",
+    "text": "Publish to gh-pages\nTo create new GitHub page:\n\nCreate a gh-pages branch using the terminal. In the terminal:\n\n$ git checkout --orphan gh-pages\n\n$ git reset -- hard !! Make sure all changes have been committed !!\n\n$ git commit --allow-empty -m \"Initializing gh-pages branch\"\n\n$ git push origin gh-pages\n\n\nIn GitHub\n\nSettings ==&gt; Pages ==&gt; set\n\nSource ==&gt; Deploy from Branch\n\nBranch ==&gt; gh-pages/root\niii Save\n\n\n\n.gitignore - If this is a quarto document, be sure that you ignore the source folder, e.g., _book, _site, etc. and remove from tracking in the terminal by $ git rm -r _book.\n\n_quarto.yml - Ensure that any “site” or “repo” tags are associated with the correct URLs.\n\nIn the terminal, $ quarto publish gh-pages\n\nCould take a few minutes to complete deployment, refresh browser to see site.\n\n\nTo update already existing gh-pages\n\nMake changes, commit, and push to main\nIn the terminal, $ quarto publish gh-pages\n\nCould take a few minutes to complete deployment, refresh browser to see site.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Git Tips</span>"
+    ]
+  },
+  {
+    "objectID": "more-git.html#incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository",
+    "href": "more-git.html#incorporate-an-existing-repository-tags-and-history-within-a-subfolder-of-a-parent-repository",
+    "title": "Appendix F — More Git",
+    "section": "Incorporate an existing repository, tags, and history within a subfolder of a parent repository",
+    "text": "Incorporate an existing repository, tags, and history within a subfolder of a parent repository\nThis is example code from Craig Faunce. The example code does it on a separate branch. In this example the parent is MAIN-REPORT and the subfolder is chapter-1, but the example below ‘chapter1’ is an alias used. I used this to include the Ann-Deployment chapter from github into my local version of the enterprise repository annual-report, and then push to enterprise cloud as a separate branch. The code below was used as a template.\n\n1. Clone MAIN-REPORT (LOCAL)\ngit clone git@github.your-enterprise.com:&lt;group&gt;/MAIN-REPORT.git\ncd MAIN-REPORT\n\n2. Add Chapter-1 as a new remote (LOCAL)\nIf Chapter-1 is also on Enterprise, change the URL accordingly.\ngit remote add chapter1 git@github.com:&lt;user&gt;/Chapter-1.git\n\n\n3. Fetch every branch AND every tag from the new remote (LOCAL)\ngit fetch chapter1 --tags\n- this took a while with Ch3!\n\n\n4. Create a work branch to stage the import (LOCAL)\ngit checkout -b merge-chapter1\n- the new branch is called ‘merge-chapter1’ here\n\n\n5. Import Chapter-1 into a sub-folder while preserving full history (LOCAL)\ngit subtree add --prefix=Chapter-1 chapter1 main\n- use ‘master’ if needed, as was the case for chapter 3.\n\n\n6. Quick sanity check (LOCAL)\ngit log --oneline --graph --decorate --all | head\n- should show all commits.\n\n\n7. Push the work branch and tags to Enterprise (LOCAL)\ngit push origin merge-chapter1\ngit push origin --tags - optional but recommended\n\n\n8. Open a Pull Request to merge ‘merge-chapter1’ into MAIN-REPORT’s main branch (GUI)\nReview, approve, and merge as usual.\n\n\n9. House-cleaning after the PR is merged (LOCAL)\ngit checkout main - or ‘master’\ngit pull origin main\ngit branch -d merge-chapter1\ngit remote remove chapter1 - optional cleanup",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>F</span>  <span class='chapter-title'>Git Tips</span>"
+    ]
+  },
+  {
+    "objectID": "jjphilosophy.html",
+    "href": "jjphilosophy.html",
+    "title": "Appendix G — Jason Jannot’s Leadership Philosophy",
+    "section": "",
+    "text": "Jason’s philosophy is that the best leaders are capable of adjusting their leadership style depending on the situation, their team, and the needs of particular projects. The best thing a leader can do is to identify the needs of their team to support them in a way that allows them to thrive.\nHowever, Jason’s default style tends to be that of a servant leader. While he might adopt other leadership styles depending on the situation, servant leadership guides his daily leadership style.\nJason has been inspired by David Marquet’s story:\n\nas well as by Simon Sinek:",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>G</span>  <span class='chapter-title'>Jason's Philosophy</span>"
+    ]
+  },
+  {
+    "objectID": "make-calendar-visible.html",
+    "href": "make-calendar-visible.html",
+    "title": "Appendix H — Make G-Calendar Visible",
+    "section": "",
+    "text": "On left side find your calendar and hover to get the 3 dots\n\n\n\nClick settings and sharing\n\n\n\nMake sure to check “Make available for National Oceanic and Atmospheric Administration” and select “See all event details” in the drop down.\n\n\nThat should do it.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>H</span>  <span class='chapter-title'>Make Your Calendar Visible</span>"
+    ]
+  },
+  {
+    "objectID": "acronyms.html",
+    "href": "acronyms.html",
+    "title": "Appendix I — Acronyms",
+    "section": "",
+    "text": "The US Government is absolutely slaphappy about acronyms.\n\n\n\n\n\n\n\nAcronym\nDefinition\n\n\n\n\nAFSC\nAlaska Fisheries Science Center\n\n\nAKRO\nAlaska Regional Office\n\n\nAMMOP\nAlaska Marine Mammal Observer Program\n\n\nA-Team\nFMA Analytical Services Program\n\n\nBSAI\nBering Sea Aleutian Islands\n\n\nCAC\nCommon Access Card, a.k.a., your “ID badge”\n\n\nDD\nDivision Director\n\n\nFMA\nFisheries Monitoring and Analysis Division\n\n\nFMAC\nFishery Monitoring Advisory Committee\n\n\nGOA\nGulf of Alaska\n\n\nM-Team\nFMA Management Team = DD, Deputy Director, Debriefing PM, Training PM, Analytical Services PM\n\n\nNPFMC\nNorth Pacific Fishery Management Council\n\n\nNPOP\nNorth Pacific Observer Program\n\n\nOOO\nOut Of Office\n\n\nPCFMAC\nPartial Coverage Fishery Monitoring Committee\n\n\nPM\nProgram Manager\n\n\nPSMFC\nPacific States Marine Fisheries Commission (colloquially, PacStates)\n\n\nSON\nStatement of Nondisclosure for Using Confidential Fisheries Data\n\n\nWRC\nWestern Regional Center, a.k.a., the Sand Point Seattle Campus\n\n\n\n\nReferences\n\n\nWilson, Greg, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex\nNederbragt, and Tracy K. Teal. 2017. “Good Enough Practices in\nScientific Computing.” Edited by Francis Ouellette. PLOS\nComputational Biology 13 (6): e1005510. https://doi.org/10.1371/journal.pcbi.1005510.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>I</span>  <span class='chapter-title'>Acronyms</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Appendix J — Contributing",
+    "section": "",
+    "text": "How to Contribute\nThis document describes how to contribute to this project.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#code-of-conduct",
+    "href": "contributing.html#code-of-conduct",
+    "title": "Appendix J — Contributing",
+    "section": "Code of Conduct",
+    "text": "Code of Conduct\nThis project and everyone participating in it is governed by the AFSC Code of Conduct as well as the Github and Git Guidance and Best Practices for NMFS Users. By contributing to this project you agree to abide by these terms.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#team-members",
+    "href": "contributing.html#team-members",
+    "title": "Appendix J — Contributing",
+    "section": "Team members",
+    "text": "Team members\nLead: Jason E. Jannot, NOAA Fisheries AFSC FMA Division, Seattle, WA.\nContributors:\n\nJennifer Cahalan, Pacific States Marine Fisheries Commission and AFSC FMA Division, Seattle, WA\nCraig Faunce, NOAA Fisheries AFSC FMA Division, Seattle, WA\nPhil Ganz, NOAA Fisheries Alaska Region Office, Seattle, WA\nChristian Gredzens, NOAA Fisheries AFSC FMA Division, Seattle, WA\nAndy Kingham, NOAA Fisheries AFSC FMA Division, Seattle, WA\nGeoff Mayhew, NOAA Fisheries AFSC FMA Division, Seattle, WA",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#getting-started",
+    "href": "contributing.html#getting-started",
+    "title": "Appendix J — Contributing",
+    "section": "Getting Started",
+    "text": "Getting Started\n\nMake sure you have a GitHub account.\nClone the repository from GitHub to your local machine.\nQuestions? email jason.jannot@noaa.gov",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#git-workflow-for-collaborating",
+    "href": "contributing.html#git-workflow-for-collaborating",
+    "title": "Appendix J — Contributing",
+    "section": "Git Workflow for Collaborating",
+    "text": "Git Workflow for Collaborating\nA Git workflow is a recommendation for how to use Git to accomplish work in a consistent and productive manner. The goals is that the workflow enhances the effectiveness of the team and does not limit productivity. A good workflow proactively reduces the number of merge conflicts and merges that need to be reverted. The choice of workflow by a team should be a joint decision. Jason’s recommendation is to use the GitFlow workflow because it accomplishes two important, but somewhat competing, tactics to reduce merge conflicts when collaborating with git:\n\nBranch life should be minimized The risk of merge conflicts increase in proportion to the time the branch has been separate from the main branch. Short-lived branches promote cleaner merges.\nBranches should be tested before merging Testing a branch before merging into the main branch reduces problems. However, accidents happen, thus a good workflow allows for easy reverts that don’t cause issues for other contributors.\n\nHaving said all that, I welcome all discussions on how to best develop our Git workflow! - Jason.\nFor those interested a comparison of Git workflows can be found here.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#data",
+    "href": "contributing.html#data",
+    "title": "Appendix J — Contributing",
+    "section": "Data",
+    "text": "Data\nNo PII or BII data or data that could identify fishers, individual fishing locations, or individual processors should be saved to this repository. Any such data will be removed immediately. For further guidance see: Github and Git Guidance and Best Practices for NMFS Users.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#fixing-typos",
+    "href": "contributing.html#fixing-typos",
+    "title": "Appendix J — Contributing",
+    "section": "Fixing typos",
+    "text": "Fixing typos\nYou can fix typos, spelling mistakes, or grammatical errors in the documentation directly using the GitHub web interface, as long as the changes are made in the source file. This generally means you’ll need to edit roxygen2 comments in an .R, not a .Rd file. You can find the .R file that generates the .Rd by reading the comment in the first line.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#bigger-changes",
+    "href": "contributing.html#bigger-changes",
+    "title": "Appendix J — Contributing",
+    "section": "Bigger changes",
+    "text": "Bigger changes\nIf you want to make a bigger change, it’s a good idea to first file an issue and make sure someone from the team agrees that it’s needed. If you’ve found a bug, please file an issue that illustrates the bug with a minimal reprex (this will also help you write a unit test, if needed). See the tidyverse guide on how to create a great issue for more advice. Other sources for issue best practices are described in various places on the web, such as here and here.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#making-changes",
+    "href": "contributing.html#making-changes",
+    "title": "Appendix J — Contributing",
+    "section": "Making Changes",
+    "text": "Making Changes\nThe following uses the Gitflow method as the workflow.\n\nClone the package onto your computer. If you haven’t done this before, we recommend using usethis::create_from_github(\"&gt;&gt;_INSERT_PATH_TO_FILE&lt;&lt;\", fork = TRUE).\nPull the most recent code.\nCreate a Git branch for your pull request (PR). We recommend using usethis::pr_init(\"brief-description-of-change\").\nMake your changes.\nCommit your changes. See the Git Commit Messages styleguide below.\nPush your changes to the remote Github repository.\nGo to Github and create a ‘pull request’ e.g., by running usethis::pr_push(), and following the prompts in your browser. The title of your PR should briefly describe the change. See the Pull Requests Messages section below.\nAssign a reviewer.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#styleguides",
+    "href": "contributing.html#styleguides",
+    "title": "Appendix J — Contributing",
+    "section": "Styleguides",
+    "text": "Styleguides\n\nGit Commit Messages\nAs a general rule, you should commit when you finish something that allows your code to work - usually ends up being a couple times an hour.\n\nUse the present tense (“Add feature” not “Added feature”)\nUse the imperative mood (“Move cursor to…” not “Moves cursor to…”)\nLimit the first line to 72 characters or less\nReference issues and pull requests liberally after the first line\n\n\n\nPull Requests Messages\nFor general guidelines, please see Github’s Pull Request page.\nIn the message, please include the following headers:\n\nDescription of the Issue or New Feature\nDescription of What Has Been Done\nUsage\n\nExamples and/or how others might test the change\n\nAssign a Reviewer - this will most likely be the Merge Master. In the case of the Merge Master, this will be another appropriate contributor.\n\nsee also: Pull Requests\n\n\nCoding conventions\nStart reading our code and you’ll get the hang of it. We optimize for readability.\n\nScripts should not be longer than 400-600 lines.\nWe use roxygen2, with Markdown syntax, for documentation.\nNever use rm(list = ls()) Why, you ask? Well first off, Jenny Bryan is likely to come set your computer on fire. More specifically, it mixes your workflow (i.e., personal choices) with the product (i.e., the R code needed by someone else to run your code). See Jenny’s in-depth discussion at the link above.\nWrite functions. There’s a good chance that your script can be simplified into a function. “Everything that happens is a function call.” - John Chambers\nAlways put spaces after list items and method parameters (1, 2, 3, not 1,2,3) and around operators (x + y = 1, not x+y=1).\nEliminate unnecessary white space. I realize this conflicts with the previous statement, but I’m comfortable with that ambiguity.\nUse a styler and IDE to keep your code clean. stylr is a good R package for keeping your code tidy and easy to use.\ntidyverse methods, especially those using pipes, %&gt;%, increase readability and make reviewing code much more pleasant.\nWhen in doubt, consult the tidyverse style guide\n\nThis is collaborative software. Consider the people who will read your code, and make it look nice for them. It’s sort of like driving a car: Perhaps you love doing donuts when you’re alone, but with passengers the goal is to make the ride as smooth as possible.\n\n\nFile structure and conventions\nKeeping a tidy project requires maintaining order amongst files.\n\nGeneral folder structure is:\n\n– root\n\n– data\n– figures\n– notes\n– R\n– scripts\n– tables\n– tests (optional)\n\n\nroot directory in addition to holding the folders (above), should only contain configuration and R package files.\ndata - holds any data files used in the project.\nfigures - holds any figure files created by the project.\nnotes - holds TODO.Rmd, Notes.Rmd, SCRATCH.R/.Rmd and reusable templates (for Roxygenating functions, headers for commenting code) or example code. The TODO.Rmd is being worked on and what has recently been done and should closely mirror Git commits. Notes.Rmd is more narrative than TODO and contains important information that is too detailed/complex for a vignette. Scratch files are sandboxes for working out code.\nR - should hold only functions. Each function should be called &lt;my-special-function-name&gt;_function.R.\nscripts - these are the scripts that run the analysis. Each script name should start with a number in the order the scripts are to be run. The first script in the sequence is typically 0_Setup.R. Setup.R sets the paths for the project (this makes it reproducible on your machine!), loads all necessary libraries, date constants, functions, and data. The next script in the sequence might be, e.g., 1_Pre_Processing.R, followed by 2_Data_Wrangling.R, 3_Analysis.R, 4_Plots.R…note: these are just examples.\ntables - holds any tables generated by the scripts.\ntests - any unit tests that might be applicable. This is optional.",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  },
+  {
+    "objectID": "contributing.html#reviewing-pull-requests",
+    "href": "contributing.html#reviewing-pull-requests",
+    "title": "Appendix J — Contributing",
+    "section": "Reviewing Pull Requests",
+    "text": "Reviewing Pull Requests\n\nOpen the pull request\nReview the code changes\nReviewer - provide comments and feedback in GitHub\nOriginator - respond to comments, perhaps add comments\nApprove changes (upper right corner) and add approval comment\nMerge Master/Code owner merges all pull requests! Please do not merge your own pull request. If the Merge Master is pushing code, then the reviewer should be responsible for merging the pull request.\nMergeMaster will delete the branch once the code has been merged.\nDONT FORGET TO PULL the new code to your local instance to get latest code.\n\nsee also: How to Review a Pull Request\n\n\n\n\nIf you have further questions, contact: Jason Jannot jason.jannot@noaa.gov",
+    "crumbs": [
+      "Appendices",
+      "<span class='chapter-number'>J</span>  <span class='chapter-title'>Contributing</span>"
+    ]
+  }
+]
