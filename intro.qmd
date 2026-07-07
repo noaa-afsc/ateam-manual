@@ -34,7 +34,7 @@ Background on the history, science, and management of Alaska fisheries and the N
 :::{.column width="70%"}
  
  [**Jason Jannot, Program Manager**](https://www.fisheries.noaa.gov/contact/jason-e-jannot)    
-  Currently Acting FMA Deputy Director    
+  Analytical Services Program Manager    
   Supervisory Research Fishery Biologist (NMFS)    
   AFSC, Seattle
   Building 4, Office 1060
@@ -274,7 +274,8 @@ Background on the history, science, and management of Alaska fisheries and the N
 
 *Other FMA staff offices*
 
-* 1061 - [Lisa Thompson, Acting FMA  Director](https://www.fisheries.noaa.gov/contact/lisa-thompson)
+* 1059 - [Sean Lucey, FMA Division Director](https://www.fisheries.noaa.gov/contact/sean-lucey)
+* 1061 - [Lisa Thompson, FMA Deputy Director](https://www.fisheries.noaa.gov/contact/lisa-thompson)
 * 1062 - [Marlon Conception, Debriefing Program Manager](https://www.fisheries.noaa.gov/contact/marlon-concepcion)
 * 1063 - [Brian Mason, FMA Training Program Manager](https://www.fisheries.noaa.gov/contact/brian-mason)
 
