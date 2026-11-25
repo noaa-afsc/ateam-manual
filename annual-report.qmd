@@ -67,30 +67,30 @@
 # 4. Key Dates
 
 
-| Task                                           | Feb | Mar | Apr | 1st week May | 2nd week May | 3rd week May | 4th week May | 1st week June | 2nd week June   |
-| -------------------------------------------------- | ------- | ------- | ------- | ---------------- | ---------------- | ---------------- | ---------------- | ----------------- | ------------------- |
+| Task                                           | *Jan* | *Feb* | *Mar* | *1st week April* | *2nd week April* | *3rd week April* | *4th week April* | *1st week May* | *2nd week May*   | *3rd week May*   |
+| -------------------------------------------------- | ------- | ------- | ------- | ---------------- | ---------------- | ---------------- | ---------------- | ----------------- | ------------------- |----|
 | Convene FMA-only Kick off meeting                  | X       |         |         |                  |                  |                  |                  |                   |                     |
 | Request EM Budget info from PSFMC                  | X       |         |         |                  |                  |                  |                  |                   |                     |
 | Convene FMA-AKRO Kick-off meeting                  |         | X       |         |                  |                  |                  |                  |                   |                     |
-| Bi-weekly Meetings                                 |         | X       | X       |                  |                  |                  |                  |                   |                     |
-| Chapter work                                       |         | X       | X       |                  |                  |                  |                  |                   |                     |
-| Draft Complete                                     |         |         |         | X                |                  |                  |                  |                   |                     |
-| Draft final edits, Word version, &  508 compliance |         |         |         |                  | X                |                  |                  |                   |                     |
-| Draft FMAC Presentation                            |         |         |         |                  | X                |                  |                  |                   |                     |
-| Presentation Approval from AFSC                    |         |         |         |                  | X                |                  |                  |                   |                     |
-| Post to FMAC Agenda                                |         |         |         |                  | X                |                  |                  |                   |                     |
-| FMAC Presentation                                  |         |         |         |                  | X                |                  |                  |                   |                     |
-| Incorporate FMAC feedback                          |         |         |         |                  |                  | X                |                  |                   |                     |
-|                                                    |         | Mar | Apr | 1st week May | 2nd week May | 3rd week May | 4th week May | 1st week June | 2nd week June   |
-| Draft SSC Presentation                             |         |         |         |                  | X                | X                |                  |                   |                     |
-| Draft AP Presentation                              |         |         |         |                  | X                | X                |                  |                   |                     |
-| Draft NPFMC Presentation                           |         |         |         |                  | X                | X                |                  |                   |                     |
-| Approvals for SSC, AP, and NPFMC Presentations     |         |         |         |                  |                  | X                |                  |                   |                     |
-| Post to SSC, AP, and NPFMC Agendas                 |         |         |         |                  |                  | X                |                  |                   |                     |
-| SSC, AP, NPFMC Presentations                       |         |         |         |                  |                  |                  | X                | X                 |                     |
-|                                                    |         | Mar | Apr | 1st week May | 2nd week May | 3rd week May | 4th week May | 1st week June | 2nd week June   |
-| Incorporate Council feedback and finalize report   |         |         |         |                  |                  |                  |                  | X                 | X                   |
-| Create Cover                                       |         |         |         |                  |                  |                  |                  | X                 | X                   |
-| Submit to RPTS for Processed Report Publication    |         |         |         |                  |                  |                  |                  |                   | X                   |
-| Publish Processed Report                           |         |         |         |                  |                  |                  |                  |                   | no later than Aug 1 |
+| EM Review Deadline for PSFMC                  |       |         |Mar 1         |                  |                  |                  |                  |                   |                     |
+| FMA Data Finalized                  |       |         |1st week         |                  |                  |                  |                  |                   |                     |
+| Bi-weekly Meetings                                 |         | X       | X       |X                  |X                  |X                  |X                  |X                   |X                     |X
+| Chapter work                                       |         | X       | X       |X                  |X                  |X                  |                  |                   |                     |
+| Draft Complete                                     |         |         |         |                 |                  |X                  | X                 |                   |                     |
+| **Presentations**                                           | *Jan* | *Feb* | *Mar* | *1st week April* | *2nd week April* | *3rd week April* | *4th week April* | *1st week May* | *2nd week May*   |  *3rd week May*   |
+| Draft FMAC Presentation                            |         |         |         |                  |                 |X                  |X                  |                   |                     |                     |
+| Presentation Approval from AFSC                    |         |         |         |                  |                 |                  |X                  |                   |                     |                     |
+| Post to FMAC Agenda                                |         |         |         |                  |                 |                  | X                 | X                  |                     |                     |
+| Present to FMAC                                 |         |         |         |                  |                 |                  |                  |                   | X                    |X                     |
+| Incorporate FMAC feedback                          |         |         |         |                  |                  |                 |                  |                   |                     |X                     |
+| Draft SSC Presentation                             |         |         |        |                |                |               |                  |                   |X                     |X                     |
+| Draft AP Presentation                              |         |         |         |                  |                 |                 |                  |                   | X                    |X                     |
+| Draft NPFMC Presentation                           |         |         |         |                  |                 |                |                  |                   |X                     |X                     |
+| Approvals for SSC, AP, and NPFMC Presentations     |         |         |         |                  |                  |                |                 |                   |                     |X                     |
+| Post to SSC, AP, and NPFMC Agendas                 |         |         |         |                  |                 |                 |                  |                   |                     |X                     |
+| SSC, AP, NPFMC Presentations                       |         |         |         |                  |                  |                  |                |                  |                     |                     |X
+|**Complete Final Document**                                           | *...* | *...* | *4th week April* | *1st week May* | *2nd week May* | *3rd week May* | *4th week May* | *1st week June* | *2nd week June*   |                     |
+| Incorporate Council feedback, ensure 508 Compliance|         |         |         |                  |                  | X                 |X                  | X                 |                   |                     |
+| Submit to RPTS, Request PR#, Request DOI, Create Cover & Citation                                      |         |         |         |                  |                  |                  |                  | X                 | X                   |                     |
+| Push forward in RPTS for final approvals and NOAA IR publication    |         |         |         |                  |                  |                  |                  |                   | no later than July 1                   |                     |
 
