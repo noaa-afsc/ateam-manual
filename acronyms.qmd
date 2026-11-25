@@ -10,6 +10,7 @@ The US Government is absolutely slaphappy about acronyms.
 |A-Team|FMA Analytical Services Program|
 |BSAI|Bering Sea Aleutian Islands|
 |CAC|Common Access Card, a.k.a., your "ID badge"|
+|CIE|Center for Indepdent Experts|
 |DD|Division Director|
 |FMA|Fisheries Monitoring and Analysis Division|
 |FMAC|Fishery Monitoring Advisory Committee|
@@ -22,6 +23,7 @@ The US Government is absolutely slaphappy about acronyms.
 |PM|Program Manager|
 |PSMFC|Pacific States Marine Fisheries Commission (colloquially, PacStates)|
 |SON|Statement of Nondisclosure for Using Confidential Fisheries Data|
+|SSC|Science and Statistical Committee|
 |WRC|Western Regional Center, a.k.a., the Sand Point Seattle Campus|
 
 

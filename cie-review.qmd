@@ -1,0 +1,15 @@
+# NOAA Center for Independent Experts Review
+
+## [2026 CIE Review of NPOP ADP and Annual Report](https://noaa-afsc.github.io/CIE-Review-Observer-ADP-AnnualReport/)
+
+**From June 16th to 18th, 2026, an external independent peer review of the North Pacific Observer Program Annual Deployment Plan and Annual Report was conducted by three international scientists (Canada, France, Norway).**
+
+The 2026 CIE Review meeting materials, reviewer reports, and the NPOP responses to recommendations can be found by clicking on the link above.
+
+### Request for CIE Review
+
+In 2024, during their review of the [*2024 North Pacific Observer Program Annual Report*](https://doi.org/10.25923/nnhn-jc60), the Science and Statistical Committee (SSC) of the North Pacific Fisheries Management Council (NPFMC) recommended to the Council a review of the methods associated with the Annual Deployment Plan (ADP) by the NOAA Center for Independent Experts (CIE):
+
+“The SSC recommends that an occasional CIE (Center for Independent Experts) review be convened to review the ADP, with emphasis on novel methods such as the proximity allocation method and other elements of the Observer Program as appropriate.” - [*SSC June 2024 final report*](https://meetings.npfmc.org/CommentReview/DownloadFile?p=3f613228-e6a8-4e8b-abd6-221f9f88785a.pdf&fileName=SSC%20Report%20June%202024_FINAL.pdf)
+
+

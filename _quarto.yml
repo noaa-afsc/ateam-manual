@@ -22,6 +22,7 @@ book:
       chapters:
         - annual-deployment-plan.qmd
         - annual-report.qmd
+        - cie-review.qmd
     - the-big-picture.qmd
     - code-of-conduct.qmd
     - onboarding.qmd
